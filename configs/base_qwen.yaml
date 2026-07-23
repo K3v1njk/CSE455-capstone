@@ -1,0 +1,9 @@
+model_name: Qwen/Qwen2.5-0.5B-Instruct
+# Raised from 256 after token-length check: ATIS prompts with full
+# intent/slot label lists reach ~660 tokens; use one shared limit for both datasets.
+max_input_length: 768
+max_new_tokens: 128
+do_sample: false
+seed: 455
+# batch_size>1 produced corrupted generations on MPS; keep 1 for correctness.
+batch_size: 1

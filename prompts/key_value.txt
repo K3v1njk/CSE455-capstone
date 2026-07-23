@@ -1,0 +1,22 @@
+You are a semantic parser.
+
+Convert the user request into exactly one key-value structured output using this schema:
+
+intent=<allowed intent>
+slots=<slot_name>:<value> | <slot_name>:<value>
+
+Rules:
+- Use only the allowed intent and slot labels listed below.
+- If no slots are present, write: slots=NONE
+- Separate multiple slots with " | " (space-pipe-space).
+- Copy slot values from the request; do not invent values.
+- Return only the two lines (intent=... and slots=...). Do not include an explanation, Markdown, or code fences.
+
+Allowed intents:
+{intent_labels}
+
+Allowed slots:
+{slot_labels}
+
+User request:
+{request}

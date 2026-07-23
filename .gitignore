@@ -3,5 +3,19 @@ __pycache__/
 *.pyc
 venv/
 .venv/
+
+# Stage 1 artifacts
 stage1_model.pt
 train.txt
+
+# Hugging Face / model caches (do not commit weights)
+.cache/
+**/huggingface/
+transformers_cache/
+*.bin
+*.safetensors
+*.pt
+!loss_curve.png
+
+*.tmp
+results/base/*.bak

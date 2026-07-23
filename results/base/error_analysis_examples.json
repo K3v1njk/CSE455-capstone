@@ -1,0 +1,1562 @@
+{
+  "snips": {
+    "correct": [
+      {
+        "id": "snips-validation-342",
+        "request": "please play my ecstatic playlist",
+        "gold": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "playlist",
+              "value": "ecstatic"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"PlayMusic\",\n  \"slots\": [\n    {\n      \"name\": \"playlist\",\n      \"value\": \"ecstatic\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "playlist",
+              "value": "ecstatic"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-360",
+        "request": "play music from 1996",
+        "gold": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "year",
+              "value": "1996"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"PlayMusic\",\n  \"slots\": [\n    {\n      \"name\": \"year\",\n      \"value\": \"1996\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "year",
+              "value": "1996"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-381",
+        "request": "i want to hear anything from the rock symphonique genre please",
+        "gold": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "genre",
+              "value": "rock symphonique"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"PlayMusic\",\n  \"slots\": [\n    {\n      \"name\": \"genre\",\n      \"value\": \"rock symphonique\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "PlayMusic",
+          "slots": [
+            {
+              "name": "genre",
+              "value": "rock symphonique"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "wrong_intent": [
+      {
+        "id": "snips-validation-100",
+        "request": "book a reservation for my babies and i",
+        "gold": {
+          "intent": "BookRestaurant",
+          "slots": [
+            {
+              "name": "party_size_description",
+              "value": "my babies and i"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"baby\",\n      \"value\": \"my babies\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "baby",
+              "value": "my babies"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-101",
+        "request": "book a reservation for a restaurant not far from ma",
+        "gold": {
+          "intent": "BookRestaurant",
+          "slots": [
+            {
+              "name": "restaurant_type",
+              "value": "restaurant"
+            },
+            {
+              "name": "spatial_relation",
+              "value": "not far"
+            },
+            {
+              "name": "state",
+              "value": "ma"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"Book Restaurant\",\n  \"slots\": [\n    {\n      \"name\": \"restaurant_name\",\n      \"value\": \"Ma's\"\n    },\n    {\n      \"name\": \"city\",\n      \"value\": \"New York\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "Book Restaurant",
+          "slots": [
+            {
+              "name": "restaurant_name",
+              "value": "Ma's"
+            },
+            {
+              "name": "city",
+              "value": "New York"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-104",
+        "request": "book a reservation for 6 people for a creole tavern in montenegro",
+        "gold": {
+          "intent": "BookRestaurant",
+          "slots": [
+            {
+              "name": "party_size_number",
+              "value": "6"
+            },
+            {
+              "name": "cuisine",
+              "value": "creole"
+            },
+            {
+              "name": "restaurant_type",
+              "value": "tavern"
+            },
+            {
+              "name": "country",
+              "value": "montenegro"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"Book Restaurant\",\n  \"slots\": [\n    {\n      \"name\": \"restaurant_name\",\n      \"value\": \"Creole Tavern\"\n    },\n    {\n      \"name\": \"restaurant_type\",\n      \"value\": \"Tavern\"\n    },\n    {\n      \"name\": \"served_dish\",\n      \"value\": \"Creole Cuisine\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "Book Restaurant",
+          "slots": [
+            {
+              "name": "restaurant_name",
+              "value": "Creole Tavern"
+            },
+            {
+              "name": "restaurant_type",
+              "value": "Tavern"
+            },
+            {
+              "name": "served_dish",
+              "value": "Creole Cuisine"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-105",
+        "request": "i need a table in sacaton at a gluten free restaurant",
+        "gold": {
+          "intent": "BookRestaurant",
+          "slots": [
+            {
+              "name": "city",
+              "value": "sacaton"
+            },
+            {
+              "name": "cuisine",
+              "value": "gluten free"
+            },
+            {
+              "name": "restaurant_type",
+              "value": "restaurant"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"SearchCreativeWork\",\n  \"slots\": [\n    {\n      \"name\": \"restaurant_name\",\n      \"value\": \"Sacaton\"\n    },\n    {\n      \"name\": \"genre\",\n      \"value\": \"Gluten-free\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "SearchCreativeWork",
+          "slots": [
+            {
+              "name": "restaurant_name",
+              "value": "Sacaton"
+            },
+            {
+              "name": "genre",
+              "value": "Gluten-free"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-111",
+        "request": "book the best table in tanzania for 5 people at a diner",
+        "gold": {
+          "intent": "BookRestaurant",
+          "slots": [
+            {
+              "name": "sort",
+              "value": "best"
+            },
+            {
+              "name": "country",
+              "value": "tanzania"
+            },
+            {
+              "name": "party_size_number",
+              "value": "5"
+            },
+            {
+              "name": "restaurant_type",
+              "value": "diner"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"Book Restaurant\",\n  \"slots\": [\n    {\n      \"name\": \"restaurant_name\",\n      \"value\": \"Best Table\"\n    },\n    {\n      \"name\": \"city\",\n      \"value\": \"Tanzania\"\n    },\n    {\n      \"name\": \"number_of_people\",\n      \"value\": \"5\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "Book Restaurant",
+          "slots": [
+            {
+              "name": "restaurant_name",
+              "value": "Best Table"
+            },
+            {
+              "name": "city",
+              "value": "Tanzania"
+            },
+            {
+              "name": "number_of_people",
+              "value": "5"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "wrong_slot": [
+      {
+        "id": "snips-validation-0",
+        "request": "i d like to have this track onto my classical relaxations playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "track"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "classical relaxations"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"track_name\",\n      \"value\": \"Classical Relaxations\"\n    },\n    {\n      \"name\": \"artist\",\n      \"value\": \"Unknown Artist\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "track_name",
+              "value": "Classical Relaxations"
+            },
+            {
+              "name": "artist",
+              "value": "Unknown Artist"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-2",
+        "request": "add digging now to my young at heart playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "playlist",
+              "value": "digging now"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "entity_name",
+              "value": "young at heart"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"playlist\",\n      \"value\": \"digging now\"\n    },\n    {\n      \"name\": \"artist\",\n      \"value\": \"young at heart\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "playlist",
+              "value": "digging now"
+            },
+            {
+              "name": "artist",
+              "value": "young at heart"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-3",
+        "request": "add this song by too poetic to my piano ballads playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "song"
+            },
+            {
+              "name": "artist",
+              "value": "too poetic"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "piano ballads"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"song_name\",\n      \"value\": \"too poetic to my piano ballads\"\n    },\n    {\n      \"name\": \"artist\",\n      \"value\": \"too poetic\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "song_name",
+              "value": "too poetic to my piano ballads"
+            },
+            {
+              "name": "artist",
+              "value": "too poetic"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-4",
+        "request": "add this album to old school death metal",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "album"
+            },
+            {
+              "name": "playlist",
+              "value": "old school death metal"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"album\",\n      \"value\": \"this album\"\n    },\n    {\n      \"name\": \"artist\",\n      \"value\": \"old school death metal\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "album",
+              "value": "this album"
+            },
+            {
+              "name": "artist",
+              "value": "old school death metal"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-5",
+        "request": "i need to add baro ferret to the urban hits under my name",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "artist",
+              "value": "baro ferret"
+            },
+            {
+              "name": "playlist",
+              "value": "urban hits"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"AddToPlaylist\",\n  \"slots\": [\n    {\n      \"name\": \"album\",\n      \"value\": \"Baro Ferret\"\n    },\n    {\n      \"name\": \"artist\",\n      \"value\": \"Urban Hits\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "album",
+              "value": "Baro Ferret"
+            },
+            {
+              "name": "artist",
+              "value": "Urban Hits"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "malformed": [
+      {
+        "id": "snips-validation-1",
+        "request": "add the album to my flow español playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "album"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "flow español"
+            }
+          ]
+        },
+        "raw_prediction": "{\"intent\":\"AddToPlaylist\",\"slots\":{\"album\":\"flow español\"}}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-21",
+        "request": "add andy hunter to my evening commute playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "artist",
+              "value": "andy hunter"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "evening commute"
+            }
+          ]
+        },
+        "raw_prediction": "{\"intent\":\"AddToPlaylist\",\"slots\":{\"album\":\"Andy Hunter\",\"artist\":\"Andy Hunter\",\"best_rating\":\"5.0\",\"city\":\"New York City\",\"condition_description\":\"hot and humid\",\"condition_temperature\":\"20°C\",\"country\":\"USA\",\"cuisine\":\"American\",\"geographic_poi\":\"Central Park\",\"location_name\":\"The Metropolitan Museum of Art\",\"movie_name\":\"Andy Hunter: The Man Who Shot Liberty Valance\",\"movie_type\":\"Biography\",\"music_item\":\"Andy Hunter: The Man Who Shot Liberty Valance\",\"object_name\":\"Andy Hunter: The Man Who Shot Liberty Valance\",\"object_part_of_series_type\":\"Biography",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-27",
+        "request": "add this track to my hands up playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "track"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "hands up"
+            }
+          ]
+        },
+        "raw_prediction": "{\"intent\":\"AddToPlaylist\",\"slots\":{\"track\":\"this track\"}}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-31",
+        "request": "add the album to the the sweet suite playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "album"
+            },
+            {
+              "name": "playlist",
+              "value": "the sweet suite"
+            }
+          ]
+        },
+        "raw_prediction": "{\"intent\":\"AddToPlaylist\",\"slots\":{\"album\":\"sweet suite\",\"playlist\":\"sweet suite playlist\"}}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "snips-validation-43",
+        "request": "add the album to my perfect concentration playlist",
+        "gold": {
+          "intent": "AddToPlaylist",
+          "slots": [
+            {
+              "name": "music_item",
+              "value": "album"
+            },
+            {
+              "name": "playlist_owner",
+              "value": "my"
+            },
+            {
+              "name": "playlist",
+              "value": "perfect concentration"
+            }
+          ]
+        },
+        "raw_prediction": "{\"intent\":\"AddToPlaylist\",\"slots\":{\"album\":\"The album you want to add to your playlist.\"}}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "snips",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "counts": {
+      "correct": 3,
+      "wrong_intent": 312,
+      "wrong_slot": 275,
+      "malformed": 110
+    }
+  },
+  "atis": {
+    "correct": [
+      {
+        "id": "atis-validation-18",
+        "request": "what's restriction ap68",
+        "gold": {
+          "intent": "atis_restriction",
+          "slots": [
+            {
+              "name": "restriction_code",
+              "value": "ap68"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_restriction\",\n  \"slots\": [\n    {\n      \"name\": \"restriction_code\",\n      \"value\": \"ap68\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_restriction",
+          "slots": [
+            {
+              "name": "restriction_code",
+              "value": "ap68"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-455",
+        "request": "what airline uses the code hp",
+        "gold": {
+          "intent": "atis_airline",
+          "slots": [
+            {
+              "name": "airline_code",
+              "value": "hp"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_airline\",\n  \"slots\": [\n    {\n      \"name\": \"airline_code\",\n      \"value\": \"hp\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_airline",
+          "slots": [
+            {
+              "name": "airline_code",
+              "value": "hp"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "wrong_intent": [
+      {
+        "id": "atis-validation-1",
+        "request": "show me all round trip flights between houston and las vegas",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "round_trip",
+              "value": "round trip"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "houston"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "las vegas"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"show me all round trip flights\",\n  \"slots\": [\n    {\n      \"name\": \"fromloc\",\n      \"value\": \"Houston\"\n    },\n    {\n      \"name\": \"tolloc\",\n      \"value\": \"Las Vegas\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "show me all round trip flights",
+          "slots": [
+            {
+              "name": "fromloc",
+              "value": "Houston"
+            },
+            {
+              "name": "tolloc",
+              "value": "Las Vegas"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-3",
+        "request": "what are the coach flights between dallas and baltimore leaving august tenth and returning august twelve",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "class_type",
+              "value": "coach"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "dallas"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "baltimore"
+            },
+            {
+              "name": "depart_date.month_name",
+              "value": "august"
+            },
+            {
+              "name": "depart_date.day_number",
+              "value": "tenth"
+            },
+            {
+              "name": "return_date.month_name",
+              "value": "august"
+            },
+            {
+              "name": "return_date.day_number",
+              "value": "twelve"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"airplane\",\n  \"slots\": [\n    {\n      \"name\": \"departure_date\",\n      \"value\": \"2023-10-08\"\n    },\n    {\n      \"name\": \"arrival_date\",\n      \"value\": \"2023-10-15\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "airplane",
+          "slots": [
+            {
+              "name": "departure_date",
+              "value": "2023-10-08"
+            },
+            {
+              "name": "arrival_date",
+              "value": "2023-10-15"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-5",
+        "request": "okay can you tell me the flight cost between denver and atlanta",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "denver"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "atlanta"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"airfare\",\n  \"slots\": [\n    {\n      \"name\": \"departure_date\",\n      \"value\": \"2023-10-05\"\n    },\n    {\n      \"name\": \"arrival_date\",\n      \"value\": \"2023-10-07\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "airfare",
+          "slots": [
+            {
+              "name": "departure_date",
+              "value": "2023-10-05"
+            },
+            {
+              "name": "arrival_date",
+              "value": "2023-10-07"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-7",
+        "request": "what is the earliest breakfast flight from philadelphia to fort worth",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "flight_mod",
+              "value": "earliest"
+            },
+            {
+              "name": "meal_description",
+              "value": "breakfast"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "philadelphia"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "fort worth"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"find_flight\",\n  \"slots\": [\n    {\n      \"name\": \"departure_date\",\n      \"value\": \"2023-10-05\"\n    },\n    {\n      \"name\": \"arrival_date\",\n      \"value\": \"2023-10-06\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "find_flight",
+          "slots": [
+            {
+              "name": "departure_date",
+              "value": "2023-10-05"
+            },
+            {
+              "name": "arrival_date",
+              "value": "2023-10-06"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-8",
+        "request": "flights from pittsburgh to baltimore between 10 am and 2 pm",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "pittsburgh"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "baltimore"
+            },
+            {
+              "name": "depart_time.start_time",
+              "value": "10 am"
+            },
+            {
+              "name": "depart_time.end_time",
+              "value": "2 pm"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"aircraft\",\n  \"slots\": [\n    {\n      \"name\": \"airline_code\",\n      \"value\": \"PIT\"\n    },\n    {\n      \"name\": \"airline_name\",\n      \"value\": \"Pittsburgh Airlines\"\n    },\n    {\n      \"name\": \"city_name\",\n      \"value\": \"Baltimore\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "aircraft",
+          "slots": [
+            {
+              "name": "airline_code",
+              "value": "PIT"
+            },
+            {
+              "name": "airline_name",
+              "value": "Pittsburgh Airlines"
+            },
+            {
+              "name": "city_name",
+              "value": "Baltimore"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "wrong_slot": [
+      {
+        "id": "atis-validation-0",
+        "request": "i want to fly from boston at 838 am and arrive in denver at 1110 in the morning",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "boston"
+            },
+            {
+              "name": "depart_time.time",
+              "value": "838 am"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "denver"
+            },
+            {
+              "name": "arrive_time.time",
+              "value": "1110"
+            },
+            {
+              "name": "arrive_time.period_of_day",
+              "value": "morning"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    {\n      \"name\": \"fromloc\",\n      \"value\": \"Boston\"\n    },\n    {\n      \"name\": \"to\",\n      \"value\": \"Denver\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc",
+              "value": "Boston"
+            },
+            {
+              "name": "to",
+              "value": "Denver"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-2",
+        "request": "i would like some information on a flight from denver to san francisco on united airlines",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "denver"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "san francisco"
+            },
+            {
+              "name": "airline_name",
+              "value": "united airlines"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    {\n      \"name\": \"flight_number\",\n      \"value\": \"United Airlines\"\n    },\n    {\n      \"name\": \"departure_date\",\n      \"value\": \"2023-10-05\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "flight_number",
+              "value": "United Airlines"
+            },
+            {
+              "name": "departure_date",
+              "value": "2023-10-05"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-4",
+        "request": "i'm flying from boston to the bay area",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "boston"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "bay area"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    {\n      \"name\": \"airline_name\",\n      \"value\": \"American Airlines\"\n    },\n    {\n      \"name\": \"airline_code\",\n      \"value\": \"AA\"\n    },\n    {\n      \"name\": \"city_name\",\n      \"value\": \"Boston\"\n    },\n    {\n      \"name\": \"city_name\",\n      \"value\": \"Bay Area\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "airline_name",
+              "value": "American Airlines"
+            },
+            {
+              "name": "airline_code",
+              "value": "AA"
+            },
+            {
+              "name": "city_name",
+              "value": "Boston"
+            },
+            {
+              "name": "city_name",
+              "value": "Bay Area"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-6",
+        "request": "from montreal to las vegas",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "montreal"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "las vegas"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    {\n      \"name\": \"fromloc\",\n      \"value\": \"Montreal\"\n    },\n    {\n      \"name\": \"to\",\n      \"value\": \"Las Vegas\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc",
+              "value": "Montreal"
+            },
+            {
+              "name": "to",
+              "value": "Las Vegas"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-10",
+        "request": "flights from ontario to florida",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "ontario"
+            },
+            {
+              "name": "toloc.state_name",
+              "value": "florida"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    {\n      \"name\": \"fromloc\",\n      \"value\": \"Ontario\"\n    },\n    {\n      \"name\": \"to\",\n      \"value\": \"Florida\"\n    }\n  ]\n}",
+        "parsed_prediction": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "fromloc",
+              "value": "Ontario"
+            },
+            {
+              "name": "to",
+              "value": "Florida"
+            }
+          ]
+        },
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "malformed": [
+      {
+        "id": "atis-validation-11",
+        "request": "i would like to know the first class fare on a flight from baltimore to denver",
+        "gold": {
+          "intent": "atis_airfare",
+          "slots": [
+            {
+              "name": "class_type",
+              "value": "first class"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "baltimore"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "denver"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    \"flight\", \n    \"flight_days\"\n  ]\n}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-13",
+        "request": "show me the prices of all flights from atlanta to washington dc",
+        "gold": {
+          "intent": "atis_airfare",
+          "slots": [
+            {
+              "name": "fromloc.city_name",
+              "value": "atlanta"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "washington"
+            },
+            {
+              "name": "toloc.state_code",
+              "value": "dc"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"show me the prices\",\n  \"slots\": [\n    \"flight\",\n    \"fromloc\",\n    \"to\"\n  ]\n}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-27",
+        "request": "does continental fly from denver to san francisco",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "airline_name",
+              "value": "continental"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "denver"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "san francisco"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"ais_airplane\",\n  \"slots\": [\n    \"airline_name\", \n    \"airline_code\"\n  ]\n}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-29",
+        "request": "on continental airlines any class service from san francisco to pittsburgh",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "airline_name",
+              "value": "continental airlines"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "san francisco"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "pittsburgh"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"atis_flight\",\n  \"slots\": [\n    \"airline_name\": [\"Continental Airlines\"],\n    \"flight_number\": [\"any\"],\n    \"departure_date\": [\"San Francisco\", \"Pittsburgh\"]\n  ]\n}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      },
+      {
+        "id": "atis-validation-32",
+        "request": "show me the northwest flights from detroit to st. petersburg",
+        "gold": {
+          "intent": "atis_flight",
+          "slots": [
+            {
+              "name": "airline_name",
+              "value": "northwest"
+            },
+            {
+              "name": "fromloc.city_name",
+              "value": "detroit"
+            },
+            {
+              "name": "toloc.city_name",
+              "value": "st. petersburg"
+            }
+          ]
+        },
+        "raw_prediction": "{\n  \"intent\": \"show me\",\n  \"slots\": [\n    \"city_name\", \n    \"country_name\"\n  ]\n}",
+        "parsed_prediction": null,
+        "format": "json",
+        "metadata": {
+          "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+          "format": "json",
+          "dataset": "atis",
+          "split": "validation",
+          "max_input_length": 768,
+          "max_new_tokens": 128,
+          "do_sample": false,
+          "seed": 455,
+          "batch_size": 1,
+          "device": "mps"
+        }
+      }
+    ],
+    "counts": {
+      "correct": 2,
+      "wrong_intent": 232,
+      "wrong_slot": 167,
+      "malformed": 99
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "num_examples": 893,
+  "missing_predictions": 0,
+  "format_valid_pct": 81.07502799552073,
+  "intent_accuracy": 43.673012318029116,
+  "slot_precision": 1.1349306431273645,
+  "slot_recall": 0.6344730348960169,
+  "slot_f1": 0.8139271987338911,
+  "exact_match": 0.22396416573348266,
+  "format_valid_count": 724,
+  "intent_correct_count": 390,
+  "exact_match_count": 2,
+  "slot_tp": 18,
+  "slot_predicted": 1586,
+  "slot_gold": 2837,
+  "format": "json",
+  "metadata": {
+    "model_name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "format": "json",
+    "dataset": "atis",
+    "split": "test",
+    "max_input_length": 768,
+    "max_new_tokens": 128,
+    "do_sample": false,
+    "seed": 455,
+    "batch_size": 1,
+    "device": "mps"
+  },
+  "token_length_stats": {
+    "num_examples": 893,
+    "max_tokens": 655,
+    "mean_tokens": 620.4356103023516,
+    "p95_tokens": 629
+  }
+}
