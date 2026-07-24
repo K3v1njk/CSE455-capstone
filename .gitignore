@@ -19,3 +19,4 @@ transformers_cache/
 
 *.tmp
 results/base/*.bak
+checkpoints/
