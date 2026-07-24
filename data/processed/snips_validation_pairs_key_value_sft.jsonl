@@ -1,0 +1,700 @@
+{"dataset": "snips", "input": "i d like to have this track onto my classical relaxations playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:classical relaxations"}
+{"dataset": "snips", "input": "add the album to my flow español playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:flow español"}
+{"dataset": "snips", "input": "add digging now to my young at heart playlist", "target": "intent=AddToPlaylist\nslots=playlist:digging now | playlist_owner:my | entity_name:young at heart"}
+{"dataset": "snips", "input": "add this song by too poetic to my piano ballads playlist", "target": "intent=AddToPlaylist\nslots=music_item:song | artist:too poetic | playlist_owner:my | playlist:piano ballads"}
+{"dataset": "snips", "input": "add this album to old school death metal", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:old school death metal"}
+{"dataset": "snips", "input": "i need to add baro ferret to the urban hits under my name", "target": "intent=AddToPlaylist\nslots=artist:baro ferret | playlist:urban hits | playlist_owner:my"}
+{"dataset": "snips", "input": "add the album to the might and myth power metal playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:might and myth power metal"}
+{"dataset": "snips", "input": "to the travelling playlist please add this david gahan song", "target": "intent=AddToPlaylist\nslots=playlist:travelling | artist:david gahan | music_item:song"}
+{"dataset": "snips", "input": "please add some pete townshend to my playlist fiesta hits con lali", "target": "intent=AddToPlaylist\nslots=artist:pete townshend | playlist_owner:my | playlist:fiesta hits con lali"}
+{"dataset": "snips", "input": "i d like for kasey chambers s tune to be an addition to my chips and salsa playlist", "target": "intent=AddToPlaylist\nslots=artist:kasey chambers | music_item:tune | playlist_owner:my | playlist:chips and salsa"}
+{"dataset": "snips", "input": "add recalled to life to this is alejandro fernández", "target": "intent=AddToPlaylist\nslots=entity_name:recalled to life | playlist:this is alejandro fernández"}
+{"dataset": "snips", "input": "add nuba to my metal party playlist", "target": "intent=AddToPlaylist\nslots=entity_name:nuba | playlist_owner:my | playlist:metal party"}
+{"dataset": "snips", "input": "add jo stafford music to the workout twerkout playlist", "target": "intent=AddToPlaylist\nslots=artist:jo stafford | playlist:workout twerkout"}
+{"dataset": "snips", "input": "put jean philippe goncalves onto my running to rock 170 to 190 bpm", "target": "intent=AddToPlaylist\nslots=artist:jean philippe goncalves | playlist_owner:my | playlist:running to rock 170 to 190 bpm"}
+{"dataset": "snips", "input": "add the song virales de siempre by the cary brothers to my gym playlist", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist:virales de siempre | artist:cary brothers | playlist_owner:my"}
+{"dataset": "snips", "input": "onto jerry s classical moments in movies please add the album", "target": "intent=AddToPlaylist\nslots=playlist_owner:jerry s | playlist:classical moments in movies | music_item:album"}
+{"dataset": "snips", "input": "add beyond the valley of 1984 in playlist folk music at the gaslight café", "target": "intent=AddToPlaylist\nslots=entity_name:beyond the valley of 1984 | playlist:folk music at the gaslight café"}
+{"dataset": "snips", "input": "add jerry calliste jr to my te quiero playlist", "target": "intent=AddToPlaylist\nslots=artist:jerry calliste jr | playlist_owner:my | playlist:te quiero"}
+{"dataset": "snips", "input": "add porter wagoner to the the sleep machine waterscapes playlist", "target": "intent=AddToPlaylist\nslots=artist:porter wagoner | playlist:the sleep machine waterscapes"}
+{"dataset": "snips", "input": "add the artist mike to the sexy as folk playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | artist:mike | playlist:sexy as folk"}
+{"dataset": "snips", "input": "add brazilian flag anthem to top 100 alternative tracks on spotify", "target": "intent=AddToPlaylist\nslots=entity_name:brazilian flag anthem | playlist:top 100 alternative tracks on spotify"}
+{"dataset": "snips", "input": "add andy hunter to my evening commute playlist", "target": "intent=AddToPlaylist\nslots=artist:andy hunter | playlist_owner:my | playlist:evening commute"}
+{"dataset": "snips", "input": "put petar georgiev kalica onto the old school hip hop playlist", "target": "intent=AddToPlaylist\nslots=artist:petar georgiev kalica | playlist:old school hip hop"}
+{"dataset": "snips", "input": "can you add larry heard to my laundry playlist", "target": "intent=AddToPlaylist\nslots=artist:larry heard | playlist_owner:my | playlist:laundry"}
+{"dataset": "snips", "input": "put vandemataram srinivas s track onto hiphop hot 50", "target": "intent=AddToPlaylist\nslots=artist:vandemataram srinivas | music_item:track | playlist:hiphop hot 50"}
+{"dataset": "snips", "input": "add millie corretjer to the rhythm playlist", "target": "intent=AddToPlaylist\nslots=artist:millie corretjer | playlist:the rhythm"}
+{"dataset": "snips", "input": "add give us rest to my 70s smash hits playlist", "target": "intent=AddToPlaylist\nslots=entity_name:give us rest | playlist_owner:my | playlist:70s smash hits"}
+{"dataset": "snips", "input": "add this track to my hands up playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:hands up"}
+{"dataset": "snips", "input": "i d like for you to add bobby brown to my enamorándose playlist", "target": "intent=AddToPlaylist\nslots=artist:bobby brown | playlist_owner:my | playlist:enamorándose"}
+{"dataset": "snips", "input": "add jonathan sprout album to my this is miranda lambert playlist", "target": "intent=AddToPlaylist\nslots=artist:jonathan sprout | music_item:album | playlist_owner:my | playlist:this is miranda lambert"}
+{"dataset": "snips", "input": "add ireland in the junior eurovision song contest 2015 to my jazzy dinner playlist", "target": "intent=AddToPlaylist\nslots=entity_name:ireland in the junior eurovision song contest 2015 | playlist_owner:my | playlist:jazzy dinner"}
+{"dataset": "snips", "input": "add the album to the the sweet suite playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:the sweet suite"}
+{"dataset": "snips", "input": "add sarah slean to my playlist mellowed out gaming", "target": "intent=AddToPlaylist\nslots=artist:sarah slean | playlist_owner:my | playlist:mellowed out gaming"}
+{"dataset": "snips", "input": "add this album to the spanish beat playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:spanish beat"}
+{"dataset": "snips", "input": "add lofty fake anagram to the la mejor música de bso playlist", "target": "intent=AddToPlaylist\nslots=entity_name:lofty fake anagram | playlist:la mejor música de bso"}
+{"dataset": "snips", "input": "add the track to the work playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist:work"}
+{"dataset": "snips", "input": "add a song to this is racionais mc s", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist:this is racionais mc s"}
+{"dataset": "snips", "input": "add track in my playlist called hands up", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:hands up"}
+{"dataset": "snips", "input": "can you put this song from yutaka ozaki onto my this is miles davis playlist", "target": "intent=AddToPlaylist\nslots=music_item:song | artist:yutaka ozaki | playlist_owner:my | playlist:this is miles davis"}
+{"dataset": "snips", "input": "add a track to playlist cena con amigos", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist:cena con amigos"}
+{"dataset": "snips", "input": "add the famous flower of serving-men to my evening acoustic playlist", "target": "intent=AddToPlaylist\nslots=entity_name:the famous flower of serving-men | playlist_owner:my | playlist:evening acoustic"}
+{"dataset": "snips", "input": "add a song to indie hipster", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist:indie hipster"}
+{"dataset": "snips", "input": "add the 40 cal tune to the laundry playlist", "target": "intent=AddToPlaylist\nslots=artist:40 cal | music_item:tune | playlist:laundry"}
+{"dataset": "snips", "input": "add the album to my perfect concentration playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:perfect concentration"}
+{"dataset": "snips", "input": "add the matt murphy tune to the flow español playlist", "target": "intent=AddToPlaylist\nslots=artist:matt murphy | music_item:tune | playlist:flow español"}
+{"dataset": "snips", "input": "add a very cellular song to masters of metal playlist", "target": "intent=AddToPlaylist\nslots=entity_name:a very cellular song | playlist:masters of metal"}
+{"dataset": "snips", "input": "can i put this tune onto my sin estrés playlist", "target": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:sin estrés"}
+{"dataset": "snips", "input": "i d like to add jordan rudess onto the divertido para niños playlist", "target": "intent=AddToPlaylist\nslots=artist:jordan rudess | playlist:divertido para niños"}
+{"dataset": "snips", "input": "add kent james to the disney soundtrack", "target": "intent=AddToPlaylist\nslots=artist:kent james | playlist:disney"}
+{"dataset": "snips", "input": "add the artist adam deibert to my perfect concentration playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | artist:adam deibert | playlist_owner:my | playlist:perfect concentration"}
+{"dataset": "snips", "input": "can you put the artist giovanni giacomo gastoldi onto the chill out music playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | artist:giovanni giacomo gastoldi | playlist:chill out music"}
+{"dataset": "snips", "input": "add the album to the hot 50 playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:hot 50"}
+{"dataset": "snips", "input": "add the artist pete murray to my relaxing playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | artist:pete murray | playlist_owner:my | playlist:relaxing"}
+{"dataset": "snips", "input": "add the track to the drum & breaks playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist:drum & breaks"}
+{"dataset": "snips", "input": "for my fantastic workout can you add sara bareilles", "target": "intent=AddToPlaylist\nslots=playlist_owner:my | playlist:fantastic workout | artist:sara bareilles"}
+{"dataset": "snips", "input": "add the boy george track to the emo forever playlist", "target": "intent=AddToPlaylist\nslots=artist:boy george | music_item:track | playlist:emo forever"}
+{"dataset": "snips", "input": "add ted heath to the road trip playlist", "target": "intent=AddToPlaylist\nslots=artist:ted heath | playlist:road trip"}
+{"dataset": "snips", "input": "can you add last of the ghetto astronauts to the playlist called black sabbath the dio years", "target": "intent=AddToPlaylist\nslots=entity_name:last of the ghetto astronauts | playlist:black sabbath the dio years"}
+{"dataset": "snips", "input": "add this artist to showstopper being mary jane", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist:showstopper being mary jane"}
+{"dataset": "snips", "input": "put the artist onto top latin alternative", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist:top latin alternative"}
+{"dataset": "snips", "input": "add michael wittig music to country icon playlist", "target": "intent=AddToPlaylist\nslots=artist:michael wittig | playlist:country icon"}
+{"dataset": "snips", "input": "add highway patrolman in my playlist this is al green", "target": "intent=AddToPlaylist\nslots=entity_name:highway patrolman | playlist_owner:my | playlist:this is al green"}
+{"dataset": "snips", "input": "add richard mcnamara newest song to the just smile playlist", "target": "intent=AddToPlaylist\nslots=artist:richard mcnamara | music_item:song | playlist:just smile"}
+{"dataset": "snips", "input": "add annesley malewana album to playlist indietronic", "target": "intent=AddToPlaylist\nslots=artist:annesley malewana | music_item:album | playlist:indietronic"}
+{"dataset": "snips", "input": "add the artist to my dishwashing playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:dishwashing"}
+{"dataset": "snips", "input": "add this artist to fairy tales playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist:fairy tales"}
+{"dataset": "snips", "input": "add muzika za decu to my crash course playlist", "target": "intent=AddToPlaylist\nslots=entity_name:muzika za decu | playlist_owner:my | playlist:crash course"}
+{"dataset": "snips", "input": "add a derek watkins tune to this is johnny cash", "target": "intent=AddToPlaylist\nslots=artist:derek watkins | music_item:tune | playlist:this is johnny cash"}
+{"dataset": "snips", "input": "add our little corner of the world music from gilmore girls to my the funny thing about football is playlist", "target": "intent=AddToPlaylist\nslots=entity_name:our little corner of the world music from gilmore girls | playlist_owner:my | playlist:the funny thing about football is"}
+{"dataset": "snips", "input": "add the current track to my this is tchaikovsky playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:this is tchaikovsky"}
+{"dataset": "snips", "input": "put abe laboriel onto the escapada playlist", "target": "intent=AddToPlaylist\nslots=artist:abe laboriel | playlist:escapada"}
+{"dataset": "snips", "input": "add abacab to beryl s party on fridays playlist", "target": "intent=AddToPlaylist\nslots=entity_name:abacab | playlist_owner:beryl s | playlist:party on fridays"}
+{"dataset": "snips", "input": "please add this track by paul mcguigan to the deep house playlist", "target": "intent=AddToPlaylist\nslots=music_item:track | artist:paul mcguigan | playlist:deep house"}
+{"dataset": "snips", "input": "can you add the current tune to my calm before the storm playlist", "target": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:calm before the storm"}
+{"dataset": "snips", "input": "please add the image of you to my playlist crate diggers anonymous", "target": "intent=AddToPlaylist\nslots=entity_name:the image of you | playlist_owner:my | playlist:crate diggers anonymous"}
+{"dataset": "snips", "input": "add a track to jazzy dinner", "target": "intent=AddToPlaylist\nslots=music_item:track | playlist:jazzy dinner"}
+{"dataset": "snips", "input": "add the album to the hipster soul playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist:hipster soul"}
+{"dataset": "snips", "input": "add this tune to my sleepify playlist", "target": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:sleepify"}
+{"dataset": "snips", "input": "add jack white to my playlist this is shakira", "target": "intent=AddToPlaylist\nslots=artist:jack white | playlist_owner:my | playlist:this is shakira"}
+{"dataset": "snips", "input": "add tommy johnson to the metalsucks playlist", "target": "intent=AddToPlaylist\nslots=artist:tommy johnson | playlist:the metalsucks playlist"}
+{"dataset": "snips", "input": "add the chris clark tune to my women of the blues playlist", "target": "intent=AddToPlaylist\nslots=artist:chris clark | music_item:tune | playlist_owner:my | playlist:women of the blues"}
+{"dataset": "snips", "input": "add an artist to jukebox boogie rhythm & blues", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist:jukebox boogie rhythm & blues"}
+{"dataset": "snips", "input": "add this artist to my electronic bliss playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:electronic bliss"}
+{"dataset": "snips", "input": "i need to add to my infinite indie folk list the works of rahim shah", "target": "intent=AddToPlaylist\nslots=playlist_owner:my | playlist:infinite indie folk | artist:rahim shah"}
+{"dataset": "snips", "input": "add martin barre to my punk unplugged playlist", "target": "intent=AddToPlaylist\nslots=artist:martin barre | playlist_owner:my | playlist:punk unplugged"}
+{"dataset": "snips", "input": "add tierney sutton to my novedades viernes sudamérica playlist", "target": "intent=AddToPlaylist\nslots=artist:tierney sutton | playlist_owner:my | playlist:novedades viernes sudamérica"}
+{"dataset": "snips", "input": "add this tune to dorthy s 80 s party playlist", "target": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:dorthy s | playlist:80 s party"}
+{"dataset": "snips", "input": "a very cellular song needs to be added to my masters of metal playlist", "target": "intent=AddToPlaylist\nslots=entity_name:a very cellular song | playlist_owner:my | playlist:masters of metal"}
+{"dataset": "snips", "input": "add toyan to my epic gaming playlist", "target": "intent=AddToPlaylist\nslots=artist:toyan | playlist_owner:my | playlist:epic gaming"}
+{"dataset": "snips", "input": "add the song to the mac n cheese playlist", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist:mac n cheese"}
+{"dataset": "snips", "input": "add this artist to my spotlight on country 2016 playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:spotlight on country 2016"}
+{"dataset": "snips", "input": "add a song to my playlist madden nfl 16", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:madden nfl 16"}
+{"dataset": "snips", "input": "add emilie autumn to my nação reggae playlist", "target": "intent=AddToPlaylist\nslots=artist:emilie autumn | playlist_owner:my | playlist:nação reggae"}
+{"dataset": "snips", "input": "add farhad darya songs in virales de siempre", "target": "intent=AddToPlaylist\nslots=artist:farhad darya | playlist:virales de siempre"}
+{"dataset": "snips", "input": "add a song in my all out 60s", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:all out 60s"}
+{"dataset": "snips", "input": "add we have a theme song to my house afterwork playlist", "target": "intent=AddToPlaylist\nslots=entity_name:we have a theme song | playlist_owner:my | playlist:house afterwork"}
+{"dataset": "snips", "input": "add the song to my we everywhere playlist", "target": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:we everywhere"}
+{"dataset": "snips", "input": "add roel van velzen to my party of the century playlist", "target": "intent=AddToPlaylist\nslots=artist:roel van velzen | playlist_owner:my | playlist:party of the century"}
+{"dataset": "snips", "input": "add the artist to the political punks playlist", "target": "intent=AddToPlaylist\nslots=music_item:artist | playlist:political punks"}
+{"dataset": "snips", "input": "add the album to my club hits playlist", "target": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:club hits"}
+{"dataset": "snips", "input": "book a reservation for my babies and i", "target": "intent=BookRestaurant\nslots=party_size_description:my babies and i"}
+{"dataset": "snips", "input": "book a reservation for a restaurant not far from ma", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | spatial_relation:not far | state:ma"}
+{"dataset": "snips", "input": "i would like to book a restaurant in tanzania that is within walking distance for my mom and i", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:tanzania | spatial_relation:within walking distance | party_size_description:my mom and i"}
+{"dataset": "snips", "input": "book a reservation for an oyster bar", "target": "intent=BookRestaurant\nslots=restaurant_type:oyster bar"}
+{"dataset": "snips", "input": "book a reservation for 6 people for a creole tavern in montenegro", "target": "intent=BookRestaurant\nslots=party_size_number:6 | cuisine:creole | restaurant_type:tavern | country:montenegro"}
+{"dataset": "snips", "input": "i need a table in sacaton at a gluten free restaurant", "target": "intent=BookRestaurant\nslots=city:sacaton | cuisine:gluten free | restaurant_type:restaurant"}
+{"dataset": "snips", "input": "book sot for me and my grandfather nearby west reading", "target": "intent=BookRestaurant\nslots=party_size_description:me and my grandfather | spatial_relation:nearby | poi:west reading"}
+{"dataset": "snips", "input": "book me and my nieces a reservation for a seafood restaurant in cle elum ne on ascension day", "target": "intent=BookRestaurant\nslots=party_size_description:me and my nieces | served_dish:seafood | restaurant_type:restaurant | city:cle elum | state:ne | timeRange:ascension day"}
+{"dataset": "snips", "input": "book spot for two at city tavern", "target": "intent=BookRestaurant\nslots=party_size_number:two | restaurant_name:city tavern"}
+{"dataset": "snips", "input": "i want to book a brasserie for 3 people in netherlands antilles", "target": "intent=BookRestaurant\nslots=restaurant_type:brasserie | party_size_number:3 | country:netherlands antilles"}
+{"dataset": "snips", "input": "book me a reservation for the best bistro", "target": "intent=BookRestaurant\nslots=sort:best | restaurant_type:bistro"}
+{"dataset": "snips", "input": "book the best table in tanzania for 5 people at a diner", "target": "intent=BookRestaurant\nslots=sort:best | country:tanzania | party_size_number:5 | restaurant_type:diner"}
+{"dataset": "snips", "input": "i want to book a joint in a spa", "target": "intent=BookRestaurant\nslots=restaurant_type:joint | facility:spa"}
+{"dataset": "snips", "input": "book a gastropub that serves turkish food for 4 people", "target": "intent=BookRestaurant\nslots=restaurant_type:gastropub | cuisine:turkish | party_size_number:4"}
+{"dataset": "snips", "input": "book spot for 7 at an indoor restaurant in mp now", "target": "intent=BookRestaurant\nslots=party_size_number:7 | facility:indoor | restaurant_type:restaurant | state:mp | timeRange:now"}
+{"dataset": "snips", "input": "book a table in fiji for zero a m", "target": "intent=BookRestaurant\nslots=country:fiji | timeRange:zero a m"}
+{"dataset": "snips", "input": "i want to book a restaurant for five people in sri lanka", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:five | country:sri lanka"}
+{"dataset": "snips", "input": "i need a table for 5 at a highly rated gastropub in concord mn", "target": "intent=BookRestaurant\nslots=party_size_number:5 | sort:highly rated | restaurant_type:gastropub | city:concord | state:mn"}
+{"dataset": "snips", "input": "i want to book oregon electric station in north city", "target": "intent=BookRestaurant\nslots=restaurant_name:oregon electric station | city:north city"}
+{"dataset": "snips", "input": "i need a table for 4 please confirm the reservation", "target": "intent=BookRestaurant\nslots=party_size_number:4"}
+{"dataset": "snips", "input": "book a popular restaurant for 5 people", "target": "intent=BookRestaurant\nslots=sort:popular | restaurant_type:restaurant | party_size_number:5"}
+{"dataset": "snips", "input": "i want to book a joint close by the naomi s hostel for a meal for 8 people", "target": "intent=BookRestaurant\nslots=restaurant_type:joint | spatial_relation:close by | poi:naomi s hostel | timeRange:meal | party_size_number:8"}
+{"dataset": "snips", "input": "i want to eat a delicatessen in thirteen hours that serves eastern european food", "target": "intent=BookRestaurant\nslots=restaurant_type:delicatessen | timeRange:in thirteen hours | cuisine:eastern european"}
+{"dataset": "snips", "input": "book a reservation for nine people at a bakery in nunez", "target": "intent=BookRestaurant\nslots=party_size_number:nine | restaurant_type:bakery | city:nunez"}
+{"dataset": "snips", "input": "book a reservation at tavern for noodle", "target": "intent=BookRestaurant\nslots=restaurant_type:tavern | served_dish:noodle"}
+{"dataset": "snips", "input": "book spot for 4 in somalia", "target": "intent=BookRestaurant\nslots=party_size_number:4 | country:somalia"}
+{"dataset": "snips", "input": "i want to book albany pump station in buckholts washington now for a party of 9", "target": "intent=BookRestaurant\nslots=restaurant_name:albany pump station | city:buckholts | state:washington | timeRange:now | party_size_number:9"}
+{"dataset": "snips", "input": "i want to book a taverna in archer city for this spring for nine people", "target": "intent=BookRestaurant\nslots=restaurant_type:taverna | city:archer city | timeRange:this spring | party_size_number:nine"}
+{"dataset": "snips", "input": "i want to book a top-rated brasserie for 7 people", "target": "intent=BookRestaurant\nslots=sort:top-rated | restaurant_type:brasserie | party_size_number:7"}
+{"dataset": "snips", "input": "book a reservation for 8 people in wardville kansas", "target": "intent=BookRestaurant\nslots=party_size_number:8 | city:wardville | state:kansas"}
+{"dataset": "snips", "input": "table for breadline cafe in minnesota next friday", "target": "intent=BookRestaurant\nslots=restaurant_name:breadline cafe | state:minnesota | timeRange:next friday"}
+{"dataset": "snips", "input": "i want to book a restaurant in niger for seven people", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:niger | party_size_number:seven"}
+{"dataset": "snips", "input": "book spot for 9", "target": "intent=BookRestaurant\nslots=party_size_number:9"}
+{"dataset": "snips", "input": "book me a reservation for a pub in cormorant for a party of nine", "target": "intent=BookRestaurant\nslots=restaurant_type:pub | city:cormorant | party_size_number:nine"}
+{"dataset": "snips", "input": "book spot for my nieces and i at a tea house", "target": "intent=BookRestaurant\nslots=party_size_description:my nieces and i | restaurant_type:tea house"}
+{"dataset": "snips", "input": "i want to book a jewish restaurant in gambia", "target": "intent=BookRestaurant\nslots=cuisine:jewish | restaurant_type:restaurant | country:gambia"}
+{"dataset": "snips", "input": "book a reservation for the dome edinburgh close to brooklawn", "target": "intent=BookRestaurant\nslots=restaurant_name:the dome edinburgh | spatial_relation:close | poi:brooklawn"}
+{"dataset": "snips", "input": "book spot for 1 at town of ramsgate in merit", "target": "intent=BookRestaurant\nslots=party_size_number:1 | restaurant_name:town of ramsgate | city:merit"}
+{"dataset": "snips", "input": "book a spot for me and kathrine at smithville", "target": "intent=BookRestaurant\nslots=party_size_description:me and kathrine | city:smithville"}
+{"dataset": "snips", "input": "i want to book a restaurant for my father in law and i in buckner a year from now", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_description:my father in law and i | city:buckner | timeRange:a year from now"}
+{"dataset": "snips", "input": "book a restaurant reservation in 6 weeks", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | timeRange:in 6 weeks"}
+{"dataset": "snips", "input": "book a reservation for a bar with a spa nearby id", "target": "intent=BookRestaurant\nslots=restaurant_type:bar | facility:spa | spatial_relation:nearby | state:id"}
+{"dataset": "snips", "input": "book spot for four at cliff house san francisco in martinique", "target": "intent=BookRestaurant\nslots=party_size_number:four | restaurant_name:cliff house san francisco | country:martinique"}
+{"dataset": "snips", "input": "i need a table for 4 in saint helena at settha palace hotel", "target": "intent=BookRestaurant\nslots=party_size_number:4 | country:saint helena | restaurant_name:settha palace hotel"}
+{"dataset": "snips", "input": "i want to book a restaurant in frenier 12 years from now for 4 people", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | city:frenier | timeRange:12 years from now | party_size_number:4"}
+{"dataset": "snips", "input": "book seven in neighboring moorpark", "target": "intent=BookRestaurant\nslots=party_size_number:seven | spatial_relation:neighboring | city:moorpark"}
+{"dataset": "snips", "input": "i want to eat by five pm in ne for a six people", "target": "intent=BookRestaurant\nslots=timeRange:five pm | state:ne | party_size_number:six"}
+{"dataset": "snips", "input": "i want to book tupelo honey cafe in new jersey for five people", "target": "intent=BookRestaurant\nslots=restaurant_name:tupelo honey cafe | state:new jersey | party_size_number:five"}
+{"dataset": "snips", "input": "book a reservation for two at mickies dairy bar in weedsport", "target": "intent=BookRestaurant\nslots=party_size_number:two | restaurant_name:mickies dairy bar | city:weedsport"}
+{"dataset": "snips", "input": "book a table at a fried chicken restaurant", "target": "intent=BookRestaurant\nslots=restaurant_name:fried chicken restaurant"}
+{"dataset": "snips", "input": "book spot for mavis sheila and i in syria at elevenses", "target": "intent=BookRestaurant\nslots=party_size_description:mavis sheila and i | country:syria | timeRange:elevenses"}
+{"dataset": "snips", "input": "can you book me a table at windows on the world in cokeville mi", "target": "intent=BookRestaurant\nslots=restaurant_name:windows on the world | city:cokeville | state:mi"}
+{"dataset": "snips", "input": "book me a table for 5 this year at cherwell boathouse", "target": "intent=BookRestaurant\nslots=party_size_number:5 | timeRange:this year | restaurant_name:cherwell boathouse"}
+{"dataset": "snips", "input": "book spot for six at 8 pm at a coffeehouse in ne that serves hog fry", "target": "intent=BookRestaurant\nslots=party_size_number:six | timeRange:8 pm | restaurant_type:coffeehouse | state:ne | served_dish:hog fry"}
+{"dataset": "snips", "input": "i want to book a restaurant close-by in inman for five people", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | spatial_relation:close-by | city:inman | party_size_number:five"}
+{"dataset": "snips", "input": "i need a table at eddie s attic in nevada for one", "target": "intent=BookRestaurant\nslots=restaurant_name:eddie s attic | state:nevada | party_size_number:one"}
+{"dataset": "snips", "input": "book a reservation for an osteria restaurant for 4 people on november 4", "target": "intent=BookRestaurant\nslots=restaurant_type:osteria | party_size_number:4 | timeRange:november 4"}
+{"dataset": "snips", "input": "i want to book a top-rated restaurant close by in la for me rebecca and loraine on 2/6/2020", "target": "intent=BookRestaurant\nslots=sort:top-rated | restaurant_type:restaurant | spatial_relation:close | state:la | party_size_description:me rebecca and loraine | timeRange:2/6/2020"}
+{"dataset": "snips", "input": "book a reservation for 1 at a diner in wi", "target": "intent=BookRestaurant\nslots=party_size_number:1 | restaurant_type:diner | state:wi"}
+{"dataset": "snips", "input": "book a reservation for 5 people at the top-rated brasserie restaurant", "target": "intent=BookRestaurant\nslots=party_size_number:5 | sort:top-rated | restaurant_type:brasserie"}
+{"dataset": "snips", "input": "book a table on 1/20/2023 for 5 people in mh", "target": "intent=BookRestaurant\nslots=timeRange:1/20/2023 | party_size_number:5 | state:mh"}
+{"dataset": "snips", "input": "book a table near pat s college", "target": "intent=BookRestaurant\nslots=spatial_relation:near | poi:pat s college"}
+{"dataset": "snips", "input": "i want to book a steakhouse in vimy ridge", "target": "intent=BookRestaurant\nslots=restaurant_type:steakhouse | city:vimy ridge"}
+{"dataset": "snips", "input": "i want a table at james d conrey house in urbank california", "target": "intent=BookRestaurant\nslots=restaurant_name:james d conrey house | city:urbank | state:california"}
+{"dataset": "snips", "input": "like to book a seat in monaco for the yankee doodle coffee shop", "target": "intent=BookRestaurant\nslots=country:monaco | restaurant_name:yankee doodle coffee shop"}
+{"dataset": "snips", "input": "i want to book a table in a restaurant in bouvet island", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:bouvet island"}
+{"dataset": "snips", "input": "i would like to book a restaurant for souvlaki cuisine in the state of ne", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | cuisine:souvlaki | state:ne"}
+{"dataset": "snips", "input": "book a reservation for 10 people at an oyster bar with a pool within the same area of cowansburg for 10 pm", "target": "intent=BookRestaurant\nslots=party_size_number:10 | restaurant_type:oyster bar | facility:pool | spatial_relation:within the same area | city:cowansburg | timeRange:10 pm"}
+{"dataset": "snips", "input": "book a reservation for velma ana and rebecca for an american pizzeria at 5 am in ma", "target": "intent=BookRestaurant\nslots=party_size_description:velma ana and rebecca | cuisine:american | restaurant_type:pizzeria | timeRange:5 am | state:ma"}
+{"dataset": "snips", "input": "book a spot for 4 in oklahoma at south street diner", "target": "intent=BookRestaurant\nslots=party_size_number:4 | state:oklahoma | restaurant_name:south street diner"}
+{"dataset": "snips", "input": "book a reservation for my mommy and i at a restaurant in central african republic", "target": "intent=BookRestaurant\nslots=party_size_description:my mommy and i | restaurant_type:restaurant | country:central african republic"}
+{"dataset": "snips", "input": "book a reservation for five people for a tatar taverna in sargents", "target": "intent=BookRestaurant\nslots=party_size_number:five | cuisine:tatar | restaurant_type:taverna | city:sargents"}
+{"dataset": "snips", "input": "phyllis ward and veronica need a table at a restaurant in 152 days", "target": "intent=BookRestaurant\nslots=party_size_description:phyllis ward and veronica | restaurant_type:restaurant | timeRange:in 152 days"}
+{"dataset": "snips", "input": "book a reservation for ten at a restaurant in ohio", "target": "intent=BookRestaurant\nslots=party_size_number:ten | restaurant_type:restaurant | state:ohio"}
+{"dataset": "snips", "input": "i want to book a tea house that serves salade far from here at midnight in panama for two people", "target": "intent=BookRestaurant\nslots=restaurant_type:tea house | served_dish:salade | spatial_relation:far | timeRange:midnight | country:panama | party_size_number:two"}
+{"dataset": "snips", "input": "i want to book a food truck for seven people in the republic of the congo", "target": "intent=BookRestaurant\nslots=restaurant_type:food truck | party_size_number:seven | country:republic of the congo"}
+{"dataset": "snips", "input": "i want to book a restaurant for ten people", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:ten"}
+{"dataset": "snips", "input": "lets eat near oakfield 17 seconds from now at ted peters famous smoked fish", "target": "intent=BookRestaurant\nslots=spatial_relation:near | city:oakfield | timeRange:17 seconds from now | restaurant_name:ted peters famous smoked fish"}
+{"dataset": "snips", "input": "book sot for 7 at a restaurant that serves european in stringtown on feb the 28th 2034", "target": "intent=BookRestaurant\nslots=party_size_number:7 | restaurant_type:restaurant | cuisine:european | city:stringtown | timeRange:feb the 28th 2034"}
+{"dataset": "snips", "input": "book a restaurant for six at an outdoor cafe in åland", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:six | facility:outdoor | country:åland"}
+{"dataset": "snips", "input": "book a table for 12 am at our step mother s secondary residence within walking distance for one", "target": "intent=BookRestaurant\nslots=timeRange:12 am | poi:our step mother s secondary residence | spatial_relation:within walking distance | party_size_number:one"}
+{"dataset": "snips", "input": "please book me a table at a pizzeria with a parking facility in ghana", "target": "intent=BookRestaurant\nslots=restaurant_type:pizzeria | facility:parking | country:ghana"}
+{"dataset": "snips", "input": "book spot for four at a indoor pub within the same area of louisiana in one minute", "target": "intent=BookRestaurant\nslots=party_size_number:four | facility:indoor | restaurant_type:pub | spatial_relation:within the same area | state:louisiana | timeRange:in one minute"}
+{"dataset": "snips", "input": "please book me a restaurant", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant"}
+{"dataset": "snips", "input": "book a reservation for me and my step brother at amt coffee in lakemoor", "target": "intent=BookRestaurant\nslots=party_size_description:me and my step brother | restaurant_name:amt coffee | city:lakemoor"}
+{"dataset": "snips", "input": "i want to book a churrascaria in romeoville at ten a m for four people", "target": "intent=BookRestaurant\nslots=restaurant_type:churrascaria | city:romeoville | timeRange:ten a m | party_size_number:four"}
+{"dataset": "snips", "input": "table for 5 a m at baker s keyboard lounge", "target": "intent=BookRestaurant\nslots=timeRange:5 a m | restaurant_name:baker s keyboard lounge"}
+{"dataset": "snips", "input": "please book me a table at a bistro which serves lorna doone", "target": "intent=BookRestaurant\nslots=restaurant_type:bistro | served_dish:lorna doone"}
+{"dataset": "snips", "input": "i want to book a restaurant for six people in wagstaff ak", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:six | city:wagstaff | state:ak"}
+{"dataset": "snips", "input": "i would like to book a highly rated restaurant for a party of ten", "target": "intent=BookRestaurant\nslots=sort:highly rated | restaurant_type:restaurant | party_size_number:ten"}
+{"dataset": "snips", "input": "i want to book a sundanese gastropub nearby in texas for 3 people on 5/20/2025", "target": "intent=BookRestaurant\nslots=cuisine:sundanese | restaurant_type:gastropub | spatial_relation:nearby | state:texas | party_size_number:3 | timeRange:5/20/2025"}
+{"dataset": "snips", "input": "book a party of five at seagoville for 06:42", "target": "intent=BookRestaurant\nslots=party_size_number:five | city:seagoville | timeRange:06:42"}
+{"dataset": "snips", "input": "book spot for 9 at thurmont", "target": "intent=BookRestaurant\nslots=party_size_number:9 | city:thurmont"}
+{"dataset": "snips", "input": "i want to book a restaurant in sixteen seconds for 5 people in gold point montana", "target": "intent=BookRestaurant\nslots=restaurant_type:restaurant | timeRange:in sixteen seconds | party_size_number:5 | city:gold point | state:montana"}
+{"dataset": "snips", "input": "i want to eat in ramona", "target": "intent=BookRestaurant\nslots=city:ramona"}
+{"dataset": "snips", "input": "book a party at their campus within the same area for churrascaria", "target": "intent=BookRestaurant\nslots=poi:their campus | spatial_relation:within the same area | restaurant_type:churrascaria"}
+{"dataset": "snips", "input": "book me a reservation for a party of 3 at a pub in northern mariana islands", "target": "intent=BookRestaurant\nslots=party_size_number:3 | restaurant_type:pub | country:northern mariana islands"}
+{"dataset": "snips", "input": "i want to book a bougatsa restaurant in next year nearby penn for three people", "target": "intent=BookRestaurant\nslots=cuisine:bougatsa | restaurant_type:restaurant | timeRange:next year | spatial_relation:nearby | city:penn | party_size_number:three"}
+{"dataset": "snips", "input": "book a reservation for nine people at the best pub nearby tangier in six months", "target": "intent=BookRestaurant\nslots=party_size_number:nine | sort:best | restaurant_type:pub | spatial_relation:nearby | city:tangier | timeRange:in six months"}
+{"dataset": "snips", "input": "need a table somewhere in quarryville 14 hours from now", "target": "intent=BookRestaurant\nslots=city:quarryville | timeRange:14 hours from now"}
+{"dataset": "snips", "input": "what will the weather be faraway from here", "target": "intent=GetWeather\nslots=spatial_relation:faraway | current_location:here"}
+{"dataset": "snips", "input": "will there be fog in tahquamenon falls state park", "target": "intent=GetWeather\nslots=condition_description:fog | geographic_poi:tahquamenon falls state park"}
+{"dataset": "snips", "input": "tell me the weather forecast for gibsland", "target": "intent=GetWeather\nslots=city:gibsland"}
+{"dataset": "snips", "input": "is there a storm now in nc", "target": "intent=GetWeather\nslots=condition_description:storm | timeRange:now | state:nc"}
+{"dataset": "snips", "input": "what will the weather be in monument of lihula on december the 5th", "target": "intent=GetWeather\nslots=geographic_poi:monument of lihula | timeRange:december the 5th"}
+{"dataset": "snips", "input": "weather next year in dominica", "target": "intent=GetWeather\nslots=timeRange:next year | country:dominica"}
+{"dataset": "snips", "input": "when will it be hot here", "target": "intent=GetWeather\nslots=condition_temperature:hot | current_location:here"}
+{"dataset": "snips", "input": "what will the weather be in 1 day in kuwait", "target": "intent=GetWeather\nslots=timeRange:in 1 day | country:kuwait"}
+{"dataset": "snips", "input": "what kind of weather will be in ukraine one minute from now", "target": "intent=GetWeather\nslots=country:ukraine | timeRange:one minute from now"}
+{"dataset": "snips", "input": "humidity in olvey new hampshire", "target": "intent=GetWeather\nslots=condition_description:humidity | city:olvey | state:new hampshire"}
+{"dataset": "snips", "input": "what s the weather going to be in ut", "target": "intent=GetWeather\nslots=state:ut"}
+{"dataset": "snips", "input": "humidity not far from colorado city on november the 7th 2024", "target": "intent=GetWeather\nslots=condition_description:humidity | spatial_relation:not far | city:colorado city | timeRange:november the 7th 2024"}
+{"dataset": "snips", "input": "what is the forecast for wyoming at stanardsville during the storm", "target": "intent=GetWeather\nslots=state:wyoming | city:stanardsville | condition_description:storm"}
+{"dataset": "snips", "input": "what will the weather be in north carolina", "target": "intent=GetWeather\nslots=state:north carolina"}
+{"dataset": "snips", "input": "what is the forecast starting 11 weeks from now nearby the state of wisconsin", "target": "intent=GetWeather\nslots=timeRange:11 weeks from now | spatial_relation:nearby | state:wisconsin"}
+{"dataset": "snips", "input": "will it be rainy at sunrise in ramey saudi arabia", "target": "intent=GetWeather\nslots=condition_description:rainy | timeRange:sunrise | city:ramey | country:saudi arabia"}
+{"dataset": "snips", "input": "check the forecast for nebraska", "target": "intent=GetWeather\nslots=state:nebraska"}
+{"dataset": "snips", "input": "will it be warmer in north korea at nineteen o clock", "target": "intent=GetWeather\nslots=condition_temperature:warmer | country:north korea | timeRange:nineteen o clock"}
+{"dataset": "snips", "input": "let me know the weather forecast around ten pm faraway from here in park narodowy brimstone hill fortress", "target": "intent=GetWeather\nslots=timeRange:ten pm | spatial_relation:faraway | current_location:here | geographic_poi:park narodowy brimstone hill fortress"}
+{"dataset": "snips", "input": "will it be stormy in the ouachita national forest", "target": "intent=GetWeather\nslots=condition_description:stormy | geographic_poi:ouachita national forest"}
+{"dataset": "snips", "input": "tell me if it will be snowy 8 hours from now in mount airy vi", "target": "intent=GetWeather\nslots=condition_description:snowy | timeRange:8 hours from now | city:mount airy | state:vi"}
+{"dataset": "snips", "input": "what will the weather be nineteen hours from now neighboring saint kitts and nevis", "target": "intent=GetWeather\nslots=timeRange:nineteen hours from now | spatial_relation:neighboring | country:saint kitts and nevis"}
+{"dataset": "snips", "input": "will there be hail on 11/12/2036 in singapore", "target": "intent=GetWeather\nslots=condition_description:hail | timeRange:11/12/2036 | country:singapore"}
+{"dataset": "snips", "input": "will it be colder here in 48 and a half weeks", "target": "intent=GetWeather\nslots=condition_temperature:colder | current_location:here | timeRange:in 48 and a half weeks"}
+{"dataset": "snips", "input": "what s the weather going to be in knobel", "target": "intent=GetWeather\nslots=city:knobel"}
+{"dataset": "snips", "input": "what will the weather be in dane on sep the fifth 2030", "target": "intent=GetWeather\nslots=city:dane | timeRange:sep the fifth 2030"}
+{"dataset": "snips", "input": "what will the weather be in ohio", "target": "intent=GetWeather\nslots=state:ohio"}
+{"dataset": "snips", "input": "i need to know the weather for jan the 3rd in mexico when i go to port vue", "target": "intent=GetWeather\nslots=timeRange:jan the 3rd | country:mexico | city:port vue"}
+{"dataset": "snips", "input": "what is the forecast for ōtone prefectural natural park in 1 hour and within the same area", "target": "intent=GetWeather\nslots=geographic_poi:ōtone prefectural natural park | timeRange:in 1 hour | spatial_relation:within the same area"}
+{"dataset": "snips", "input": "what kind of weather is forecast around one pm near vatican", "target": "intent=GetWeather\nslots=timeRange:one pm | spatial_relation:near | country:vatican"}
+{"dataset": "snips", "input": "will it be chilly in weldona", "target": "intent=GetWeather\nslots=condition_temperature:chilly | city:weldona"}
+{"dataset": "snips", "input": "will it be colder in virgin islands national park", "target": "intent=GetWeather\nslots=condition_temperature:colder | geographic_poi:virgin islands national park"}
+{"dataset": "snips", "input": "will it be hot at 13:19 in de funiak springs serbia and montenegro", "target": "intent=GetWeather\nslots=condition_temperature:hot | timeRange:13:19 | city:de funiak springs | country:serbia and montenegro"}
+{"dataset": "snips", "input": "what is the weather going to be like in virginia on st patrick s day", "target": "intent=GetWeather\nslots=state:virginia | timeRange:st patrick s day"}
+{"dataset": "snips", "input": "weather in kaneville maryland", "target": "intent=GetWeather\nslots=city:kaneville | state:maryland"}
+{"dataset": "snips", "input": "when is sunrise for ar", "target": "intent=GetWeather\nslots=timeRange:sunrise | state:ar"}
+{"dataset": "snips", "input": "what will the weather be not far from here on october the nineteenth 2026", "target": "intent=GetWeather\nslots=spatial_relation:not far | current_location:here | timeRange:october the nineteenth 2026"}
+{"dataset": "snips", "input": "what is the forecast for waurika in samoa", "target": "intent=GetWeather\nslots=city:waurika | country:samoa"}
+{"dataset": "snips", "input": "tell me the weather forecast here", "target": "intent=GetWeather\nslots=current_location:here"}
+{"dataset": "snips", "input": "what is the weather forecast nearby nicodemus", "target": "intent=GetWeather\nslots=spatial_relation:nearby | city:nicodemus"}
+{"dataset": "snips", "input": "what will the weather be in nov in brookneal", "target": "intent=GetWeather\nslots=timeRange:nov | city:brookneal"}
+{"dataset": "snips", "input": "will it be colder four months from now in suwanee ak", "target": "intent=GetWeather\nslots=condition_temperature:colder | timeRange:four months from now | city:suwanee | state:ak"}
+{"dataset": "snips", "input": "what is the weather forecast for burundi", "target": "intent=GetWeather\nslots=country:burundi"}
+{"dataset": "snips", "input": "what s the weather in benton city", "target": "intent=GetWeather\nslots=city:benton city"}
+{"dataset": "snips", "input": "what will the weather be in ky on oct 16 2036", "target": "intent=GetWeather\nslots=state:ky | timeRange:oct 16 2036"}
+{"dataset": "snips", "input": "will the sun be out in 1 minute in searcy uganda", "target": "intent=GetWeather\nslots=condition_description:sun | timeRange:in 1 minute | city:searcy | country:uganda"}
+{"dataset": "snips", "input": "what is the weather here", "target": "intent=GetWeather\nslots=current_location:here"}
+{"dataset": "snips", "input": "what will the weather be one second from now in chad", "target": "intent=GetWeather\nslots=timeRange:one second from now | country:chad"}
+{"dataset": "snips", "input": "what kind of weather is forecast in ms now", "target": "intent=GetWeather\nslots=state:ms | timeRange:now"}
+{"dataset": "snips", "input": "what is the forecast for la for freezing", "target": "intent=GetWeather\nslots=state:la | condition_temperature:freezing"}
+{"dataset": "snips", "input": "how cold will it be here in 1 second", "target": "intent=GetWeather\nslots=condition_temperature:cold | current_location:here | timeRange:in 1 second"}
+{"dataset": "snips", "input": "what is the forecast for hotter weather at southford falls state park", "target": "intent=GetWeather\nslots=condition_temperature:hotter | geographic_poi:southford falls state park"}
+{"dataset": "snips", "input": "what is the overcast forecast for the current position starting on jul 19 2030", "target": "intent=GetWeather\nslots=condition_description:overcast | current_location:current position | timeRange:jul 19 2030"}
+{"dataset": "snips", "input": "what is the forecast for morocco at lake ozark on december seventeenth 2022", "target": "intent=GetWeather\nslots=country:morocco | city:lake ozark | timeRange:december seventeenth 2022"}
+{"dataset": "snips", "input": "what will the humidity be in the current spot at 15:19:29", "target": "intent=GetWeather\nslots=condition_description:humidity | current_location:current spot | timeRange:15:19:29"}
+{"dataset": "snips", "input": "what is the forecast in nicodemus and nearby", "target": "intent=GetWeather\nslots=city:nicodemus | spatial_relation:nearby"}
+{"dataset": "snips", "input": "what is the weather going to be like in benton colorado in 2 and a half months", "target": "intent=GetWeather\nslots=city:benton | state:colorado | timeRange:in 2 and a half months"}
+{"dataset": "snips", "input": "what s the weather forecast for bothe-napa valley state park close by february 20", "target": "intent=GetWeather\nslots=geographic_poi:bothe-napa valley state park | spatial_relation:close by | timeRange:february 20"}
+{"dataset": "snips", "input": "what is the forecast for beginning on nov 17 for franklinville", "target": "intent=GetWeather\nslots=timeRange:nov 17 | city:franklinville"}
+{"dataset": "snips", "input": "what s the forecast for sep 26 in emerado saint pierre and miquelon", "target": "intent=GetWeather\nslots=timeRange:sep 26 | city:emerado | country:saint pierre and miquelon"}
+{"dataset": "snips", "input": "will there be a blizzard next winter in visalia idaho", "target": "intent=GetWeather\nslots=condition_description:blizzard | timeRange:next winter | city:visalia | state:idaho"}
+{"dataset": "snips", "input": "will it be warmer in the district of columbia on may 25 2033", "target": "intent=GetWeather\nslots=condition_temperature:warmer | state:district of columbia | timeRange:may 25 2033"}
+{"dataset": "snips", "input": "what will the weather be here on dec 7th", "target": "intent=GetWeather\nslots=current_location:here | timeRange:dec 7th"}
+{"dataset": "snips", "input": "what is the forecast for colder temps beginning on law day here", "target": "intent=GetWeather\nslots=condition_temperature:colder | timeRange:law day | current_location:here"}
+{"dataset": "snips", "input": "what s the weather like in tyonek new jersey", "target": "intent=GetWeather\nslots=city:tyonek | state:new jersey"}
+{"dataset": "snips", "input": "what is the forecast for here for blizzard conditions at five pm", "target": "intent=GetWeather\nslots=current_location:here | condition_description:blizzard | timeRange:five pm"}
+{"dataset": "snips", "input": "will there be a storm in gibsonia at 8 p m", "target": "intent=GetWeather\nslots=condition_description:storm | city:gibsonia | timeRange:8 p m"}
+{"dataset": "snips", "input": "what is the cold condition of our current position for tomorrow", "target": "intent=GetWeather\nslots=condition_temperature:cold | current_location:current position | timeRange:tomorrow"}
+{"dataset": "snips", "input": "what will the weather be in hialeah gardens on october the 24th", "target": "intent=GetWeather\nslots=city:hialeah gardens | timeRange:october the 24th"}
+{"dataset": "snips", "input": "will it be freezing today in delaware and lehigh national heritage corridor", "target": "intent=GetWeather\nslots=condition_temperature:freezing | timeRange:today | geographic_poi:delaware and lehigh national heritage corridor"}
+{"dataset": "snips", "input": "what is the forecast in admire in tx starting at seventeen", "target": "intent=GetWeather\nslots=city:admire | state:tx | timeRange:seventeen"}
+{"dataset": "snips", "input": "what is the forecast in north carolina for edgemoor", "target": "intent=GetWeather\nslots=state:north carolina | city:edgemoor"}
+{"dataset": "snips", "input": "what is the forecast for costa rica", "target": "intent=GetWeather\nslots=country:costa rica"}
+{"dataset": "snips", "input": "need weather for parc national tolhuaca to see if it will be fog today", "target": "intent=GetWeather\nslots=geographic_poi:parc national tolhuaca | condition_description:fog"}
+{"dataset": "snips", "input": "weather in walden russia on 12/26/2018", "target": "intent=GetWeather\nslots=city:walden | country:russia | timeRange:12/26/2018"}
+{"dataset": "snips", "input": "what s the humidity here right now", "target": "intent=GetWeather\nslots=condition_description:humidity | current_location:here | timeRange:now"}
+{"dataset": "snips", "input": "how s the weather at petit manan national wildlife refuge and nearby right now", "target": "intent=GetWeather\nslots=geographic_poi:petit manan national wildlife refuge | spatial_relation:nearby | timeRange:now"}
+{"dataset": "snips", "input": "what is the forecast for lansford for temperate weather", "target": "intent=GetWeather\nslots=city:lansford | condition_temperature:temperate"}
+{"dataset": "snips", "input": "overcast on state holiday in pawling nature reserve and neighboring places", "target": "intent=GetWeather\nslots=condition_description:overcast | timeRange:state holiday | geographic_poi:pawling nature reserve | spatial_relation:neighboring"}
+{"dataset": "snips", "input": "i need the weather in wakarusa", "target": "intent=GetWeather\nslots=city:wakarusa"}
+{"dataset": "snips", "input": "tell me the forecast for 6 am in tatra-nationalpark", "target": "intent=GetWeather\nslots=timeRange:6 am | geographic_poi:tatra-nationalpark"}
+{"dataset": "snips", "input": "tell me the weather forecast for ut on thursday", "target": "intent=GetWeather\nslots=state:ut | timeRange:thursday"}
+{"dataset": "snips", "input": "what is the forecast for turtle islands national park", "target": "intent=GetWeather\nslots=geographic_poi:turtle islands national park"}
+{"dataset": "snips", "input": "will it be hotter in pr at 23 o clock", "target": "intent=GetWeather\nslots=condition_temperature:hotter | state:pr | timeRange:23 o clock"}
+{"dataset": "snips", "input": "weather in two hours in uzbekistan", "target": "intent=GetWeather\nslots=timeRange:in two hours | country:uzbekistan"}
+{"dataset": "snips", "input": "what is the forecast for this afternoon for blizzard conditions in dieterich chad", "target": "intent=GetWeather\nslots=timeRange:afternoon | condition_description:blizzard | city:dieterich | country:chad"}
+{"dataset": "snips", "input": "how s the weather here at two am", "target": "intent=GetWeather\nslots=current_location:here | timeRange:two am"}
+{"dataset": "snips", "input": "will custer national forest be chillier at seven pm", "target": "intent=GetWeather\nslots=geographic_poi:custer national forest | condition_temperature:chillier | timeRange:seven pm"}
+{"dataset": "snips", "input": "what is the forecast for starting at three a m in two buttes for warm weather", "target": "intent=GetWeather\nslots=timeRange:three a m | city:two buttes | condition_temperature:warm"}
+{"dataset": "snips", "input": "what s the weather in fox chapel", "target": "intent=GetWeather\nslots=city:fox chapel"}
+{"dataset": "snips", "input": "what is the rain forecast for one hour from now in south korea", "target": "intent=GetWeather\nslots=condition_description:rain | timeRange:one hour from now | country:south korea"}
+{"dataset": "snips", "input": "tell me the weather forecast here", "target": "intent=GetWeather\nslots=current_location:here"}
+{"dataset": "snips", "input": "will there be a cloud in vi in 14 minutes", "target": "intent=GetWeather\nslots=condition_description:cloud | state:vi | timeRange:in 14 minutes"}
+{"dataset": "snips", "input": "how much colder will it be not far from utah around 3 am", "target": "intent=GetWeather\nslots=condition_temperature:colder | spatial_relation:not far | state:utah | timeRange:3 am"}
+{"dataset": "snips", "input": "will it be chilly midday in cresbard afghanistan", "target": "intent=GetWeather\nslots=condition_temperature:chilly | timeRange:midday | city:cresbard | country:afghanistan"}
+{"dataset": "snips", "input": "what will the weather be in sarygamyş sanctuary on august 21 2035", "target": "intent=GetWeather\nslots=geographic_poi:sarygamyş sanctuary | timeRange:august 21 2035"}
+{"dataset": "snips", "input": "will it be rainy in tenino", "target": "intent=GetWeather\nslots=condition_description:rainy | city:tenino"}
+{"dataset": "snips", "input": "will it be hot in the netherlands on february 16th", "target": "intent=GetWeather\nslots=condition_temperature:hot | country:netherlands | timeRange:february 16th"}
+{"dataset": "snips", "input": "where is belgium located", "target": "intent=GetWeather\nslots=country:belgium"}
+{"dataset": "snips", "input": "what will the weather be in milleville beach", "target": "intent=GetWeather\nslots=city:milleville beach"}
+{"dataset": "snips", "input": "can you put on like a hurricane by paul landers", "target": "intent=PlayMusic\nslots=album:like a hurricane | artist:paul landers"}
+{"dataset": "snips", "input": "play the happy blues by ronnie wood", "target": "intent=PlayMusic\nslots=album:the happy blues | artist:ronnie wood"}
+{"dataset": "snips", "input": "play the newest melody on last fm by eddie vinson", "target": "intent=PlayMusic\nslots=sort:newest | music_item:melody | service:last fm | artist:eddie vinson"}
+{"dataset": "snips", "input": "use groove shark to play music", "target": "intent=PlayMusic\nslots=service:groove shark"}
+{"dataset": "snips", "input": "please play something good from u-roy any song from 1975 on zvooq will do", "target": "intent=PlayMusic\nslots=sort:good | artist:u-roy | music_item:song | year:1975 | service:zvooq"}
+{"dataset": "snips", "input": "play a symphony from 2013", "target": "intent=PlayMusic\nslots=music_item:symphony | year:2013"}
+{"dataset": "snips", "input": "let me hear the good songs from james iha", "target": "intent=PlayMusic\nslots=sort:good | artist:james iha"}
+{"dataset": "snips", "input": "play my inventive playlist", "target": "intent=PlayMusic\nslots=playlist:inventive"}
+{"dataset": "snips", "input": "i want to play music from iheart", "target": "intent=PlayMusic\nslots=service:iheart"}
+{"dataset": "snips", "input": "play subconscious lobotomy from jennifer paull", "target": "intent=PlayMusic\nslots=album:subconscious lobotomy | artist:jennifer paull"}
+{"dataset": "snips", "input": "i want to hear a seventies sound track", "target": "intent=PlayMusic\nslots=year:seventies | music_item:sound track"}
+{"dataset": "snips", "input": "play a john maher track", "target": "intent=PlayMusic\nslots=artist:john maher | music_item:track"}
+{"dataset": "snips", "input": "please play something from dihan slabbert that s on the top fifty", "target": "intent=PlayMusic\nslots=artist:dihan slabbert | sort:top fifty"}
+{"dataset": "snips", "input": "please play something catchy on youtube", "target": "intent=PlayMusic\nslots=playlist:catchy | service:youtube"}
+{"dataset": "snips", "input": "play something from 2004 by imogen heap on spotify", "target": "intent=PlayMusic\nslots=year:2004 | artist:imogen heap | service:spotify"}
+{"dataset": "snips", "input": "play seventies music please", "target": "intent=PlayMusic\nslots=year:seventies"}
+{"dataset": "snips", "input": "play music from the artist sean yseult and sort it through top-50", "target": "intent=PlayMusic\nslots=artist:sean yseult | sort:top-50"}
+{"dataset": "snips", "input": "play anything jd natasha did in the thirties", "target": "intent=PlayMusic\nslots=artist:jd natasha | year:thirties"}
+{"dataset": "snips", "input": "play music off netflix", "target": "intent=PlayMusic\nslots=service:netflix"}
+{"dataset": "snips", "input": "nineties songs on zvooq", "target": "intent=PlayMusic\nslots=year:nineties | service:zvooq"}
+{"dataset": "snips", "input": "open itunes and play ben burnley ready to die", "target": "intent=PlayMusic\nslots=service:itunes | artist:ben burnley | album:ready to die"}
+{"dataset": "snips", "input": "play an ep by zak starkey", "target": "intent=PlayMusic\nslots=music_item:ep | artist:zak starkey"}
+{"dataset": "snips", "input": "play an album from nithyasree mahadevan", "target": "intent=PlayMusic\nslots=music_item:album | artist:nithyasree mahadevan"}
+{"dataset": "snips", "input": "i want to listen to something on youtube", "target": "intent=PlayMusic\nslots=service:youtube"}
+{"dataset": "snips", "input": "start playing something from iheart", "target": "intent=PlayMusic\nslots=service:iheart"}
+{"dataset": "snips", "input": "play trance life on zvooq", "target": "intent=PlayMusic\nslots=playlist:trance life | service:zvooq"}
+{"dataset": "snips", "input": "find and play a concerto on zvooq from 1978 by ginger pooley", "target": "intent=PlayMusic\nslots=music_item:concerto | service:zvooq | year:1978 | artist:ginger pooley"}
+{"dataset": "snips", "input": "play all things must pass", "target": "intent=PlayMusic\nslots=track:all things must pass"}
+{"dataset": "snips", "input": "i want to hear music from allen toussaint from the fifties", "target": "intent=PlayMusic\nslots=artist:allen toussaint | year:fifties"}
+{"dataset": "snips", "input": "turn on last fm", "target": "intent=PlayMusic\nslots=service:last fm"}
+{"dataset": "snips", "input": "play a song by rahsaan patterson", "target": "intent=PlayMusic\nslots=music_item:song | artist:rahsaan patterson"}
+{"dataset": "snips", "input": "play femme fatale by bonobo", "target": "intent=PlayMusic\nslots=track:femme fatale | artist:bonobo"}
+{"dataset": "snips", "input": "play some anneliese van der pol from the thirties on groove shark", "target": "intent=PlayMusic\nslots=artist:anneliese van der pol | year:thirties | service:groove shark"}
+{"dataset": "snips", "input": "i want to listen to an ep from 1998", "target": "intent=PlayMusic\nslots=music_item:ep | year:1998"}
+{"dataset": "snips", "input": "play paul mccartney", "target": "intent=PlayMusic\nslots=artist:paul mccartney"}
+{"dataset": "snips", "input": "play jill sobule album", "target": "intent=PlayMusic\nslots=album:jill sobule | music_item:album"}
+{"dataset": "snips", "input": "play chant s from 1973", "target": "intent=PlayMusic\nslots=music_item:chant | year:1973"}
+{"dataset": "snips", "input": "play something from 90s pop rock essentials", "target": "intent=PlayMusic\nslots=playlist:90s pop rock essentials"}
+{"dataset": "snips", "input": "play have you met miss jones by nicole from google music", "target": "intent=PlayMusic\nslots=track:have you met miss jones | artist:nicole | service:google music"}
+{"dataset": "snips", "input": "play chant by nigger kojak on itunes", "target": "intent=PlayMusic\nslots=music_item:chant | artist:nigger kojak | service:itunes"}
+{"dataset": "snips", "input": "play some sixties songs on google music", "target": "intent=PlayMusic\nslots=year:sixties | service:google music"}
+{"dataset": "snips", "input": "play a fifties album from dj yoda on last fm", "target": "intent=PlayMusic\nslots=year:fifties | music_item:album | artist:dj yoda | service:last fm"}
+{"dataset": "snips", "input": "please play my ecstatic playlist", "target": "intent=PlayMusic\nslots=playlist:ecstatic"}
+{"dataset": "snips", "input": "open deezer and play curtain call: the hits by junichi okada", "target": "intent=PlayMusic\nslots=service:deezer | album:curtain call: the hits | artist:junichi okada"}
+{"dataset": "snips", "input": "let s play jamie robertson s handover on vimeo", "target": "intent=PlayMusic\nslots=artist:jamie robertson | album:handover | service:vimeo"}
+{"dataset": "snips", "input": "play a sixties soundtrack", "target": "intent=PlayMusic\nslots=year:sixties | music_item:soundtrack"}
+{"dataset": "snips", "input": "play this is: miles davis on lastfm", "target": "intent=PlayMusic\nslots=playlist:this is: miles davis | service:lastfm"}
+{"dataset": "snips", "input": "live in l a joseph meyer please", "target": "intent=PlayMusic\nslots=album:live in l a | artist:joseph meyer"}
+{"dataset": "snips", "input": "play the top twenty hisham abbas on youtube", "target": "intent=PlayMusic\nslots=sort:top twenty | artist:hisham abbas | service:youtube"}
+{"dataset": "snips", "input": "play some seventies filipp kirkorow", "target": "intent=PlayMusic\nslots=year:seventies | artist:filipp kirkorow"}
+{"dataset": "snips", "input": "play the most popular puretone", "target": "intent=PlayMusic\nslots=sort:most popular | artist:puretone"}
+{"dataset": "snips", "input": "play music from e-type", "target": "intent=PlayMusic\nslots=artist:e-type"}
+{"dataset": "snips", "input": "can you play a j pero on groove shark", "target": "intent=PlayMusic\nslots=artist:a j pero | service:groove shark"}
+{"dataset": "snips", "input": "play a bob burns song", "target": "intent=PlayMusic\nslots=artist:bob burns | music_item:song"}
+{"dataset": "snips", "input": "i want to hear leroi moore on vimeo play the song chance of a lifetime", "target": "intent=PlayMusic\nslots=artist:leroi moore | service:vimeo | music_item:song | track:chance of a lifetime"}
+{"dataset": "snips", "input": "play some symphony music from david lindley", "target": "intent=PlayMusic\nslots=music_item:symphony | artist:david lindley"}
+{"dataset": "snips", "input": "please play something on iheart from artist ari gold last album", "target": "intent=PlayMusic\nslots=service:iheart | artist:ari gold | sort:last | music_item:album"}
+{"dataset": "snips", "input": "i want to hear them from the artist murcof", "target": "intent=PlayMusic\nslots=music_item:them | artist:murcof"}
+{"dataset": "snips", "input": "play sound track music from the twenties", "target": "intent=PlayMusic\nslots=music_item:sound track | year:twenties"}
+{"dataset": "snips", "input": "play dance with the devil by mr lordi", "target": "intent=PlayMusic\nslots=track:dance with the devil | artist:mr lordi"}
+{"dataset": "snips", "input": "play music from 1996", "target": "intent=PlayMusic\nslots=year:1996"}
+{"dataset": "snips", "input": "go to itunes and play dr lecter by david hodges", "target": "intent=PlayMusic\nslots=service:itunes | album:dr lecter | artist:david hodges"}
+{"dataset": "snips", "input": "play s t r e e t d a d from hiromitsu agatsuma through pandora", "target": "intent=PlayMusic\nslots=album:s t r e e t d a d | artist:hiromitsu agatsuma | service:pandora"}
+{"dataset": "snips", "input": "play some movement from the fourties", "target": "intent=PlayMusic\nslots=music_item:movement | year:fourties"}
+{"dataset": "snips", "input": "please tune into chieko ochi s good music", "target": "intent=PlayMusic\nslots=music_item:tune | artist:chieko ochi | sort:good"}
+{"dataset": "snips", "input": "play the greatest music from bryan maclean", "target": "intent=PlayMusic\nslots=sort:greatest | artist:bryan maclean"}
+{"dataset": "snips", "input": "play something on last fm", "target": "intent=PlayMusic\nslots=service:last fm"}
+{"dataset": "snips", "input": "play music by joy nilo", "target": "intent=PlayMusic\nslots=artist:joy nilo"}
+{"dataset": "snips", "input": "play some gary lee conner", "target": "intent=PlayMusic\nslots=artist:gary lee conner"}
+{"dataset": "snips", "input": "play music by brian chase", "target": "intent=PlayMusic\nslots=artist:brian chase"}
+{"dataset": "snips", "input": "can you play top zvooq by fink", "target": "intent=PlayMusic\nslots=sort:top | service:zvooq | artist:fink"}
+{"dataset": "snips", "input": "play the top-20 nawang khechog soundtrack", "target": "intent=PlayMusic\nslots=sort:top-20 | artist:nawang khechog | music_item:soundtrack"}
+{"dataset": "snips", "input": "let s hear stuff from andrew hewitt", "target": "intent=PlayMusic\nslots=artist:andrew hewitt"}
+{"dataset": "snips", "input": "play a good ep from the eighties by peter murphy", "target": "intent=PlayMusic\nslots=sort:good | music_item:ep | year:eighties | artist:peter murphy"}
+{"dataset": "snips", "input": "play another passenger from louis nelson delisle", "target": "intent=PlayMusic\nslots=album:another passenger | artist:louis nelson delisle"}
+{"dataset": "snips", "input": "play the top music from the railway children off last fm", "target": "intent=PlayMusic\nslots=sort:top | artist:the railway children | service:last fm"}
+{"dataset": "snips", "input": "play the best becca", "target": "intent=PlayMusic\nslots=sort:best | artist:becca"}
+{"dataset": "snips", "input": "play something by duke ellington from the seventies", "target": "intent=PlayMusic\nslots=artist:duke ellington | year:seventies"}
+{"dataset": "snips", "input": "use the last fm service to play a mis niños de 30", "target": "intent=PlayMusic\nslots=service:last fm | playlist:a mis niños de 30"}
+{"dataset": "snips", "input": "play my black sabbath: the dio years playlist", "target": "intent=PlayMusic\nslots=playlist:black sabbath: the dio years"}
+{"dataset": "snips", "input": "play an ep from mike harding", "target": "intent=PlayMusic\nslots=music_item:ep | artist:mike harding"}
+{"dataset": "snips", "input": "i want to hear anything from the rock symphonique genre please", "target": "intent=PlayMusic\nslots=genre:rock symphonique"}
+{"dataset": "snips", "input": "please play a 1997 record", "target": "intent=PlayMusic\nslots=year:1997 | music_item:record"}
+{"dataset": "snips", "input": "put what color is your sky by alana davis on the stereo", "target": "intent=PlayMusic\nslots=album:what color is your sky | artist:alana davis"}
+{"dataset": "snips", "input": "please play a movement from george formby jr", "target": "intent=PlayMusic\nslots=music_item:movement | artist:george formby jr"}
+{"dataset": "snips", "input": "play some new les vandyke on slacker", "target": "intent=PlayMusic\nslots=sort:new | artist:les vandyke | service:slacker"}
+{"dataset": "snips", "input": "please open zvooq", "target": "intent=PlayMusic\nslots=service:zvooq"}
+{"dataset": "snips", "input": "play progressive metal", "target": "intent=PlayMusic\nslots=genre:progressive metal"}
+{"dataset": "snips", "input": "i want to hear soundtrack music on youtube from helena iren michaelsen", "target": "intent=PlayMusic\nslots=music_item:soundtrack | service:youtube | artist:helena iren michaelsen"}
+{"dataset": "snips", "input": "play a song by ramesh narayan from 1960", "target": "intent=PlayMusic\nslots=music_item:song | artist:ramesh narayan | year:1960"}
+{"dataset": "snips", "input": "play some blues britânico", "target": "intent=PlayMusic\nslots=genre:blues britânico"}
+{"dataset": "snips", "input": "proceed with hitomi nabatame music from 2003", "target": "intent=PlayMusic\nslots=artist:hitomi nabatame | year:2003"}
+{"dataset": "snips", "input": "play something on zvooq", "target": "intent=PlayMusic\nslots=service:zvooq"}
+{"dataset": "snips", "input": "play music from lynn & wade llp", "target": "intent=PlayMusic\nslots=artist:lynn & wade llp"}
+{"dataset": "snips", "input": "let me hear chris knight music", "target": "intent=PlayMusic\nslots=artist:chris knight"}
+{"dataset": "snips", "input": "let s hear good mohammad mamle on vimeo", "target": "intent=PlayMusic\nslots=sort:good | artist:mohammad mamle | service:vimeo"}
+{"dataset": "snips", "input": "please play a sound track from the fifties that s on iheart", "target": "intent=PlayMusic\nslots=music_item:sound track | year:fifties | service:iheart"}
+{"dataset": "snips", "input": "play music from van-pires by dmitry malikov", "target": "intent=PlayMusic\nslots=album:music from van-pires | artist:dmitry malikov"}
+{"dataset": "snips", "input": "play rich sex on iheart", "target": "intent=PlayMusic\nslots=track:rich sex | service:iheart"}
+{"dataset": "snips", "input": "play modern psychedelia", "target": "intent=PlayMusic\nslots=playlist:modern psychedelia"}
+{"dataset": "snips", "input": "rate this album four out of 6 stars", "target": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:four | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "give this textbook four stars", "target": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:four | rating_unit:stars"}
+{"dataset": "snips", "input": "rate a twist in the tale zero out of 6 points", "target": "intent=RateBook\nslots=object_name:a twist in the tale | rating_value:zero | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the children of niobe 1 out of 6 points", "target": "intent=RateBook\nslots=object_name:the children of niobe | rating_value:1 | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "give zero stars to halo: ghosts of onyx", "target": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_name:halo: ghosts of onyx"}
+{"dataset": "snips", "input": "give this novel a score of 5", "target": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:5"}
+{"dataset": "snips", "input": "give the current series four of 6 points", "target": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:four | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "give 4 out of 6 points to the spirit ring chronicle", "target": "intent=RateBook\nslots=rating_value:4 | best_rating:6 | rating_unit:points | object_name:the spirit ring | object_part_of_series_type:chronicle"}
+{"dataset": "snips", "input": "give two stars out of 6 to 36 children", "target": "intent=RateBook\nslots=rating_value:two | rating_unit:stars | best_rating:6 | object_name:36 children"}
+{"dataset": "snips", "input": "rate the sneetches and other stories a three", "target": "intent=RateBook\nslots=object_name:the sneetches and other stories | rating_value:three"}
+{"dataset": "snips", "input": "rate the current series four stars", "target": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:four | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this book a 4 out of 6", "target": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:4 | best_rating:6"}
+{"dataset": "snips", "input": "rate the current novel 5 of 6 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:5 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this book a 1", "target": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:1"}
+{"dataset": "snips", "input": "give zero out of 6 to the current album", "target": "intent=RateBook\nslots=rating_value:zero | best_rating:6 | object_select:current | object_type:album"}
+{"dataset": "snips", "input": "give this album 5 points", "target": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:5 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the mystery of the tolling bell series 4 stars", "target": "intent=RateBook\nslots=object_name:the mystery of the tolling bell | object_part_of_series_type:series | rating_value:4 | rating_unit:stars"}
+{"dataset": "snips", "input": "give the current novel two stars", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:two | rating_unit:stars"}
+{"dataset": "snips", "input": "give the current book 4 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:4 | rating_unit:stars"}
+{"dataset": "snips", "input": "give joe magarac and his usa citizen papers 5 points", "target": "intent=RateBook\nslots=object_name:joe magarac and his usa citizen papers | rating_value:5 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the guilty 0 of 6 points", "target": "intent=RateBook\nslots=object_name:the guilty | rating_value:0 | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate this textbook four out of 6", "target": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:four | best_rating:6"}
+{"dataset": "snips", "input": "give the catedral series four stars", "target": "intent=RateBook\nslots=object_name:catedral | object_part_of_series_type:series | rating_value:four | rating_unit:stars"}
+{"dataset": "snips", "input": "reminiscences of the anti-japanese guerillas chronicle deserves zero points out of 6 for a rating", "target": "intent=RateBook\nslots=object_name:reminiscences of the anti-japanese guerillas | object_part_of_series_type:chronicle | rating_value:zero | rating_unit:points | best_rating:6"}
+{"dataset": "snips", "input": "give small screen big picture a 0 out of 6 rating", "target": "intent=RateBook\nslots=object_name:small screen big picture | rating_value:0 | best_rating:6"}
+{"dataset": "snips", "input": "gods and pawns should get a three", "target": "intent=RateBook\nslots=object_name:gods and pawns | rating_value:three"}
+{"dataset": "snips", "input": "give zero stars to this textbook", "target": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_select:this | object_type:textbook"}
+{"dataset": "snips", "input": "rate the current novel a 4 out of 6 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:4 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate the book the atmospheric railway 5 out of 6", "target": "intent=RateBook\nslots=object_type:book | object_name:the atmospheric railway | rating_value:5 | best_rating:6"}
+{"dataset": "snips", "input": "rate black boy 4 out of 6", "target": "intent=RateBook\nslots=object_name:black boy | rating_value:4 | best_rating:6"}
+{"dataset": "snips", "input": "rate the chronicle current 1 star", "target": "intent=RateBook\nslots=object_part_of_series_type:chronicle | object_select:current | rating_value:1"}
+{"dataset": "snips", "input": "mark this album a score of 5", "target": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:5"}
+{"dataset": "snips", "input": "rate the current novel zero out of 6", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:zero | best_rating:6"}
+{"dataset": "snips", "input": "rate the current novel a 2", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:2"}
+{"dataset": "snips", "input": "give the giant devil dingo 4 points", "target": "intent=RateBook\nslots=object_name:the giant devil dingo | rating_value:4 | rating_unit:points"}
+{"dataset": "snips", "input": "rate this current novel two out of 6", "target": "intent=RateBook\nslots=object_select:this current | object_type:novel | rating_value:two | best_rating:6"}
+{"dataset": "snips", "input": "give monthly index of medical specialities a two out of 6 rating", "target": "intent=RateBook\nslots=object_name:monthly index of medical specialities | rating_value:two | best_rating:6"}
+{"dataset": "snips", "input": "rate this novel 2 out of 6 points", "target": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:2 | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the current novel 3 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:3 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate the current essay zero out of 6 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:essay | rating_value:zero | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this current album 0 stars", "target": "intent=RateBook\nslots=object_select:this current | object_type:album | rating_value:0 | rating_unit:stars"}
+{"dataset": "snips", "input": "give a brief stop on the road from auschwitz 1 out of 6 stars", "target": "intent=RateBook\nslots=object_name:a brief stop on the road from auschwitz | rating_value:1 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this album 4 out of 6 stars", "target": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:4 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate hate that cat 1 out of 6 stars", "target": "intent=RateBook\nslots=object_name:hate that cat | rating_value:1 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "give my current book one of 6 stars", "target": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:one | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate current novel one stars", "target": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:one | rating_unit:stars"}
+{"dataset": "snips", "input": "give five out of 6 points to this album", "target": "intent=RateBook\nslots=rating_value:five | best_rating:6 | rating_unit:points | object_select:this | object_type:album"}
+{"dataset": "snips", "input": "give a rating of 2 to juneteenth", "target": "intent=RateBook\nslots=rating_value:2 | object_name:juneteenth"}
+{"dataset": "snips", "input": "rate ruth five out of 6 points", "target": "intent=RateBook\nslots=object_name:ruth | rating_value:five | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the sea of trolls 1 stars out of 6", "target": "intent=RateBook\nslots=object_name:the sea of trolls | rating_value:1 | rating_unit:stars | best_rating:6"}
+{"dataset": "snips", "input": "give the zenith angle one out of 6 points", "target": "intent=RateBook\nslots=object_name:the zenith angle | rating_value:one | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "give zero stars to rhialto the marvellous", "target": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_name:rhialto the marvellous"}
+{"dataset": "snips", "input": "give the current book a zero of 6", "target": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:zero | best_rating:6"}
+{"dataset": "snips", "input": "rate personal demons 0 out of 6 points", "target": "intent=RateBook\nslots=object_name:personal demons | rating_value:0 | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the current series a 4", "target": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:4"}
+{"dataset": "snips", "input": "give one of 6 points to who will cry when you die", "target": "intent=RateBook\nslots=rating_value:one | best_rating:6 | rating_unit:points | object_name:who will cry when you die"}
+{"dataset": "snips", "input": "give zero out of 6 stars to this album", "target": "intent=RateBook\nslots=rating_value:zero | best_rating:6 | rating_unit:stars | object_select:this | object_type:album"}
+{"dataset": "snips", "input": "give this novel 2 stars", "target": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:2 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate the 8-week cholesterol cure three out of 6", "target": "intent=RateBook\nslots=object_name:the 8-week cholesterol cure | rating_value:three | best_rating:6"}
+{"dataset": "snips", "input": "rate this novel 3 out of 6 points", "target": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:3 | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate the lives of john lennon five points", "target": "intent=RateBook\nslots=object_name:the lives of john lennon | rating_value:five | rating_unit:points"}
+{"dataset": "snips", "input": "give the american scene 2 of 6 stars", "target": "intent=RateBook\nslots=object_name:the american scene | rating_value:2 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this textbook a one", "target": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:one"}
+{"dataset": "snips", "input": "give summer of the swans 1 points", "target": "intent=RateBook\nslots=object_name:summer of the swans | rating_value:1 | rating_unit:points"}
+{"dataset": "snips", "input": "give the current textbook a rating of five", "target": "intent=RateBook\nslots=object_select:current | object_type:textbook | rating_value:five"}
+{"dataset": "snips", "input": "give 4 points to the person and the common good", "target": "intent=RateBook\nslots=rating_value:4 | rating_unit:points | object_name:the person and the common good"}
+{"dataset": "snips", "input": "give a four rating to a world apart", "target": "intent=RateBook\nslots=rating_value:four | object_name:a world apart"}
+{"dataset": "snips", "input": "rate this chronicle 0 points", "target": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:chronicle | rating_value:0 | rating_unit:points"}
+{"dataset": "snips", "input": "give wilco: learning how to die a rating of four points", "target": "intent=RateBook\nslots=object_name:wilco: learning how to die | rating_value:four | rating_unit:points"}
+{"dataset": "snips", "input": "rate this saga two out of 6", "target": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:saga | rating_value:two | best_rating:6"}
+{"dataset": "snips", "input": "rate the gift: imagination and the erotic life of property five stars", "target": "intent=RateBook\nslots=object_name:the gift: imagination and the erotic life of property | rating_value:five | rating_unit:stars"}
+{"dataset": "snips", "input": "rate neverwhere four out of 6", "target": "intent=RateBook\nslots=object_name:neverwhere | rating_value:four | best_rating:6"}
+{"dataset": "snips", "input": "rate in the company of cheerful ladies a zero out of 6", "target": "intent=RateBook\nslots=object_name:in the company of cheerful ladies | rating_value:zero | best_rating:6"}
+{"dataset": "snips", "input": "give one start to the current book", "target": "intent=RateBook\nslots=rating_value:one | object_select:current | object_type:book"}
+{"dataset": "snips", "input": "give this chronicle a 2 rating", "target": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:chronicle | rating_value:2"}
+{"dataset": "snips", "input": "rate this essay a 1", "target": "intent=RateBook\nslots=object_select:this | object_type:essay | rating_value:1"}
+{"dataset": "snips", "input": "out of 6 give rivers of babylon a 1", "target": "intent=RateBook\nslots=best_rating:6 | object_name:rivers of babylon | rating_value:1"}
+{"dataset": "snips", "input": "give 5 of 6 stars to expressive processing", "target": "intent=RateBook\nslots=rating_value:5 | best_rating:6 | rating_unit:stars | object_name:expressive processing"}
+{"dataset": "snips", "input": "rate the ghost house series a one", "target": "intent=RateBook\nslots=object_name:the ghost house | object_part_of_series_type:series | rating_value:one"}
+{"dataset": "snips", "input": "rate know ye not agincourt 2 out of 6 stars", "target": "intent=RateBook\nslots=object_name:know ye not agincourt | rating_value:2 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "i would rate theft: a love story four out of 6 stars", "target": "intent=RateBook\nslots=object_name:theft: a love story | rating_value:four | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate the further adventures of the joker four stars", "target": "intent=RateBook\nslots=object_name:the further adventures of the joker | rating_value:four | rating_unit:stars"}
+{"dataset": "snips", "input": "give 0 rating to in the heart of the country", "target": "intent=RateBook\nslots=rating_value:0 | object_name:in the heart of the country"}
+{"dataset": "snips", "input": "give 1 out of 6 rating to the current textbook", "target": "intent=RateBook\nslots=rating_value:1 | best_rating:6 | object_select:current | object_type:textbook"}
+{"dataset": "snips", "input": "give the current chronicle five of 6 points", "target": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:chronicle | rating_value:five | best_rating:6 | rating_unit:points"}
+{"dataset": "snips", "input": "rate cotton comes to harlem a 2", "target": "intent=RateBook\nslots=object_name:cotton comes to harlem | rating_value:2"}
+{"dataset": "snips", "input": "give this album one stars", "target": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:one | rating_unit:stars"}
+{"dataset": "snips", "input": "rate the adventures of augie march one points", "target": "intent=RateBook\nslots=object_name:the adventures of augie march | rating_value:one | rating_unit:points"}
+{"dataset": "snips", "input": "rate soul music a 0", "target": "intent=RateBook\nslots=object_name:soul music | rating_value:0"}
+{"dataset": "snips", "input": "give hindu temples: what happened to them a 5 out of 6 stars", "target": "intent=RateBook\nslots=object_name:hindu temples: what happened to them | rating_value:5 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "give this novel a 1", "target": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:1"}
+{"dataset": "snips", "input": "rate the current textbook 1 out of 6", "target": "intent=RateBook\nslots=object_select:current | object_type:textbook | rating_value:1 | best_rating:6"}
+{"dataset": "snips", "input": "give this textbook 0 out of 6 stars", "target": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:0 | best_rating:6 | rating_unit:stars"}
+{"dataset": "snips", "input": "give the crystal snare 5 stars", "target": "intent=RateBook\nslots=object_name:the crystal snare | rating_value:5 | rating_unit:stars"}
+{"dataset": "snips", "input": "rate this saga two out of 6", "target": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:saga | rating_value:two | best_rating:6"}
+{"dataset": "snips", "input": "give wilco: learning how to die a rating of four points", "target": "intent=RateBook\nslots=object_name:wilco: learning how to die | rating_value:four | rating_unit:points"}
+{"dataset": "snips", "input": "rate this book 3 stars out of 6", "target": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:3 | rating_unit:stars | best_rating:6"}
+{"dataset": "snips", "input": "rate the three junes one out of 6", "target": "intent=RateBook\nslots=object_name:three junes | rating_value:one | best_rating:6"}
+{"dataset": "snips", "input": "give four stars to the broken window", "target": "intent=RateBook\nslots=rating_value:four | rating_unit:stars | object_name:the broken window"}
+{"dataset": "snips", "input": "rate the current series 4 points", "target": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:4 | rating_unit:points"}
+{"dataset": "snips", "input": "wish to find the movie the heart beat", "target": "intent=SearchCreativeWork\nslots=object_type:movie | object_name:heart beat"}
+{"dataset": "snips", "input": "please look up the tv show vanity", "target": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:vanity"}
+{"dataset": "snips", "input": "get me the elvis christmas album tv show", "target": "intent=SearchCreativeWork\nslots=object_name:elvis christmas album | object_type:tv show"}
+{"dataset": "snips", "input": "please find me the saga the deep six", "target": "intent=SearchCreativeWork\nslots=object_type:saga | object_name:the deep six"}
+{"dataset": "snips", "input": "wish to see the photograph with the name live: right here", "target": "intent=SearchCreativeWork\nslots=object_type:photograph | object_name:live: right here"}
+{"dataset": "snips", "input": "looking for a novel called death march", "target": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:death march"}
+{"dataset": "snips", "input": "can you find me the work the curse of oak island", "target": "intent=SearchCreativeWork\nslots=object_name:the curse of oak island"}
+{"dataset": "snips", "input": "please get me the sacred and profane love machine game", "target": "intent=SearchCreativeWork\nslots=object_name:the sacred and profane love machine | object_type:game"}
+{"dataset": "snips", "input": "need a creative work called hit by love", "target": "intent=SearchCreativeWork\nslots=object_name:hit by love"}
+{"dataset": "snips", "input": "search for the trailer for the office", "target": "intent=SearchCreativeWork\nslots=object_type:trailer | object_name:the office"}
+{"dataset": "snips", "input": "looking for a creative work called plant ecology", "target": "intent=SearchCreativeWork\nslots=object_name:plant ecology"}
+{"dataset": "snips", "input": "find the television show to me", "target": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:to me"}
+{"dataset": "snips", "input": "can you please find me the saga chump change", "target": "intent=SearchCreativeWork\nslots=object_type:saga | object_name:chump change"}
+{"dataset": "snips", "input": "can you find me the ridiculous 6 book", "target": "intent=SearchCreativeWork\nslots=object_name:the ridiculous 6 | object_type:book"}
+{"dataset": "snips", "input": "please fine me the tv series now we are married", "target": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:now we are married"}
+{"dataset": "snips", "input": "please look up the work bachelor pad", "target": "intent=SearchCreativeWork\nslots=object_name:bachelor pad"}
+{"dataset": "snips", "input": "please help me find the late night heartbroken blues television show", "target": "intent=SearchCreativeWork\nslots=object_name:late night heartbroken blues | object_type:television show"}
+{"dataset": "snips", "input": "please help me find bend it like beckham the musical", "target": "intent=SearchCreativeWork\nslots=object_name:bend it like beckham the musical"}
+{"dataset": "snips", "input": "please look up the tv series parables for wooden ears", "target": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:parables for wooden ears"}
+{"dataset": "snips", "input": "can you find me hey man", "target": "intent=SearchCreativeWork\nslots=object_name:hey man"}
+{"dataset": "snips", "input": "please search for switched", "target": "intent=SearchCreativeWork\nslots=object_name:switched"}
+{"dataset": "snips", "input": "can you get me the controlled conversations tv series", "target": "intent=SearchCreativeWork\nslots=object_name:controlled conversations | object_type:tv series"}
+{"dataset": "snips", "input": "please look up the song the mad magician", "target": "intent=SearchCreativeWork\nslots=object_type:song | object_name:the mad magician"}
+{"dataset": "snips", "input": "please search for the tv show the best of white lion", "target": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:the best of white lion"}
+{"dataset": "snips", "input": "please find me phineas redux", "target": "intent=SearchCreativeWork\nslots=object_name:phineas redux"}
+{"dataset": "snips", "input": "get me the procession of ants tv show", "target": "intent=SearchCreativeWork\nslots=object_name:procession of ants | object_type:tv show"}
+{"dataset": "snips", "input": "looking for a game called phinally phamous", "target": "intent=SearchCreativeWork\nslots=object_type:game | object_name:phinally phamous"}
+{"dataset": "snips", "input": "can you search the daring youth saga", "target": "intent=SearchCreativeWork\nslots=object_name:daring youth | object_type:saga"}
+{"dataset": "snips", "input": "look for the book the girl who was plugged in", "target": "intent=SearchCreativeWork\nslots=object_type:book | object_name:the girl who was plugged in"}
+{"dataset": "snips", "input": "find me a tv show called baby blue", "target": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:baby blue"}
+{"dataset": "snips", "input": "search for appalachian journey", "target": "intent=SearchCreativeWork\nslots=object_name:appalachian journey"}
+{"dataset": "snips", "input": "look for the television show meet the prince", "target": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:meet the prince"}
+{"dataset": "snips", "input": "can you find me cracks the safe", "target": "intent=SearchCreativeWork\nslots=object_name:cracks the safe"}
+{"dataset": "snips", "input": "please help me search the hell money saga", "target": "intent=SearchCreativeWork\nslots=object_name:hell money | object_type:saga"}
+{"dataset": "snips", "input": "get me the secret south song", "target": "intent=SearchCreativeWork\nslots=object_name:secret south | object_type:song"}
+{"dataset": "snips", "input": "can you find me the work titled music for millions", "target": "intent=SearchCreativeWork\nslots=object_name:music for millions"}
+{"dataset": "snips", "input": "please search for the painting titled this is the night", "target": "intent=SearchCreativeWork\nslots=object_type:painting | object_name:this is the night"}
+{"dataset": "snips", "input": "could you locate the epic conditions picture", "target": "intent=SearchCreativeWork\nslots=object_name:epic conditions | object_type:picture"}
+{"dataset": "snips", "input": "get me the trailer of good morning sunshine", "target": "intent=SearchCreativeWork\nslots=object_type:trailer | object_name:good morning sunshine"}
+{"dataset": "snips", "input": "please search the an introduction to karl marx painting", "target": "intent=SearchCreativeWork\nslots=object_name:an introduction to karl marx | object_type:painting"}
+{"dataset": "snips", "input": "can you find me the blue spring trailer", "target": "intent=SearchCreativeWork\nslots=object_name:blue spring | object_type:trailer"}
+{"dataset": "snips", "input": "could you find the tv series the approach", "target": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:the approach"}
+{"dataset": "snips", "input": "search for the tv show a lawless street", "target": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:a lawless street"}
+{"dataset": "snips", "input": "please look up three essays on the theory of sexuality show", "target": "intent=SearchCreativeWork\nslots=object_name:three essays on the theory of sexuality | object_type:show"}
+{"dataset": "snips", "input": "please get me the compulsive disclosure song", "target": "intent=SearchCreativeWork\nslots=object_name:compulsive disclosure | object_type:song"}
+{"dataset": "snips", "input": "can you look up the molecular oncology saga", "target": "intent=SearchCreativeWork\nslots=object_name:molecular oncology | object_type:saga"}
+{"dataset": "snips", "input": "search for the sound of one hand clapping", "target": "intent=SearchCreativeWork\nslots=object_name:the sound of one hand clapping"}
+{"dataset": "snips", "input": "find the creative work deadly weapons", "target": "intent=SearchCreativeWork\nslots=object_name:deadly weapons"}
+{"dataset": "snips", "input": "need the creative work called the logic of scientific discovery", "target": "intent=SearchCreativeWork\nslots=object_name:the logic of scientific discovery"}
+{"dataset": "snips", "input": "can you find me the national anthem of the ancient britons television show", "target": "intent=SearchCreativeWork\nslots=object_name:national anthem of the ancient britons | object_type:television show"}
+{"dataset": "snips", "input": "can you please find me the harry hood saga", "target": "intent=SearchCreativeWork\nslots=object_name:harry hood | object_type:saga"}
+{"dataset": "snips", "input": "can you find me the work bible translations into hawaii pidgin", "target": "intent=SearchCreativeWork\nslots=object_name:bible translations into hawaii pidgin"}
+{"dataset": "snips", "input": "please look up and find me monty python live at the hollywood bowl", "target": "intent=SearchCreativeWork\nslots=object_name:monty python live at the hollywood bowl"}
+{"dataset": "snips", "input": "please search for mary", "target": "intent=SearchCreativeWork\nslots=object_name:mary"}
+{"dataset": "snips", "input": "please search the game atla: all this life allows", "target": "intent=SearchCreativeWork\nslots=object_type:game | object_name:atla: all this life allows"}
+{"dataset": "snips", "input": "find me the novel with the name to lose my life …", "target": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:to lose my life"}
+{"dataset": "snips", "input": "looking for a song with the title of live at the kings center", "target": "intent=SearchCreativeWork\nslots=object_type:song | object_name:live at the kings center"}
+{"dataset": "snips", "input": "can you find the american bison photograph", "target": "intent=SearchCreativeWork\nslots=object_name:american bison | object_type:photograph"}
+{"dataset": "snips", "input": "can you find me the free for all show", "target": "intent=SearchCreativeWork\nslots=object_name:free for all | object_type:show"}
+{"dataset": "snips", "input": "please find me the olympia 74 soundtrack", "target": "intent=SearchCreativeWork\nslots=object_name:olympia 74 | object_type:soundtrack"}
+{"dataset": "snips", "input": "look for the album slave to the grind", "target": "intent=SearchCreativeWork\nslots=object_type:album | object_name:slave to the grind"}
+{"dataset": "snips", "input": "please find me the projekt: the new face of goth", "target": "intent=SearchCreativeWork\nslots=object_name:projekt: the new face of goth"}
+{"dataset": "snips", "input": "can you get me the message from god saga", "target": "intent=SearchCreativeWork\nslots=object_name:message from god | object_type:saga"}
+{"dataset": "snips", "input": "find me the soundtrack a honeymoon adventure", "target": "intent=SearchCreativeWork\nslots=object_type:soundtrack | object_name:a honeymoon adventure"}
+{"dataset": "snips", "input": "please get me the henderson kids saga", "target": "intent=SearchCreativeWork\nslots=object_name:the henderson kids | object_type:saga"}
+{"dataset": "snips", "input": "find the movie splendor in the grass", "target": "intent=SearchCreativeWork\nslots=object_type:movie | object_name:splendor in the grass"}
+{"dataset": "snips", "input": "am looking for a book with the title free to play", "target": "intent=SearchCreativeWork\nslots=object_type:book | object_name:free to play"}
+{"dataset": "snips", "input": "look for the tv series jersey boys", "target": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:jersey boys"}
+{"dataset": "snips", "input": "can you search the book paris - when it sizzles", "target": "intent=SearchCreativeWork\nslots=object_type:book | object_name:paris - when it sizzles"}
+{"dataset": "snips", "input": "looking for a painting with the title with you", "target": "intent=SearchCreativeWork\nslots=object_type:painting | object_name:with you"}
+{"dataset": "snips", "input": "please find me the classified book", "target": "intent=SearchCreativeWork\nslots=object_name:classified | object_type:book"}
+{"dataset": "snips", "input": "look for the show v-the new mythology suite", "target": "intent=SearchCreativeWork\nslots=object_type:show | object_name:v-the new mythology suite"}
+{"dataset": "snips", "input": "find the creative work face down", "target": "intent=SearchCreativeWork\nslots=object_name:face down"}
+{"dataset": "snips", "input": "find four songs", "target": "intent=SearchCreativeWork\nslots=object_name:four songs"}
+{"dataset": "snips", "input": "find me the soundtrack live at the greek theatre", "target": "intent=SearchCreativeWork\nslots=object_type:soundtrack | object_name:live at the greek theatre"}
+{"dataset": "snips", "input": "please search for the television show episodi di the blacklist", "target": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:episodi di the blacklist"}
+{"dataset": "snips", "input": "find a creative work called fire in the hole", "target": "intent=SearchCreativeWork\nslots=object_name:fire in the hole"}
+{"dataset": "snips", "input": "looking for the picture with the name of who made stevie crye", "target": "intent=SearchCreativeWork\nslots=object_type:picture | object_name:who made stevie crye"}
+{"dataset": "snips", "input": "look for the album wolves within", "target": "intent=SearchCreativeWork\nslots=object_type:album | object_name:wolves within"}
+{"dataset": "snips", "input": "find the album orphan girl at the cemetery", "target": "intent=SearchCreativeWork\nslots=object_type:album | object_name:orphan girl at the cemetery"}
+{"dataset": "snips", "input": "please find me the journal of the british astronomical association movie", "target": "intent=SearchCreativeWork\nslots=object_name:journal of the british astronomical association | object_type:movie"}
+{"dataset": "snips", "input": "find the tv show the daydreamer", "target": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:the daydreamer"}
+{"dataset": "snips", "input": "can you please get me the book dracula 5: the blood legacy", "target": "intent=SearchCreativeWork\nslots=object_type:book | object_name:dracula 5: the blood legacy"}
+{"dataset": "snips", "input": "please look up the novel live to dance", "target": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:live to dance"}
+{"dataset": "snips", "input": "please find me the video game titled 20 hours in america", "target": "intent=SearchCreativeWork\nslots=object_type:video game | object_name:20 hours in america"}
+{"dataset": "snips", "input": "find the creative work the devil in stitches", "target": "intent=SearchCreativeWork\nslots=object_name:the devil in stitches"}
+{"dataset": "snips", "input": "please look up the work prophets", "target": "intent=SearchCreativeWork\nslots=object_name:prophets"}
+{"dataset": "snips", "input": "i m looking for welcome to the canteen", "target": "intent=SearchCreativeWork\nslots=object_name:welcome to the canteen"}
+{"dataset": "snips", "input": "please search for the journal of official statistics show", "target": "intent=SearchCreativeWork\nslots=object_name:journal of official statistics | object_type:show"}
+{"dataset": "snips", "input": "please look up show-biz blues photograph", "target": "intent=SearchCreativeWork\nslots=object_name:show-biz blues | object_type:photograph"}
+{"dataset": "snips", "input": "please search the woodsmen of the west", "target": "intent=SearchCreativeWork\nslots=object_name:woodsmen of the west"}
+{"dataset": "snips", "input": "can you find the creative works associated with caryl & marilyn: real friends", "target": "intent=SearchCreativeWork\nslots=object_name:caryl & marilyn: real friends"}
+{"dataset": "snips", "input": "please get me the dead soul saga", "target": "intent=SearchCreativeWork\nslots=object_name:dead soul | object_type:saga"}
+{"dataset": "snips", "input": "please search the live from leeds album", "target": "intent=SearchCreativeWork\nslots=object_name:live from leeds | object_type:album"}
+{"dataset": "snips", "input": "please look up the johnny english - la rinascita painting", "target": "intent=SearchCreativeWork\nslots=object_name:johnny english - la rinascita | object_type:painting"}
+{"dataset": "snips", "input": "can you find me the sword with no name trailer", "target": "intent=SearchCreativeWork\nslots=object_name:the sword with no name | object_type:trailer"}
+{"dataset": "snips", "input": "i wish to watch the fold trailer please search", "target": "intent=SearchCreativeWork\nslots=object_name:the fold | object_type:trailer"}
+{"dataset": "snips", "input": "can you find me the almost human painting", "target": "intent=SearchCreativeWork\nslots=object_name:almost human | object_type:painting"}
+{"dataset": "snips", "input": "please find me the work serious awesomeness", "target": "intent=SearchCreativeWork\nslots=object_name:serious awesomeness"}
+{"dataset": "snips", "input": "search for the game difficult loves", "target": "intent=SearchCreativeWork\nslots=object_type:game | object_name:difficult loves"}
+{"dataset": "snips", "input": "is babar: king of the elephants playing", "target": "intent=SearchScreeningEvent\nslots=movie_name:babar: king of the elephants"}
+{"dataset": "snips", "input": "is the ghost playing", "target": "intent=SearchScreeningEvent\nslots=movie_name:the ghost"}
+{"dataset": "snips", "input": "is bartok the magnificent playing at seven am", "target": "intent=SearchScreeningEvent\nslots=movie_name:bartok the magnificent | timeRange:seven am"}
+{"dataset": "snips", "input": "what s the movie schedule", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule"}
+{"dataset": "snips", "input": "i want to see jla adventures: trapped in time", "target": "intent=SearchScreeningEvent\nslots=movie_name:jla adventures: trapped in time"}
+{"dataset": "snips", "input": "when is the fox and the child playing in this cinema", "target": "intent=SearchScreeningEvent\nslots=movie_name:the fox and the child | object_location_type:cinema"}
+{"dataset": "snips", "input": "show me the schedule for rat rod rockers", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:rat rod rockers"}
+{"dataset": "snips", "input": "is any which way you can playing in 15 seconds", "target": "intent=SearchScreeningEvent\nslots=movie_name:any which way you can | timeRange:in 15 seconds"}
+{"dataset": "snips", "input": "i want to see the portrait of a lady at the nearest cinema", "target": "intent=SearchScreeningEvent\nslots=movie_name:the portrait of a lady | spatial_relation:nearest | object_location_type:cinema"}
+{"dataset": "snips", "input": "where can i see the prime ministers: the pioneers", "target": "intent=SearchScreeningEvent\nslots=movie_name:the prime ministers: the pioneers"}
+{"dataset": "snips", "input": "i need to find the movie theatre showing the crooked web closest to me", "target": "intent=SearchScreeningEvent\nslots=object_location_type:movie theatre | movie_name:the crooked web | spatial_relation:closest"}
+{"dataset": "snips", "input": "i want to see while the sun shines at the closest movie house", "target": "intent=SearchScreeningEvent\nslots=movie_name:while the sun shines | spatial_relation:closest | object_location_type:movie house"}
+{"dataset": "snips", "input": "i want to see those kids from town when will it be showing", "target": "intent=SearchScreeningEvent\nslots=movie_name:those kids from town"}
+{"dataset": "snips", "input": "find the schedule for the comedian at santikos theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the comedian | location_name:santikos theatres"}
+{"dataset": "snips", "input": "what are the movie schedules for my favorite theaters", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:theaters"}
+{"dataset": "snips", "input": "what are the movies showing in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "is without witness playing twenty two hours from now", "target": "intent=SearchScreeningEvent\nslots=movie_name:without witness | timeRange:twenty two hours from now"}
+{"dataset": "snips", "input": "i need animated movies in the area for dinner time", "target": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:in the area | timeRange:dinner"}
+{"dataset": "snips", "input": "i want to see i dream of jeanie in a movie theatre", "target": "intent=SearchScreeningEvent\nslots=movie_name:i dream of jeanie | object_location_type:movie theatre"}
+{"dataset": "snips", "input": "can i see ellis island revisited in 1 minute", "target": "intent=SearchScreeningEvent\nslots=movie_name:ellis island revisited | timeRange:in 1 minute"}
+{"dataset": "snips", "input": "i want animated movies at mjr theatres", "target": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | location_name:mjr theatres"}
+{"dataset": "snips", "input": "show me the schedule for the oblong box", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the oblong box"}
+{"dataset": "snips", "input": "i want to know if there are any movies playing in the area", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the area"}
+{"dataset": "snips", "input": "is what a wonderful place showing at cinemark theatres", "target": "intent=SearchScreeningEvent\nslots=movie_name:what a wonderful place | location_name:cinemark theatres"}
+{"dataset": "snips", "input": "show the closest movie theatre that shows boycott", "target": "intent=SearchScreeningEvent\nslots=spatial_relation:closest | object_location_type:movie theatre | movie_name:boycott"}
+{"dataset": "snips", "input": "i want to see doa: dead or alive at loews cineplex entertainment", "target": "intent=SearchScreeningEvent\nslots=movie_name:doa: dead or alive | location_name:loews cineplex entertainment"}
+{"dataset": "snips", "input": "is the nightmare showing six hours from now at the nearest cinema", "target": "intent=SearchScreeningEvent\nslots=movie_name:the nightmare | timeRange:six hours from now | spatial_relation:nearest | object_location_type:cinema"}
+{"dataset": "snips", "input": "what is the nearest movie house with window connection playing at lunch", "target": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:movie house | movie_name:window connection | timeRange:lunch"}
+{"dataset": "snips", "input": "is patrick still lives showing at amc theaters", "target": "intent=SearchScreeningEvent\nslots=movie_name:patrick still lives | location_name:amc theaters"}
+{"dataset": "snips", "input": "fine the movie schedules for the wanda group", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:wanda group"}
+{"dataset": "snips", "input": "give me the movie schedule nearby", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:nearby"}
+{"dataset": "snips", "input": "find the schedule at the douglas theatre company", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:douglas theatre company"}
+{"dataset": "snips", "input": "show me the movies at harkins theatres", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | location_name:harkins theatres"}
+{"dataset": "snips", "input": "what movies at star theatres", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | location_name:star theatres"}
+{"dataset": "snips", "input": "i want a movie schedule", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule"}
+{"dataset": "snips", "input": "can i get the movie times", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"dataset": "snips", "input": "i want to see medal for the general", "target": "intent=SearchScreeningEvent\nslots=movie_name:medal for the general"}
+{"dataset": "snips", "input": "can i get the times for movies in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=object_type:times | movie_type:movies | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "may i have the movie schedules for speakeasy theaters", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:speakeasy theaters"}
+{"dataset": "snips", "input": "find animated movies close by", "target": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:close by"}
+{"dataset": "snips", "input": "is american primitive showing in santikos theatres", "target": "intent=SearchScreeningEvent\nslots=movie_name:american primitive | location_name:santikos theatres"}
+{"dataset": "snips", "input": "what are the movie schedules in the neighborhood", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:in the neighborhood"}
+{"dataset": "snips", "input": "check the schedule for bow tie cinemas", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:bow tie cinemas"}
+{"dataset": "snips", "input": "check the timings for snowbound at the closest movie theatre", "target": "intent=SearchScreeningEvent\nslots=movie_name:snowbound | spatial_relation:closest | object_location_type:movie theatre"}
+{"dataset": "snips", "input": "what are the movie times at caribbean cinemas", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times | location_name:caribbean cinemas"}
+{"dataset": "snips", "input": "i need films in the neighborhood", "target": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:in the neighborhood"}
+{"dataset": "snips", "input": "show the movie schedules in the neighborhood", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:in the neighborhood"}
+{"dataset": "snips", "input": "where s the nearest movie house showing foreign films", "target": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:movie house | movie_type:films"}
+{"dataset": "snips", "input": "what movies are showing now at the closest cinema", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | timeRange:now | spatial_relation:closest | object_location_type:cinema"}
+{"dataset": "snips", "input": "is rumor has it playing", "target": "intent=SearchScreeningEvent\nslots=movie_name:rumor has it"}
+{"dataset": "snips", "input": "i need a list of speakeasy theaters movie times", "target": "intent=SearchScreeningEvent\nslots=location_name:speakeasy theaters | object_type:movie times"}
+{"dataset": "snips", "input": "when is the outer space connection playing at the nearest cinema", "target": "intent=SearchScreeningEvent\nslots=movie_name:the outer space connection | spatial_relation:nearest | object_location_type:cinema"}
+{"dataset": "snips", "input": "find the movie times at harkins theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times | location_name:harkins theatres"}
+{"dataset": "snips", "input": "find the films at century theatres", "target": "intent=SearchScreeningEvent\nslots=movie_type:films | location_name:century theatres"}
+{"dataset": "snips", "input": "show the animated movies playing in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "i want to see fear chamber", "target": "intent=SearchScreeningEvent\nslots=movie_name:fear chamber"}
+{"dataset": "snips", "input": "show me southern theatres movie times", "target": "intent=SearchScreeningEvent\nslots=location_name:southern theatres | object_type:movie times"}
+{"dataset": "snips", "input": "is the unnaturals showing at 13", "target": "intent=SearchScreeningEvent\nslots=movie_name:the unnaturals | timeRange:13"}
+{"dataset": "snips", "input": "is no time to be young showing at amc theaters", "target": "intent=SearchScreeningEvent\nslots=movie_name:no time to be young | location_name:amc theaters"}
+{"dataset": "snips", "input": "find the movie schedules for regal entertainment group", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:regal entertainment group"}
+{"dataset": "snips", "input": "i want to see shattered image", "target": "intent=SearchScreeningEvent\nslots=movie_name:shattered image"}
+{"dataset": "snips", "input": "find the schedule at star theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:star theatres"}
+{"dataset": "snips", "input": "will i think i do be playing at 7 pm", "target": "intent=SearchScreeningEvent\nslots=movie_name:i think i do | timeRange:7 pm"}
+{"dataset": "snips", "input": "show me the schedule for arclight hollywood for only animated movies", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:arclight hollywood | movie_type:animated movies"}
+{"dataset": "snips", "input": "find the schedule for great mail robbery", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:great mail robbery"}
+{"dataset": "snips", "input": "give me the movies in the neighborhood", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the neighborhood"}
+{"dataset": "snips", "input": "what movies are playing close by", "target": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:close by"}
+{"dataset": "snips", "input": "is the two gladiators playing", "target": "intent=SearchScreeningEvent\nslots=movie_name:the two gladiators"}
+{"dataset": "snips", "input": "what s the movie schedule for great escape theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:great escape theatres"}
+{"dataset": "snips", "input": "find the movie schedule close by", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:close by"}
+{"dataset": "snips", "input": "i want to see outcast", "target": "intent=SearchScreeningEvent\nslots=movie_name:outcast"}
+{"dataset": "snips", "input": "show me the schedule of movie the great gildersleeve near movie house", "target": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the great gildersleeve | object_location_type:movie house"}
+{"dataset": "snips", "input": "i need times for a yiddish world remembered at dipson theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:a yiddish world remembered | location_name:dipson theatres"}
+{"dataset": "snips", "input": "find the movie schedules at goodrich quality theaters", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:goodrich quality theaters"}
+{"dataset": "snips", "input": "show me the movie schedule in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "show me the movie times for films nearby", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:films | spatial_relation:nearby"}
+{"dataset": "snips", "input": "show the movie times for animated movies in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "is the eye – infinity playing at general cinema corporation", "target": "intent=SearchScreeningEvent\nslots=movie_name:the eye – infinity | location_name:general cinema corporation"}
+{"dataset": "snips", "input": "can you check the timings for super sweet 16: the movie", "target": "intent=SearchScreeningEvent\nslots=movie_name:super sweet 16: the movie"}
+{"dataset": "snips", "input": "is we are northern lights playing in any movie theatre", "target": "intent=SearchScreeningEvent\nslots=movie_name:we are northern lights | object_location_type:movie theatre"}
+{"dataset": "snips", "input": "what times will the young swordsman be showing at my cinema", "target": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:the young swordsman | object_location_type:cinema"}
+{"dataset": "snips", "input": "show the sexy dance 2 times at the closest movie house", "target": "intent=SearchScreeningEvent\nslots=movie_name:sexy dance 2 | object_type:times | spatial_relation:closest | object_location_type:movie house"}
+{"dataset": "snips", "input": "what are some close by animated movies showing", "target": "intent=SearchScreeningEvent\nslots=spatial_relation:close by | movie_type:animated movies"}
+{"dataset": "snips", "input": "movie schedules close by for animated movies", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:close by | movie_type:animated movies"}
+{"dataset": "snips", "input": "what films are playing close by", "target": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:close by"}
+{"dataset": "snips", "input": "find the movie schedule in the area", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:in the area"}
+{"dataset": "snips", "input": "is cowboy canteen playing", "target": "intent=SearchScreeningEvent\nslots=movie_name:cowboy canteen"}
+{"dataset": "snips", "input": "is rare birds showing at the nearest movie theatre at noon", "target": "intent=SearchScreeningEvent\nslots=movie_name:rare birds | spatial_relation:nearest | object_location_type:movie theatre | timeRange:noon"}
+{"dataset": "snips", "input": "what are the movie times", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"dataset": "snips", "input": "where can i find the movie schedules", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedules"}
+{"dataset": "snips", "input": "find the movie schedule for north american cinemas in eleven seconds", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:north american cinemas | timeRange:in eleven seconds"}
+{"dataset": "snips", "input": "find the nearest cinema with movies playing", "target": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:cinema | movie_type:movies"}
+{"dataset": "snips", "input": "what are the movie times", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"dataset": "snips", "input": "what are the times for the gingerbread man", "target": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:the gingerbread man"}
+{"dataset": "snips", "input": "what films are playing close by", "target": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:close by"}
+{"dataset": "snips", "input": "is any cinema playing the spirit of youth", "target": "intent=SearchScreeningEvent\nslots=object_location_type:cinema | movie_name:the spirit of youth"}
+{"dataset": "snips", "input": "what are the movie times for animated movies in the neighbourhood", "target": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"dataset": "snips", "input": "what s the movie schedule at great escape theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:great escape theatres"}
+{"dataset": "snips", "input": "show the times for cheers for miss bishop at dipson theatres", "target": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:cheers for miss bishop | location_name:dipson theatres"}
+{"dataset": "snips", "input": "i want to see married to the enemy 2 at a cinema", "target": "intent=SearchScreeningEvent\nslots=movie_name:married to the enemy 2 | object_location_type:cinema"}

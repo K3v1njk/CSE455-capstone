@@ -7,3 +7,5 @@ numpy>=1.26.0
 matplotlib>=3.9.0
 tqdm>=4.66.0
 scikit-learn>=1.5.0
+PyYAML>=6.0.0
+accelerate>=0.33.0

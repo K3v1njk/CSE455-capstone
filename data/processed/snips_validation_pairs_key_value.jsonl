@@ -1,0 +1,700 @@
+{"request": "i d like to have this track onto my classical relaxations playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:classical relaxations"}
+{"request": "add the album to my flow español playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:flow español"}
+{"request": "add digging now to my young at heart playlist", "structured_output": "intent=AddToPlaylist\nslots=playlist:digging now | playlist_owner:my | entity_name:young at heart"}
+{"request": "add this song by too poetic to my piano ballads playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | artist:too poetic | playlist_owner:my | playlist:piano ballads"}
+{"request": "add this album to old school death metal", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:old school death metal"}
+{"request": "i need to add baro ferret to the urban hits under my name", "structured_output": "intent=AddToPlaylist\nslots=artist:baro ferret | playlist:urban hits | playlist_owner:my"}
+{"request": "add the album to the might and myth power metal playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:might and myth power metal"}
+{"request": "to the travelling playlist please add this david gahan song", "structured_output": "intent=AddToPlaylist\nslots=playlist:travelling | artist:david gahan | music_item:song"}
+{"request": "please add some pete townshend to my playlist fiesta hits con lali", "structured_output": "intent=AddToPlaylist\nslots=artist:pete townshend | playlist_owner:my | playlist:fiesta hits con lali"}
+{"request": "i d like for kasey chambers s tune to be an addition to my chips and salsa playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:kasey chambers | music_item:tune | playlist_owner:my | playlist:chips and salsa"}
+{"request": "add recalled to life to this is alejandro fernández", "structured_output": "intent=AddToPlaylist\nslots=entity_name:recalled to life | playlist:this is alejandro fernández"}
+{"request": "add nuba to my metal party playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:nuba | playlist_owner:my | playlist:metal party"}
+{"request": "add jo stafford music to the workout twerkout playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:jo stafford | playlist:workout twerkout"}
+{"request": "put jean philippe goncalves onto my running to rock 170 to 190 bpm", "structured_output": "intent=AddToPlaylist\nslots=artist:jean philippe goncalves | playlist_owner:my | playlist:running to rock 170 to 190 bpm"}
+{"request": "add the song virales de siempre by the cary brothers to my gym playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist:virales de siempre | artist:cary brothers | playlist_owner:my"}
+{"request": "onto jerry s classical moments in movies please add the album", "structured_output": "intent=AddToPlaylist\nslots=playlist_owner:jerry s | playlist:classical moments in movies | music_item:album"}
+{"request": "add beyond the valley of 1984 in playlist folk music at the gaslight café", "structured_output": "intent=AddToPlaylist\nslots=entity_name:beyond the valley of 1984 | playlist:folk music at the gaslight café"}
+{"request": "add jerry calliste jr to my te quiero playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:jerry calliste jr | playlist_owner:my | playlist:te quiero"}
+{"request": "add porter wagoner to the the sleep machine waterscapes playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:porter wagoner | playlist:the sleep machine waterscapes"}
+{"request": "add the artist mike to the sexy as folk playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | artist:mike | playlist:sexy as folk"}
+{"request": "add brazilian flag anthem to top 100 alternative tracks on spotify", "structured_output": "intent=AddToPlaylist\nslots=entity_name:brazilian flag anthem | playlist:top 100 alternative tracks on spotify"}
+{"request": "add andy hunter to my evening commute playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:andy hunter | playlist_owner:my | playlist:evening commute"}
+{"request": "put petar georgiev kalica onto the old school hip hop playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:petar georgiev kalica | playlist:old school hip hop"}
+{"request": "can you add larry heard to my laundry playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:larry heard | playlist_owner:my | playlist:laundry"}
+{"request": "put vandemataram srinivas s track onto hiphop hot 50", "structured_output": "intent=AddToPlaylist\nslots=artist:vandemataram srinivas | music_item:track | playlist:hiphop hot 50"}
+{"request": "add millie corretjer to the rhythm playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:millie corretjer | playlist:the rhythm"}
+{"request": "add give us rest to my 70s smash hits playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:give us rest | playlist_owner:my | playlist:70s smash hits"}
+{"request": "add this track to my hands up playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:hands up"}
+{"request": "i d like for you to add bobby brown to my enamorándose playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:bobby brown | playlist_owner:my | playlist:enamorándose"}
+{"request": "add jonathan sprout album to my this is miranda lambert playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:jonathan sprout | music_item:album | playlist_owner:my | playlist:this is miranda lambert"}
+{"request": "add ireland in the junior eurovision song contest 2015 to my jazzy dinner playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:ireland in the junior eurovision song contest 2015 | playlist_owner:my | playlist:jazzy dinner"}
+{"request": "add the album to the the sweet suite playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:the sweet suite"}
+{"request": "add sarah slean to my playlist mellowed out gaming", "structured_output": "intent=AddToPlaylist\nslots=artist:sarah slean | playlist_owner:my | playlist:mellowed out gaming"}
+{"request": "add this album to the spanish beat playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:spanish beat"}
+{"request": "add lofty fake anagram to the la mejor música de bso playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:lofty fake anagram | playlist:la mejor música de bso"}
+{"request": "add the track to the work playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist:work"}
+{"request": "add a song to this is racionais mc s", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist:this is racionais mc s"}
+{"request": "add track in my playlist called hands up", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:hands up"}
+{"request": "can you put this song from yutaka ozaki onto my this is miles davis playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | artist:yutaka ozaki | playlist_owner:my | playlist:this is miles davis"}
+{"request": "add a track to playlist cena con amigos", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist:cena con amigos"}
+{"request": "add the famous flower of serving-men to my evening acoustic playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:the famous flower of serving-men | playlist_owner:my | playlist:evening acoustic"}
+{"request": "add a song to indie hipster", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist:indie hipster"}
+{"request": "add the 40 cal tune to the laundry playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:40 cal | music_item:tune | playlist:laundry"}
+{"request": "add the album to my perfect concentration playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:perfect concentration"}
+{"request": "add the matt murphy tune to the flow español playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:matt murphy | music_item:tune | playlist:flow español"}
+{"request": "add a very cellular song to masters of metal playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:a very cellular song | playlist:masters of metal"}
+{"request": "can i put this tune onto my sin estrés playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:sin estrés"}
+{"request": "i d like to add jordan rudess onto the divertido para niños playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:jordan rudess | playlist:divertido para niños"}
+{"request": "add kent james to the disney soundtrack", "structured_output": "intent=AddToPlaylist\nslots=artist:kent james | playlist:disney"}
+{"request": "add the artist adam deibert to my perfect concentration playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | artist:adam deibert | playlist_owner:my | playlist:perfect concentration"}
+{"request": "can you put the artist giovanni giacomo gastoldi onto the chill out music playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | artist:giovanni giacomo gastoldi | playlist:chill out music"}
+{"request": "add the album to the hot 50 playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:hot 50"}
+{"request": "add the artist pete murray to my relaxing playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | artist:pete murray | playlist_owner:my | playlist:relaxing"}
+{"request": "add the track to the drum & breaks playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist:drum & breaks"}
+{"request": "for my fantastic workout can you add sara bareilles", "structured_output": "intent=AddToPlaylist\nslots=playlist_owner:my | playlist:fantastic workout | artist:sara bareilles"}
+{"request": "add the boy george track to the emo forever playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:boy george | music_item:track | playlist:emo forever"}
+{"request": "add ted heath to the road trip playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:ted heath | playlist:road trip"}
+{"request": "can you add last of the ghetto astronauts to the playlist called black sabbath the dio years", "structured_output": "intent=AddToPlaylist\nslots=entity_name:last of the ghetto astronauts | playlist:black sabbath the dio years"}
+{"request": "add this artist to showstopper being mary jane", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist:showstopper being mary jane"}
+{"request": "put the artist onto top latin alternative", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist:top latin alternative"}
+{"request": "add michael wittig music to country icon playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:michael wittig | playlist:country icon"}
+{"request": "add highway patrolman in my playlist this is al green", "structured_output": "intent=AddToPlaylist\nslots=entity_name:highway patrolman | playlist_owner:my | playlist:this is al green"}
+{"request": "add richard mcnamara newest song to the just smile playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:richard mcnamara | music_item:song | playlist:just smile"}
+{"request": "add annesley malewana album to playlist indietronic", "structured_output": "intent=AddToPlaylist\nslots=artist:annesley malewana | music_item:album | playlist:indietronic"}
+{"request": "add the artist to my dishwashing playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:dishwashing"}
+{"request": "add this artist to fairy tales playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist:fairy tales"}
+{"request": "add muzika za decu to my crash course playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:muzika za decu | playlist_owner:my | playlist:crash course"}
+{"request": "add a derek watkins tune to this is johnny cash", "structured_output": "intent=AddToPlaylist\nslots=artist:derek watkins | music_item:tune | playlist:this is johnny cash"}
+{"request": "add our little corner of the world music from gilmore girls to my the funny thing about football is playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:our little corner of the world music from gilmore girls | playlist_owner:my | playlist:the funny thing about football is"}
+{"request": "add the current track to my this is tchaikovsky playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist_owner:my | playlist:this is tchaikovsky"}
+{"request": "put abe laboriel onto the escapada playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:abe laboriel | playlist:escapada"}
+{"request": "add abacab to beryl s party on fridays playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:abacab | playlist_owner:beryl s | playlist:party on fridays"}
+{"request": "please add this track by paul mcguigan to the deep house playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | artist:paul mcguigan | playlist:deep house"}
+{"request": "can you add the current tune to my calm before the storm playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:calm before the storm"}
+{"request": "please add the image of you to my playlist crate diggers anonymous", "structured_output": "intent=AddToPlaylist\nslots=entity_name:the image of you | playlist_owner:my | playlist:crate diggers anonymous"}
+{"request": "add a track to jazzy dinner", "structured_output": "intent=AddToPlaylist\nslots=music_item:track | playlist:jazzy dinner"}
+{"request": "add the album to the hipster soul playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist:hipster soul"}
+{"request": "add this tune to my sleepify playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:my | playlist:sleepify"}
+{"request": "add jack white to my playlist this is shakira", "structured_output": "intent=AddToPlaylist\nslots=artist:jack white | playlist_owner:my | playlist:this is shakira"}
+{"request": "add tommy johnson to the metalsucks playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:tommy johnson | playlist:the metalsucks playlist"}
+{"request": "add the chris clark tune to my women of the blues playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:chris clark | music_item:tune | playlist_owner:my | playlist:women of the blues"}
+{"request": "add an artist to jukebox boogie rhythm & blues", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist:jukebox boogie rhythm & blues"}
+{"request": "add this artist to my electronic bliss playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:electronic bliss"}
+{"request": "i need to add to my infinite indie folk list the works of rahim shah", "structured_output": "intent=AddToPlaylist\nslots=playlist_owner:my | playlist:infinite indie folk | artist:rahim shah"}
+{"request": "add martin barre to my punk unplugged playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:martin barre | playlist_owner:my | playlist:punk unplugged"}
+{"request": "add tierney sutton to my novedades viernes sudamérica playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:tierney sutton | playlist_owner:my | playlist:novedades viernes sudamérica"}
+{"request": "add this tune to dorthy s 80 s party playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:tune | playlist_owner:dorthy s | playlist:80 s party"}
+{"request": "a very cellular song needs to be added to my masters of metal playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:a very cellular song | playlist_owner:my | playlist:masters of metal"}
+{"request": "add toyan to my epic gaming playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:toyan | playlist_owner:my | playlist:epic gaming"}
+{"request": "add the song to the mac n cheese playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist:mac n cheese"}
+{"request": "add this artist to my spotlight on country 2016 playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist_owner:my | playlist:spotlight on country 2016"}
+{"request": "add a song to my playlist madden nfl 16", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:madden nfl 16"}
+{"request": "add emilie autumn to my nação reggae playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:emilie autumn | playlist_owner:my | playlist:nação reggae"}
+{"request": "add farhad darya songs in virales de siempre", "structured_output": "intent=AddToPlaylist\nslots=artist:farhad darya | playlist:virales de siempre"}
+{"request": "add a song in my all out 60s", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:all out 60s"}
+{"request": "add we have a theme song to my house afterwork playlist", "structured_output": "intent=AddToPlaylist\nslots=entity_name:we have a theme song | playlist_owner:my | playlist:house afterwork"}
+{"request": "add the song to my we everywhere playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:song | playlist_owner:my | playlist:we everywhere"}
+{"request": "add roel van velzen to my party of the century playlist", "structured_output": "intent=AddToPlaylist\nslots=artist:roel van velzen | playlist_owner:my | playlist:party of the century"}
+{"request": "add the artist to the political punks playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:artist | playlist:political punks"}
+{"request": "add the album to my club hits playlist", "structured_output": "intent=AddToPlaylist\nslots=music_item:album | playlist_owner:my | playlist:club hits"}
+{"request": "book a reservation for my babies and i", "structured_output": "intent=BookRestaurant\nslots=party_size_description:my babies and i"}
+{"request": "book a reservation for a restaurant not far from ma", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | spatial_relation:not far | state:ma"}
+{"request": "i would like to book a restaurant in tanzania that is within walking distance for my mom and i", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:tanzania | spatial_relation:within walking distance | party_size_description:my mom and i"}
+{"request": "book a reservation for an oyster bar", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:oyster bar"}
+{"request": "book a reservation for 6 people for a creole tavern in montenegro", "structured_output": "intent=BookRestaurant\nslots=party_size_number:6 | cuisine:creole | restaurant_type:tavern | country:montenegro"}
+{"request": "i need a table in sacaton at a gluten free restaurant", "structured_output": "intent=BookRestaurant\nslots=city:sacaton | cuisine:gluten free | restaurant_type:restaurant"}
+{"request": "book sot for me and my grandfather nearby west reading", "structured_output": "intent=BookRestaurant\nslots=party_size_description:me and my grandfather | spatial_relation:nearby | poi:west reading"}
+{"request": "book me and my nieces a reservation for a seafood restaurant in cle elum ne on ascension day", "structured_output": "intent=BookRestaurant\nslots=party_size_description:me and my nieces | served_dish:seafood | restaurant_type:restaurant | city:cle elum | state:ne | timeRange:ascension day"}
+{"request": "book spot for two at city tavern", "structured_output": "intent=BookRestaurant\nslots=party_size_number:two | restaurant_name:city tavern"}
+{"request": "i want to book a brasserie for 3 people in netherlands antilles", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:brasserie | party_size_number:3 | country:netherlands antilles"}
+{"request": "book me a reservation for the best bistro", "structured_output": "intent=BookRestaurant\nslots=sort:best | restaurant_type:bistro"}
+{"request": "book the best table in tanzania for 5 people at a diner", "structured_output": "intent=BookRestaurant\nslots=sort:best | country:tanzania | party_size_number:5 | restaurant_type:diner"}
+{"request": "i want to book a joint in a spa", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:joint | facility:spa"}
+{"request": "book a gastropub that serves turkish food for 4 people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:gastropub | cuisine:turkish | party_size_number:4"}
+{"request": "book spot for 7 at an indoor restaurant in mp now", "structured_output": "intent=BookRestaurant\nslots=party_size_number:7 | facility:indoor | restaurant_type:restaurant | state:mp | timeRange:now"}
+{"request": "book a table in fiji for zero a m", "structured_output": "intent=BookRestaurant\nslots=country:fiji | timeRange:zero a m"}
+{"request": "i want to book a restaurant for five people in sri lanka", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:five | country:sri lanka"}
+{"request": "i need a table for 5 at a highly rated gastropub in concord mn", "structured_output": "intent=BookRestaurant\nslots=party_size_number:5 | sort:highly rated | restaurant_type:gastropub | city:concord | state:mn"}
+{"request": "i want to book oregon electric station in north city", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:oregon electric station | city:north city"}
+{"request": "i need a table for 4 please confirm the reservation", "structured_output": "intent=BookRestaurant\nslots=party_size_number:4"}
+{"request": "book a popular restaurant for 5 people", "structured_output": "intent=BookRestaurant\nslots=sort:popular | restaurant_type:restaurant | party_size_number:5"}
+{"request": "i want to book a joint close by the naomi s hostel for a meal for 8 people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:joint | spatial_relation:close by | poi:naomi s hostel | timeRange:meal | party_size_number:8"}
+{"request": "i want to eat a delicatessen in thirteen hours that serves eastern european food", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:delicatessen | timeRange:in thirteen hours | cuisine:eastern european"}
+{"request": "book a reservation for nine people at a bakery in nunez", "structured_output": "intent=BookRestaurant\nslots=party_size_number:nine | restaurant_type:bakery | city:nunez"}
+{"request": "book a reservation at tavern for noodle", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:tavern | served_dish:noodle"}
+{"request": "book spot for 4 in somalia", "structured_output": "intent=BookRestaurant\nslots=party_size_number:4 | country:somalia"}
+{"request": "i want to book albany pump station in buckholts washington now for a party of 9", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:albany pump station | city:buckholts | state:washington | timeRange:now | party_size_number:9"}
+{"request": "i want to book a taverna in archer city for this spring for nine people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:taverna | city:archer city | timeRange:this spring | party_size_number:nine"}
+{"request": "i want to book a top-rated brasserie for 7 people", "structured_output": "intent=BookRestaurant\nslots=sort:top-rated | restaurant_type:brasserie | party_size_number:7"}
+{"request": "book a reservation for 8 people in wardville kansas", "structured_output": "intent=BookRestaurant\nslots=party_size_number:8 | city:wardville | state:kansas"}
+{"request": "table for breadline cafe in minnesota next friday", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:breadline cafe | state:minnesota | timeRange:next friday"}
+{"request": "i want to book a restaurant in niger for seven people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:niger | party_size_number:seven"}
+{"request": "book spot for 9", "structured_output": "intent=BookRestaurant\nslots=party_size_number:9"}
+{"request": "book me a reservation for a pub in cormorant for a party of nine", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:pub | city:cormorant | party_size_number:nine"}
+{"request": "book spot for my nieces and i at a tea house", "structured_output": "intent=BookRestaurant\nslots=party_size_description:my nieces and i | restaurant_type:tea house"}
+{"request": "i want to book a jewish restaurant in gambia", "structured_output": "intent=BookRestaurant\nslots=cuisine:jewish | restaurant_type:restaurant | country:gambia"}
+{"request": "book a reservation for the dome edinburgh close to brooklawn", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:the dome edinburgh | spatial_relation:close | poi:brooklawn"}
+{"request": "book spot for 1 at town of ramsgate in merit", "structured_output": "intent=BookRestaurant\nslots=party_size_number:1 | restaurant_name:town of ramsgate | city:merit"}
+{"request": "book a spot for me and kathrine at smithville", "structured_output": "intent=BookRestaurant\nslots=party_size_description:me and kathrine | city:smithville"}
+{"request": "i want to book a restaurant for my father in law and i in buckner a year from now", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_description:my father in law and i | city:buckner | timeRange:a year from now"}
+{"request": "book a restaurant reservation in 6 weeks", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | timeRange:in 6 weeks"}
+{"request": "book a reservation for a bar with a spa nearby id", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:bar | facility:spa | spatial_relation:nearby | state:id"}
+{"request": "book spot for four at cliff house san francisco in martinique", "structured_output": "intent=BookRestaurant\nslots=party_size_number:four | restaurant_name:cliff house san francisco | country:martinique"}
+{"request": "i need a table for 4 in saint helena at settha palace hotel", "structured_output": "intent=BookRestaurant\nslots=party_size_number:4 | country:saint helena | restaurant_name:settha palace hotel"}
+{"request": "i want to book a restaurant in frenier 12 years from now for 4 people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | city:frenier | timeRange:12 years from now | party_size_number:4"}
+{"request": "book seven in neighboring moorpark", "structured_output": "intent=BookRestaurant\nslots=party_size_number:seven | spatial_relation:neighboring | city:moorpark"}
+{"request": "i want to eat by five pm in ne for a six people", "structured_output": "intent=BookRestaurant\nslots=timeRange:five pm | state:ne | party_size_number:six"}
+{"request": "i want to book tupelo honey cafe in new jersey for five people", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:tupelo honey cafe | state:new jersey | party_size_number:five"}
+{"request": "book a reservation for two at mickies dairy bar in weedsport", "structured_output": "intent=BookRestaurant\nslots=party_size_number:two | restaurant_name:mickies dairy bar | city:weedsport"}
+{"request": "book a table at a fried chicken restaurant", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:fried chicken restaurant"}
+{"request": "book spot for mavis sheila and i in syria at elevenses", "structured_output": "intent=BookRestaurant\nslots=party_size_description:mavis sheila and i | country:syria | timeRange:elevenses"}
+{"request": "can you book me a table at windows on the world in cokeville mi", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:windows on the world | city:cokeville | state:mi"}
+{"request": "book me a table for 5 this year at cherwell boathouse", "structured_output": "intent=BookRestaurant\nslots=party_size_number:5 | timeRange:this year | restaurant_name:cherwell boathouse"}
+{"request": "book spot for six at 8 pm at a coffeehouse in ne that serves hog fry", "structured_output": "intent=BookRestaurant\nslots=party_size_number:six | timeRange:8 pm | restaurant_type:coffeehouse | state:ne | served_dish:hog fry"}
+{"request": "i want to book a restaurant close-by in inman for five people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | spatial_relation:close-by | city:inman | party_size_number:five"}
+{"request": "i need a table at eddie s attic in nevada for one", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:eddie s attic | state:nevada | party_size_number:one"}
+{"request": "book a reservation for an osteria restaurant for 4 people on november 4", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:osteria | party_size_number:4 | timeRange:november 4"}
+{"request": "i want to book a top-rated restaurant close by in la for me rebecca and loraine on 2/6/2020", "structured_output": "intent=BookRestaurant\nslots=sort:top-rated | restaurant_type:restaurant | spatial_relation:close | state:la | party_size_description:me rebecca and loraine | timeRange:2/6/2020"}
+{"request": "book a reservation for 1 at a diner in wi", "structured_output": "intent=BookRestaurant\nslots=party_size_number:1 | restaurant_type:diner | state:wi"}
+{"request": "book a reservation for 5 people at the top-rated brasserie restaurant", "structured_output": "intent=BookRestaurant\nslots=party_size_number:5 | sort:top-rated | restaurant_type:brasserie"}
+{"request": "book a table on 1/20/2023 for 5 people in mh", "structured_output": "intent=BookRestaurant\nslots=timeRange:1/20/2023 | party_size_number:5 | state:mh"}
+{"request": "book a table near pat s college", "structured_output": "intent=BookRestaurant\nslots=spatial_relation:near | poi:pat s college"}
+{"request": "i want to book a steakhouse in vimy ridge", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:steakhouse | city:vimy ridge"}
+{"request": "i want a table at james d conrey house in urbank california", "structured_output": "intent=BookRestaurant\nslots=restaurant_name:james d conrey house | city:urbank | state:california"}
+{"request": "like to book a seat in monaco for the yankee doodle coffee shop", "structured_output": "intent=BookRestaurant\nslots=country:monaco | restaurant_name:yankee doodle coffee shop"}
+{"request": "i want to book a table in a restaurant in bouvet island", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | country:bouvet island"}
+{"request": "i would like to book a restaurant for souvlaki cuisine in the state of ne", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | cuisine:souvlaki | state:ne"}
+{"request": "book a reservation for 10 people at an oyster bar with a pool within the same area of cowansburg for 10 pm", "structured_output": "intent=BookRestaurant\nslots=party_size_number:10 | restaurant_type:oyster bar | facility:pool | spatial_relation:within the same area | city:cowansburg | timeRange:10 pm"}
+{"request": "book a reservation for velma ana and rebecca for an american pizzeria at 5 am in ma", "structured_output": "intent=BookRestaurant\nslots=party_size_description:velma ana and rebecca | cuisine:american | restaurant_type:pizzeria | timeRange:5 am | state:ma"}
+{"request": "book a spot for 4 in oklahoma at south street diner", "structured_output": "intent=BookRestaurant\nslots=party_size_number:4 | state:oklahoma | restaurant_name:south street diner"}
+{"request": "book a reservation for my mommy and i at a restaurant in central african republic", "structured_output": "intent=BookRestaurant\nslots=party_size_description:my mommy and i | restaurant_type:restaurant | country:central african republic"}
+{"request": "book a reservation for five people for a tatar taverna in sargents", "structured_output": "intent=BookRestaurant\nslots=party_size_number:five | cuisine:tatar | restaurant_type:taverna | city:sargents"}
+{"request": "phyllis ward and veronica need a table at a restaurant in 152 days", "structured_output": "intent=BookRestaurant\nslots=party_size_description:phyllis ward and veronica | restaurant_type:restaurant | timeRange:in 152 days"}
+{"request": "book a reservation for ten at a restaurant in ohio", "structured_output": "intent=BookRestaurant\nslots=party_size_number:ten | restaurant_type:restaurant | state:ohio"}
+{"request": "i want to book a tea house that serves salade far from here at midnight in panama for two people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:tea house | served_dish:salade | spatial_relation:far | timeRange:midnight | country:panama | party_size_number:two"}
+{"request": "i want to book a food truck for seven people in the republic of the congo", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:food truck | party_size_number:seven | country:republic of the congo"}
+{"request": "i want to book a restaurant for ten people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:ten"}
+{"request": "lets eat near oakfield 17 seconds from now at ted peters famous smoked fish", "structured_output": "intent=BookRestaurant\nslots=spatial_relation:near | city:oakfield | timeRange:17 seconds from now | restaurant_name:ted peters famous smoked fish"}
+{"request": "book sot for 7 at a restaurant that serves european in stringtown on feb the 28th 2034", "structured_output": "intent=BookRestaurant\nslots=party_size_number:7 | restaurant_type:restaurant | cuisine:european | city:stringtown | timeRange:feb the 28th 2034"}
+{"request": "book a restaurant for six at an outdoor cafe in åland", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:six | facility:outdoor | country:åland"}
+{"request": "book a table for 12 am at our step mother s secondary residence within walking distance for one", "structured_output": "intent=BookRestaurant\nslots=timeRange:12 am | poi:our step mother s secondary residence | spatial_relation:within walking distance | party_size_number:one"}
+{"request": "please book me a table at a pizzeria with a parking facility in ghana", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:pizzeria | facility:parking | country:ghana"}
+{"request": "book spot for four at a indoor pub within the same area of louisiana in one minute", "structured_output": "intent=BookRestaurant\nslots=party_size_number:four | facility:indoor | restaurant_type:pub | spatial_relation:within the same area | state:louisiana | timeRange:in one minute"}
+{"request": "please book me a restaurant", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant"}
+{"request": "book a reservation for me and my step brother at amt coffee in lakemoor", "structured_output": "intent=BookRestaurant\nslots=party_size_description:me and my step brother | restaurant_name:amt coffee | city:lakemoor"}
+{"request": "i want to book a churrascaria in romeoville at ten a m for four people", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:churrascaria | city:romeoville | timeRange:ten a m | party_size_number:four"}
+{"request": "table for 5 a m at baker s keyboard lounge", "structured_output": "intent=BookRestaurant\nslots=timeRange:5 a m | restaurant_name:baker s keyboard lounge"}
+{"request": "please book me a table at a bistro which serves lorna doone", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:bistro | served_dish:lorna doone"}
+{"request": "i want to book a restaurant for six people in wagstaff ak", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | party_size_number:six | city:wagstaff | state:ak"}
+{"request": "i would like to book a highly rated restaurant for a party of ten", "structured_output": "intent=BookRestaurant\nslots=sort:highly rated | restaurant_type:restaurant | party_size_number:ten"}
+{"request": "i want to book a sundanese gastropub nearby in texas for 3 people on 5/20/2025", "structured_output": "intent=BookRestaurant\nslots=cuisine:sundanese | restaurant_type:gastropub | spatial_relation:nearby | state:texas | party_size_number:3 | timeRange:5/20/2025"}
+{"request": "book a party of five at seagoville for 06:42", "structured_output": "intent=BookRestaurant\nslots=party_size_number:five | city:seagoville | timeRange:06:42"}
+{"request": "book spot for 9 at thurmont", "structured_output": "intent=BookRestaurant\nslots=party_size_number:9 | city:thurmont"}
+{"request": "i want to book a restaurant in sixteen seconds for 5 people in gold point montana", "structured_output": "intent=BookRestaurant\nslots=restaurant_type:restaurant | timeRange:in sixteen seconds | party_size_number:5 | city:gold point | state:montana"}
+{"request": "i want to eat in ramona", "structured_output": "intent=BookRestaurant\nslots=city:ramona"}
+{"request": "book a party at their campus within the same area for churrascaria", "structured_output": "intent=BookRestaurant\nslots=poi:their campus | spatial_relation:within the same area | restaurant_type:churrascaria"}
+{"request": "book me a reservation for a party of 3 at a pub in northern mariana islands", "structured_output": "intent=BookRestaurant\nslots=party_size_number:3 | restaurant_type:pub | country:northern mariana islands"}
+{"request": "i want to book a bougatsa restaurant in next year nearby penn for three people", "structured_output": "intent=BookRestaurant\nslots=cuisine:bougatsa | restaurant_type:restaurant | timeRange:next year | spatial_relation:nearby | city:penn | party_size_number:three"}
+{"request": "book a reservation for nine people at the best pub nearby tangier in six months", "structured_output": "intent=BookRestaurant\nslots=party_size_number:nine | sort:best | restaurant_type:pub | spatial_relation:nearby | city:tangier | timeRange:in six months"}
+{"request": "need a table somewhere in quarryville 14 hours from now", "structured_output": "intent=BookRestaurant\nslots=city:quarryville | timeRange:14 hours from now"}
+{"request": "what will the weather be faraway from here", "structured_output": "intent=GetWeather\nslots=spatial_relation:faraway | current_location:here"}
+{"request": "will there be fog in tahquamenon falls state park", "structured_output": "intent=GetWeather\nslots=condition_description:fog | geographic_poi:tahquamenon falls state park"}
+{"request": "tell me the weather forecast for gibsland", "structured_output": "intent=GetWeather\nslots=city:gibsland"}
+{"request": "is there a storm now in nc", "structured_output": "intent=GetWeather\nslots=condition_description:storm | timeRange:now | state:nc"}
+{"request": "what will the weather be in monument of lihula on december the 5th", "structured_output": "intent=GetWeather\nslots=geographic_poi:monument of lihula | timeRange:december the 5th"}
+{"request": "weather next year in dominica", "structured_output": "intent=GetWeather\nslots=timeRange:next year | country:dominica"}
+{"request": "when will it be hot here", "structured_output": "intent=GetWeather\nslots=condition_temperature:hot | current_location:here"}
+{"request": "what will the weather be in 1 day in kuwait", "structured_output": "intent=GetWeather\nslots=timeRange:in 1 day | country:kuwait"}
+{"request": "what kind of weather will be in ukraine one minute from now", "structured_output": "intent=GetWeather\nslots=country:ukraine | timeRange:one minute from now"}
+{"request": "humidity in olvey new hampshire", "structured_output": "intent=GetWeather\nslots=condition_description:humidity | city:olvey | state:new hampshire"}
+{"request": "what s the weather going to be in ut", "structured_output": "intent=GetWeather\nslots=state:ut"}
+{"request": "humidity not far from colorado city on november the 7th 2024", "structured_output": "intent=GetWeather\nslots=condition_description:humidity | spatial_relation:not far | city:colorado city | timeRange:november the 7th 2024"}
+{"request": "what is the forecast for wyoming at stanardsville during the storm", "structured_output": "intent=GetWeather\nslots=state:wyoming | city:stanardsville | condition_description:storm"}
+{"request": "what will the weather be in north carolina", "structured_output": "intent=GetWeather\nslots=state:north carolina"}
+{"request": "what is the forecast starting 11 weeks from now nearby the state of wisconsin", "structured_output": "intent=GetWeather\nslots=timeRange:11 weeks from now | spatial_relation:nearby | state:wisconsin"}
+{"request": "will it be rainy at sunrise in ramey saudi arabia", "structured_output": "intent=GetWeather\nslots=condition_description:rainy | timeRange:sunrise | city:ramey | country:saudi arabia"}
+{"request": "check the forecast for nebraska", "structured_output": "intent=GetWeather\nslots=state:nebraska"}
+{"request": "will it be warmer in north korea at nineteen o clock", "structured_output": "intent=GetWeather\nslots=condition_temperature:warmer | country:north korea | timeRange:nineteen o clock"}
+{"request": "let me know the weather forecast around ten pm faraway from here in park narodowy brimstone hill fortress", "structured_output": "intent=GetWeather\nslots=timeRange:ten pm | spatial_relation:faraway | current_location:here | geographic_poi:park narodowy brimstone hill fortress"}
+{"request": "will it be stormy in the ouachita national forest", "structured_output": "intent=GetWeather\nslots=condition_description:stormy | geographic_poi:ouachita national forest"}
+{"request": "tell me if it will be snowy 8 hours from now in mount airy vi", "structured_output": "intent=GetWeather\nslots=condition_description:snowy | timeRange:8 hours from now | city:mount airy | state:vi"}
+{"request": "what will the weather be nineteen hours from now neighboring saint kitts and nevis", "structured_output": "intent=GetWeather\nslots=timeRange:nineteen hours from now | spatial_relation:neighboring | country:saint kitts and nevis"}
+{"request": "will there be hail on 11/12/2036 in singapore", "structured_output": "intent=GetWeather\nslots=condition_description:hail | timeRange:11/12/2036 | country:singapore"}
+{"request": "will it be colder here in 48 and a half weeks", "structured_output": "intent=GetWeather\nslots=condition_temperature:colder | current_location:here | timeRange:in 48 and a half weeks"}
+{"request": "what s the weather going to be in knobel", "structured_output": "intent=GetWeather\nslots=city:knobel"}
+{"request": "what will the weather be in dane on sep the fifth 2030", "structured_output": "intent=GetWeather\nslots=city:dane | timeRange:sep the fifth 2030"}
+{"request": "what will the weather be in ohio", "structured_output": "intent=GetWeather\nslots=state:ohio"}
+{"request": "i need to know the weather for jan the 3rd in mexico when i go to port vue", "structured_output": "intent=GetWeather\nslots=timeRange:jan the 3rd | country:mexico | city:port vue"}
+{"request": "what is the forecast for ōtone prefectural natural park in 1 hour and within the same area", "structured_output": "intent=GetWeather\nslots=geographic_poi:ōtone prefectural natural park | timeRange:in 1 hour | spatial_relation:within the same area"}
+{"request": "what kind of weather is forecast around one pm near vatican", "structured_output": "intent=GetWeather\nslots=timeRange:one pm | spatial_relation:near | country:vatican"}
+{"request": "will it be chilly in weldona", "structured_output": "intent=GetWeather\nslots=condition_temperature:chilly | city:weldona"}
+{"request": "will it be colder in virgin islands national park", "structured_output": "intent=GetWeather\nslots=condition_temperature:colder | geographic_poi:virgin islands national park"}
+{"request": "will it be hot at 13:19 in de funiak springs serbia and montenegro", "structured_output": "intent=GetWeather\nslots=condition_temperature:hot | timeRange:13:19 | city:de funiak springs | country:serbia and montenegro"}
+{"request": "what is the weather going to be like in virginia on st patrick s day", "structured_output": "intent=GetWeather\nslots=state:virginia | timeRange:st patrick s day"}
+{"request": "weather in kaneville maryland", "structured_output": "intent=GetWeather\nslots=city:kaneville | state:maryland"}
+{"request": "when is sunrise for ar", "structured_output": "intent=GetWeather\nslots=timeRange:sunrise | state:ar"}
+{"request": "what will the weather be not far from here on october the nineteenth 2026", "structured_output": "intent=GetWeather\nslots=spatial_relation:not far | current_location:here | timeRange:october the nineteenth 2026"}
+{"request": "what is the forecast for waurika in samoa", "structured_output": "intent=GetWeather\nslots=city:waurika | country:samoa"}
+{"request": "tell me the weather forecast here", "structured_output": "intent=GetWeather\nslots=current_location:here"}
+{"request": "what is the weather forecast nearby nicodemus", "structured_output": "intent=GetWeather\nslots=spatial_relation:nearby | city:nicodemus"}
+{"request": "what will the weather be in nov in brookneal", "structured_output": "intent=GetWeather\nslots=timeRange:nov | city:brookneal"}
+{"request": "will it be colder four months from now in suwanee ak", "structured_output": "intent=GetWeather\nslots=condition_temperature:colder | timeRange:four months from now | city:suwanee | state:ak"}
+{"request": "what is the weather forecast for burundi", "structured_output": "intent=GetWeather\nslots=country:burundi"}
+{"request": "what s the weather in benton city", "structured_output": "intent=GetWeather\nslots=city:benton city"}
+{"request": "what will the weather be in ky on oct 16 2036", "structured_output": "intent=GetWeather\nslots=state:ky | timeRange:oct 16 2036"}
+{"request": "will the sun be out in 1 minute in searcy uganda", "structured_output": "intent=GetWeather\nslots=condition_description:sun | timeRange:in 1 minute | city:searcy | country:uganda"}
+{"request": "what is the weather here", "structured_output": "intent=GetWeather\nslots=current_location:here"}
+{"request": "what will the weather be one second from now in chad", "structured_output": "intent=GetWeather\nslots=timeRange:one second from now | country:chad"}
+{"request": "what kind of weather is forecast in ms now", "structured_output": "intent=GetWeather\nslots=state:ms | timeRange:now"}
+{"request": "what is the forecast for la for freezing", "structured_output": "intent=GetWeather\nslots=state:la | condition_temperature:freezing"}
+{"request": "how cold will it be here in 1 second", "structured_output": "intent=GetWeather\nslots=condition_temperature:cold | current_location:here | timeRange:in 1 second"}
+{"request": "what is the forecast for hotter weather at southford falls state park", "structured_output": "intent=GetWeather\nslots=condition_temperature:hotter | geographic_poi:southford falls state park"}
+{"request": "what is the overcast forecast for the current position starting on jul 19 2030", "structured_output": "intent=GetWeather\nslots=condition_description:overcast | current_location:current position | timeRange:jul 19 2030"}
+{"request": "what is the forecast for morocco at lake ozark on december seventeenth 2022", "structured_output": "intent=GetWeather\nslots=country:morocco | city:lake ozark | timeRange:december seventeenth 2022"}
+{"request": "what will the humidity be in the current spot at 15:19:29", "structured_output": "intent=GetWeather\nslots=condition_description:humidity | current_location:current spot | timeRange:15:19:29"}
+{"request": "what is the forecast in nicodemus and nearby", "structured_output": "intent=GetWeather\nslots=city:nicodemus | spatial_relation:nearby"}
+{"request": "what is the weather going to be like in benton colorado in 2 and a half months", "structured_output": "intent=GetWeather\nslots=city:benton | state:colorado | timeRange:in 2 and a half months"}
+{"request": "what s the weather forecast for bothe-napa valley state park close by february 20", "structured_output": "intent=GetWeather\nslots=geographic_poi:bothe-napa valley state park | spatial_relation:close by | timeRange:february 20"}
+{"request": "what is the forecast for beginning on nov 17 for franklinville", "structured_output": "intent=GetWeather\nslots=timeRange:nov 17 | city:franklinville"}
+{"request": "what s the forecast for sep 26 in emerado saint pierre and miquelon", "structured_output": "intent=GetWeather\nslots=timeRange:sep 26 | city:emerado | country:saint pierre and miquelon"}
+{"request": "will there be a blizzard next winter in visalia idaho", "structured_output": "intent=GetWeather\nslots=condition_description:blizzard | timeRange:next winter | city:visalia | state:idaho"}
+{"request": "will it be warmer in the district of columbia on may 25 2033", "structured_output": "intent=GetWeather\nslots=condition_temperature:warmer | state:district of columbia | timeRange:may 25 2033"}
+{"request": "what will the weather be here on dec 7th", "structured_output": "intent=GetWeather\nslots=current_location:here | timeRange:dec 7th"}
+{"request": "what is the forecast for colder temps beginning on law day here", "structured_output": "intent=GetWeather\nslots=condition_temperature:colder | timeRange:law day | current_location:here"}
+{"request": "what s the weather like in tyonek new jersey", "structured_output": "intent=GetWeather\nslots=city:tyonek | state:new jersey"}
+{"request": "what is the forecast for here for blizzard conditions at five pm", "structured_output": "intent=GetWeather\nslots=current_location:here | condition_description:blizzard | timeRange:five pm"}
+{"request": "will there be a storm in gibsonia at 8 p m", "structured_output": "intent=GetWeather\nslots=condition_description:storm | city:gibsonia | timeRange:8 p m"}
+{"request": "what is the cold condition of our current position for tomorrow", "structured_output": "intent=GetWeather\nslots=condition_temperature:cold | current_location:current position | timeRange:tomorrow"}
+{"request": "what will the weather be in hialeah gardens on october the 24th", "structured_output": "intent=GetWeather\nslots=city:hialeah gardens | timeRange:october the 24th"}
+{"request": "will it be freezing today in delaware and lehigh national heritage corridor", "structured_output": "intent=GetWeather\nslots=condition_temperature:freezing | timeRange:today | geographic_poi:delaware and lehigh national heritage corridor"}
+{"request": "what is the forecast in admire in tx starting at seventeen", "structured_output": "intent=GetWeather\nslots=city:admire | state:tx | timeRange:seventeen"}
+{"request": "what is the forecast in north carolina for edgemoor", "structured_output": "intent=GetWeather\nslots=state:north carolina | city:edgemoor"}
+{"request": "what is the forecast for costa rica", "structured_output": "intent=GetWeather\nslots=country:costa rica"}
+{"request": "need weather for parc national tolhuaca to see if it will be fog today", "structured_output": "intent=GetWeather\nslots=geographic_poi:parc national tolhuaca | condition_description:fog"}
+{"request": "weather in walden russia on 12/26/2018", "structured_output": "intent=GetWeather\nslots=city:walden | country:russia | timeRange:12/26/2018"}
+{"request": "what s the humidity here right now", "structured_output": "intent=GetWeather\nslots=condition_description:humidity | current_location:here | timeRange:now"}
+{"request": "how s the weather at petit manan national wildlife refuge and nearby right now", "structured_output": "intent=GetWeather\nslots=geographic_poi:petit manan national wildlife refuge | spatial_relation:nearby | timeRange:now"}
+{"request": "what is the forecast for lansford for temperate weather", "structured_output": "intent=GetWeather\nslots=city:lansford | condition_temperature:temperate"}
+{"request": "overcast on state holiday in pawling nature reserve and neighboring places", "structured_output": "intent=GetWeather\nslots=condition_description:overcast | timeRange:state holiday | geographic_poi:pawling nature reserve | spatial_relation:neighboring"}
+{"request": "i need the weather in wakarusa", "structured_output": "intent=GetWeather\nslots=city:wakarusa"}
+{"request": "tell me the forecast for 6 am in tatra-nationalpark", "structured_output": "intent=GetWeather\nslots=timeRange:6 am | geographic_poi:tatra-nationalpark"}
+{"request": "tell me the weather forecast for ut on thursday", "structured_output": "intent=GetWeather\nslots=state:ut | timeRange:thursday"}
+{"request": "what is the forecast for turtle islands national park", "structured_output": "intent=GetWeather\nslots=geographic_poi:turtle islands national park"}
+{"request": "will it be hotter in pr at 23 o clock", "structured_output": "intent=GetWeather\nslots=condition_temperature:hotter | state:pr | timeRange:23 o clock"}
+{"request": "weather in two hours in uzbekistan", "structured_output": "intent=GetWeather\nslots=timeRange:in two hours | country:uzbekistan"}
+{"request": "what is the forecast for this afternoon for blizzard conditions in dieterich chad", "structured_output": "intent=GetWeather\nslots=timeRange:afternoon | condition_description:blizzard | city:dieterich | country:chad"}
+{"request": "how s the weather here at two am", "structured_output": "intent=GetWeather\nslots=current_location:here | timeRange:two am"}
+{"request": "will custer national forest be chillier at seven pm", "structured_output": "intent=GetWeather\nslots=geographic_poi:custer national forest | condition_temperature:chillier | timeRange:seven pm"}
+{"request": "what is the forecast for starting at three a m in two buttes for warm weather", "structured_output": "intent=GetWeather\nslots=timeRange:three a m | city:two buttes | condition_temperature:warm"}
+{"request": "what s the weather in fox chapel", "structured_output": "intent=GetWeather\nslots=city:fox chapel"}
+{"request": "what is the rain forecast for one hour from now in south korea", "structured_output": "intent=GetWeather\nslots=condition_description:rain | timeRange:one hour from now | country:south korea"}
+{"request": "tell me the weather forecast here", "structured_output": "intent=GetWeather\nslots=current_location:here"}
+{"request": "will there be a cloud in vi in 14 minutes", "structured_output": "intent=GetWeather\nslots=condition_description:cloud | state:vi | timeRange:in 14 minutes"}
+{"request": "how much colder will it be not far from utah around 3 am", "structured_output": "intent=GetWeather\nslots=condition_temperature:colder | spatial_relation:not far | state:utah | timeRange:3 am"}
+{"request": "will it be chilly midday in cresbard afghanistan", "structured_output": "intent=GetWeather\nslots=condition_temperature:chilly | timeRange:midday | city:cresbard | country:afghanistan"}
+{"request": "what will the weather be in sarygamyş sanctuary on august 21 2035", "structured_output": "intent=GetWeather\nslots=geographic_poi:sarygamyş sanctuary | timeRange:august 21 2035"}
+{"request": "will it be rainy in tenino", "structured_output": "intent=GetWeather\nslots=condition_description:rainy | city:tenino"}
+{"request": "will it be hot in the netherlands on february 16th", "structured_output": "intent=GetWeather\nslots=condition_temperature:hot | country:netherlands | timeRange:february 16th"}
+{"request": "where is belgium located", "structured_output": "intent=GetWeather\nslots=country:belgium"}
+{"request": "what will the weather be in milleville beach", "structured_output": "intent=GetWeather\nslots=city:milleville beach"}
+{"request": "can you put on like a hurricane by paul landers", "structured_output": "intent=PlayMusic\nslots=album:like a hurricane | artist:paul landers"}
+{"request": "play the happy blues by ronnie wood", "structured_output": "intent=PlayMusic\nslots=album:the happy blues | artist:ronnie wood"}
+{"request": "play the newest melody on last fm by eddie vinson", "structured_output": "intent=PlayMusic\nslots=sort:newest | music_item:melody | service:last fm | artist:eddie vinson"}
+{"request": "use groove shark to play music", "structured_output": "intent=PlayMusic\nslots=service:groove shark"}
+{"request": "please play something good from u-roy any song from 1975 on zvooq will do", "structured_output": "intent=PlayMusic\nslots=sort:good | artist:u-roy | music_item:song | year:1975 | service:zvooq"}
+{"request": "play a symphony from 2013", "structured_output": "intent=PlayMusic\nslots=music_item:symphony | year:2013"}
+{"request": "let me hear the good songs from james iha", "structured_output": "intent=PlayMusic\nslots=sort:good | artist:james iha"}
+{"request": "play my inventive playlist", "structured_output": "intent=PlayMusic\nslots=playlist:inventive"}
+{"request": "i want to play music from iheart", "structured_output": "intent=PlayMusic\nslots=service:iheart"}
+{"request": "play subconscious lobotomy from jennifer paull", "structured_output": "intent=PlayMusic\nslots=album:subconscious lobotomy | artist:jennifer paull"}
+{"request": "i want to hear a seventies sound track", "structured_output": "intent=PlayMusic\nslots=year:seventies | music_item:sound track"}
+{"request": "play a john maher track", "structured_output": "intent=PlayMusic\nslots=artist:john maher | music_item:track"}
+{"request": "please play something from dihan slabbert that s on the top fifty", "structured_output": "intent=PlayMusic\nslots=artist:dihan slabbert | sort:top fifty"}
+{"request": "please play something catchy on youtube", "structured_output": "intent=PlayMusic\nslots=playlist:catchy | service:youtube"}
+{"request": "play something from 2004 by imogen heap on spotify", "structured_output": "intent=PlayMusic\nslots=year:2004 | artist:imogen heap | service:spotify"}
+{"request": "play seventies music please", "structured_output": "intent=PlayMusic\nslots=year:seventies"}
+{"request": "play music from the artist sean yseult and sort it through top-50", "structured_output": "intent=PlayMusic\nslots=artist:sean yseult | sort:top-50"}
+{"request": "play anything jd natasha did in the thirties", "structured_output": "intent=PlayMusic\nslots=artist:jd natasha | year:thirties"}
+{"request": "play music off netflix", "structured_output": "intent=PlayMusic\nslots=service:netflix"}
+{"request": "nineties songs on zvooq", "structured_output": "intent=PlayMusic\nslots=year:nineties | service:zvooq"}
+{"request": "open itunes and play ben burnley ready to die", "structured_output": "intent=PlayMusic\nslots=service:itunes | artist:ben burnley | album:ready to die"}
+{"request": "play an ep by zak starkey", "structured_output": "intent=PlayMusic\nslots=music_item:ep | artist:zak starkey"}
+{"request": "play an album from nithyasree mahadevan", "structured_output": "intent=PlayMusic\nslots=music_item:album | artist:nithyasree mahadevan"}
+{"request": "i want to listen to something on youtube", "structured_output": "intent=PlayMusic\nslots=service:youtube"}
+{"request": "start playing something from iheart", "structured_output": "intent=PlayMusic\nslots=service:iheart"}
+{"request": "play trance life on zvooq", "structured_output": "intent=PlayMusic\nslots=playlist:trance life | service:zvooq"}
+{"request": "find and play a concerto on zvooq from 1978 by ginger pooley", "structured_output": "intent=PlayMusic\nslots=music_item:concerto | service:zvooq | year:1978 | artist:ginger pooley"}
+{"request": "play all things must pass", "structured_output": "intent=PlayMusic\nslots=track:all things must pass"}
+{"request": "i want to hear music from allen toussaint from the fifties", "structured_output": "intent=PlayMusic\nslots=artist:allen toussaint | year:fifties"}
+{"request": "turn on last fm", "structured_output": "intent=PlayMusic\nslots=service:last fm"}
+{"request": "play a song by rahsaan patterson", "structured_output": "intent=PlayMusic\nslots=music_item:song | artist:rahsaan patterson"}
+{"request": "play femme fatale by bonobo", "structured_output": "intent=PlayMusic\nslots=track:femme fatale | artist:bonobo"}
+{"request": "play some anneliese van der pol from the thirties on groove shark", "structured_output": "intent=PlayMusic\nslots=artist:anneliese van der pol | year:thirties | service:groove shark"}
+{"request": "i want to listen to an ep from 1998", "structured_output": "intent=PlayMusic\nslots=music_item:ep | year:1998"}
+{"request": "play paul mccartney", "structured_output": "intent=PlayMusic\nslots=artist:paul mccartney"}
+{"request": "play jill sobule album", "structured_output": "intent=PlayMusic\nslots=album:jill sobule | music_item:album"}
+{"request": "play chant s from 1973", "structured_output": "intent=PlayMusic\nslots=music_item:chant | year:1973"}
+{"request": "play something from 90s pop rock essentials", "structured_output": "intent=PlayMusic\nslots=playlist:90s pop rock essentials"}
+{"request": "play have you met miss jones by nicole from google music", "structured_output": "intent=PlayMusic\nslots=track:have you met miss jones | artist:nicole | service:google music"}
+{"request": "play chant by nigger kojak on itunes", "structured_output": "intent=PlayMusic\nslots=music_item:chant | artist:nigger kojak | service:itunes"}
+{"request": "play some sixties songs on google music", "structured_output": "intent=PlayMusic\nslots=year:sixties | service:google music"}
+{"request": "play a fifties album from dj yoda on last fm", "structured_output": "intent=PlayMusic\nslots=year:fifties | music_item:album | artist:dj yoda | service:last fm"}
+{"request": "please play my ecstatic playlist", "structured_output": "intent=PlayMusic\nslots=playlist:ecstatic"}
+{"request": "open deezer and play curtain call: the hits by junichi okada", "structured_output": "intent=PlayMusic\nslots=service:deezer | album:curtain call: the hits | artist:junichi okada"}
+{"request": "let s play jamie robertson s handover on vimeo", "structured_output": "intent=PlayMusic\nslots=artist:jamie robertson | album:handover | service:vimeo"}
+{"request": "play a sixties soundtrack", "structured_output": "intent=PlayMusic\nslots=year:sixties | music_item:soundtrack"}
+{"request": "play this is: miles davis on lastfm", "structured_output": "intent=PlayMusic\nslots=playlist:this is: miles davis | service:lastfm"}
+{"request": "live in l a joseph meyer please", "structured_output": "intent=PlayMusic\nslots=album:live in l a | artist:joseph meyer"}
+{"request": "play the top twenty hisham abbas on youtube", "structured_output": "intent=PlayMusic\nslots=sort:top twenty | artist:hisham abbas | service:youtube"}
+{"request": "play some seventies filipp kirkorow", "structured_output": "intent=PlayMusic\nslots=year:seventies | artist:filipp kirkorow"}
+{"request": "play the most popular puretone", "structured_output": "intent=PlayMusic\nslots=sort:most popular | artist:puretone"}
+{"request": "play music from e-type", "structured_output": "intent=PlayMusic\nslots=artist:e-type"}
+{"request": "can you play a j pero on groove shark", "structured_output": "intent=PlayMusic\nslots=artist:a j pero | service:groove shark"}
+{"request": "play a bob burns song", "structured_output": "intent=PlayMusic\nslots=artist:bob burns | music_item:song"}
+{"request": "i want to hear leroi moore on vimeo play the song chance of a lifetime", "structured_output": "intent=PlayMusic\nslots=artist:leroi moore | service:vimeo | music_item:song | track:chance of a lifetime"}
+{"request": "play some symphony music from david lindley", "structured_output": "intent=PlayMusic\nslots=music_item:symphony | artist:david lindley"}
+{"request": "please play something on iheart from artist ari gold last album", "structured_output": "intent=PlayMusic\nslots=service:iheart | artist:ari gold | sort:last | music_item:album"}
+{"request": "i want to hear them from the artist murcof", "structured_output": "intent=PlayMusic\nslots=music_item:them | artist:murcof"}
+{"request": "play sound track music from the twenties", "structured_output": "intent=PlayMusic\nslots=music_item:sound track | year:twenties"}
+{"request": "play dance with the devil by mr lordi", "structured_output": "intent=PlayMusic\nslots=track:dance with the devil | artist:mr lordi"}
+{"request": "play music from 1996", "structured_output": "intent=PlayMusic\nslots=year:1996"}
+{"request": "go to itunes and play dr lecter by david hodges", "structured_output": "intent=PlayMusic\nslots=service:itunes | album:dr lecter | artist:david hodges"}
+{"request": "play s t r e e t d a d from hiromitsu agatsuma through pandora", "structured_output": "intent=PlayMusic\nslots=album:s t r e e t d a d | artist:hiromitsu agatsuma | service:pandora"}
+{"request": "play some movement from the fourties", "structured_output": "intent=PlayMusic\nslots=music_item:movement | year:fourties"}
+{"request": "please tune into chieko ochi s good music", "structured_output": "intent=PlayMusic\nslots=music_item:tune | artist:chieko ochi | sort:good"}
+{"request": "play the greatest music from bryan maclean", "structured_output": "intent=PlayMusic\nslots=sort:greatest | artist:bryan maclean"}
+{"request": "play something on last fm", "structured_output": "intent=PlayMusic\nslots=service:last fm"}
+{"request": "play music by joy nilo", "structured_output": "intent=PlayMusic\nslots=artist:joy nilo"}
+{"request": "play some gary lee conner", "structured_output": "intent=PlayMusic\nslots=artist:gary lee conner"}
+{"request": "play music by brian chase", "structured_output": "intent=PlayMusic\nslots=artist:brian chase"}
+{"request": "can you play top zvooq by fink", "structured_output": "intent=PlayMusic\nslots=sort:top | service:zvooq | artist:fink"}
+{"request": "play the top-20 nawang khechog soundtrack", "structured_output": "intent=PlayMusic\nslots=sort:top-20 | artist:nawang khechog | music_item:soundtrack"}
+{"request": "let s hear stuff from andrew hewitt", "structured_output": "intent=PlayMusic\nslots=artist:andrew hewitt"}
+{"request": "play a good ep from the eighties by peter murphy", "structured_output": "intent=PlayMusic\nslots=sort:good | music_item:ep | year:eighties | artist:peter murphy"}
+{"request": "play another passenger from louis nelson delisle", "structured_output": "intent=PlayMusic\nslots=album:another passenger | artist:louis nelson delisle"}
+{"request": "play the top music from the railway children off last fm", "structured_output": "intent=PlayMusic\nslots=sort:top | artist:the railway children | service:last fm"}
+{"request": "play the best becca", "structured_output": "intent=PlayMusic\nslots=sort:best | artist:becca"}
+{"request": "play something by duke ellington from the seventies", "structured_output": "intent=PlayMusic\nslots=artist:duke ellington | year:seventies"}
+{"request": "use the last fm service to play a mis niños de 30", "structured_output": "intent=PlayMusic\nslots=service:last fm | playlist:a mis niños de 30"}
+{"request": "play my black sabbath: the dio years playlist", "structured_output": "intent=PlayMusic\nslots=playlist:black sabbath: the dio years"}
+{"request": "play an ep from mike harding", "structured_output": "intent=PlayMusic\nslots=music_item:ep | artist:mike harding"}
+{"request": "i want to hear anything from the rock symphonique genre please", "structured_output": "intent=PlayMusic\nslots=genre:rock symphonique"}
+{"request": "please play a 1997 record", "structured_output": "intent=PlayMusic\nslots=year:1997 | music_item:record"}
+{"request": "put what color is your sky by alana davis on the stereo", "structured_output": "intent=PlayMusic\nslots=album:what color is your sky | artist:alana davis"}
+{"request": "please play a movement from george formby jr", "structured_output": "intent=PlayMusic\nslots=music_item:movement | artist:george formby jr"}
+{"request": "play some new les vandyke on slacker", "structured_output": "intent=PlayMusic\nslots=sort:new | artist:les vandyke | service:slacker"}
+{"request": "please open zvooq", "structured_output": "intent=PlayMusic\nslots=service:zvooq"}
+{"request": "play progressive metal", "structured_output": "intent=PlayMusic\nslots=genre:progressive metal"}
+{"request": "i want to hear soundtrack music on youtube from helena iren michaelsen", "structured_output": "intent=PlayMusic\nslots=music_item:soundtrack | service:youtube | artist:helena iren michaelsen"}
+{"request": "play a song by ramesh narayan from 1960", "structured_output": "intent=PlayMusic\nslots=music_item:song | artist:ramesh narayan | year:1960"}
+{"request": "play some blues britânico", "structured_output": "intent=PlayMusic\nslots=genre:blues britânico"}
+{"request": "proceed with hitomi nabatame music from 2003", "structured_output": "intent=PlayMusic\nslots=artist:hitomi nabatame | year:2003"}
+{"request": "play something on zvooq", "structured_output": "intent=PlayMusic\nslots=service:zvooq"}
+{"request": "play music from lynn & wade llp", "structured_output": "intent=PlayMusic\nslots=artist:lynn & wade llp"}
+{"request": "let me hear chris knight music", "structured_output": "intent=PlayMusic\nslots=artist:chris knight"}
+{"request": "let s hear good mohammad mamle on vimeo", "structured_output": "intent=PlayMusic\nslots=sort:good | artist:mohammad mamle | service:vimeo"}
+{"request": "please play a sound track from the fifties that s on iheart", "structured_output": "intent=PlayMusic\nslots=music_item:sound track | year:fifties | service:iheart"}
+{"request": "play music from van-pires by dmitry malikov", "structured_output": "intent=PlayMusic\nslots=album:music from van-pires | artist:dmitry malikov"}
+{"request": "play rich sex on iheart", "structured_output": "intent=PlayMusic\nslots=track:rich sex | service:iheart"}
+{"request": "play modern psychedelia", "structured_output": "intent=PlayMusic\nslots=playlist:modern psychedelia"}
+{"request": "rate this album four out of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:four | best_rating:6 | rating_unit:stars"}
+{"request": "give this textbook four stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:four | rating_unit:stars"}
+{"request": "rate a twist in the tale zero out of 6 points", "structured_output": "intent=RateBook\nslots=object_name:a twist in the tale | rating_value:zero | best_rating:6 | rating_unit:points"}
+{"request": "rate the children of niobe 1 out of 6 points", "structured_output": "intent=RateBook\nslots=object_name:the children of niobe | rating_value:1 | best_rating:6 | rating_unit:points"}
+{"request": "give zero stars to halo: ghosts of onyx", "structured_output": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_name:halo: ghosts of onyx"}
+{"request": "give this novel a score of 5", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:5"}
+{"request": "give the current series four of 6 points", "structured_output": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:four | best_rating:6 | rating_unit:points"}
+{"request": "give 4 out of 6 points to the spirit ring chronicle", "structured_output": "intent=RateBook\nslots=rating_value:4 | best_rating:6 | rating_unit:points | object_name:the spirit ring | object_part_of_series_type:chronicle"}
+{"request": "give two stars out of 6 to 36 children", "structured_output": "intent=RateBook\nslots=rating_value:two | rating_unit:stars | best_rating:6 | object_name:36 children"}
+{"request": "rate the sneetches and other stories a three", "structured_output": "intent=RateBook\nslots=object_name:the sneetches and other stories | rating_value:three"}
+{"request": "rate the current series four stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:four | rating_unit:stars"}
+{"request": "rate this book a 4 out of 6", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:4 | best_rating:6"}
+{"request": "rate the current novel 5 of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:5 | best_rating:6 | rating_unit:stars"}
+{"request": "rate this book a 1", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:1"}
+{"request": "give zero out of 6 to the current album", "structured_output": "intent=RateBook\nslots=rating_value:zero | best_rating:6 | object_select:current | object_type:album"}
+{"request": "give this album 5 points", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:5 | rating_unit:points"}
+{"request": "rate the mystery of the tolling bell series 4 stars", "structured_output": "intent=RateBook\nslots=object_name:the mystery of the tolling bell | object_part_of_series_type:series | rating_value:4 | rating_unit:stars"}
+{"request": "give the current novel two stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:two | rating_unit:stars"}
+{"request": "give the current book 4 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:4 | rating_unit:stars"}
+{"request": "give joe magarac and his usa citizen papers 5 points", "structured_output": "intent=RateBook\nslots=object_name:joe magarac and his usa citizen papers | rating_value:5 | rating_unit:points"}
+{"request": "rate the guilty 0 of 6 points", "structured_output": "intent=RateBook\nslots=object_name:the guilty | rating_value:0 | best_rating:6 | rating_unit:points"}
+{"request": "rate this textbook four out of 6", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:four | best_rating:6"}
+{"request": "give the catedral series four stars", "structured_output": "intent=RateBook\nslots=object_name:catedral | object_part_of_series_type:series | rating_value:four | rating_unit:stars"}
+{"request": "reminiscences of the anti-japanese guerillas chronicle deserves zero points out of 6 for a rating", "structured_output": "intent=RateBook\nslots=object_name:reminiscences of the anti-japanese guerillas | object_part_of_series_type:chronicle | rating_value:zero | rating_unit:points | best_rating:6"}
+{"request": "give small screen big picture a 0 out of 6 rating", "structured_output": "intent=RateBook\nslots=object_name:small screen big picture | rating_value:0 | best_rating:6"}
+{"request": "gods and pawns should get a three", "structured_output": "intent=RateBook\nslots=object_name:gods and pawns | rating_value:three"}
+{"request": "give zero stars to this textbook", "structured_output": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_select:this | object_type:textbook"}
+{"request": "rate the current novel a 4 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:4 | best_rating:6 | rating_unit:stars"}
+{"request": "rate the book the atmospheric railway 5 out of 6", "structured_output": "intent=RateBook\nslots=object_type:book | object_name:the atmospheric railway | rating_value:5 | best_rating:6"}
+{"request": "rate black boy 4 out of 6", "structured_output": "intent=RateBook\nslots=object_name:black boy | rating_value:4 | best_rating:6"}
+{"request": "rate the chronicle current 1 star", "structured_output": "intent=RateBook\nslots=object_part_of_series_type:chronicle | object_select:current | rating_value:1"}
+{"request": "mark this album a score of 5", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:5"}
+{"request": "rate the current novel zero out of 6", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:zero | best_rating:6"}
+{"request": "rate the current novel a 2", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:2"}
+{"request": "give the giant devil dingo 4 points", "structured_output": "intent=RateBook\nslots=object_name:the giant devil dingo | rating_value:4 | rating_unit:points"}
+{"request": "rate this current novel two out of 6", "structured_output": "intent=RateBook\nslots=object_select:this current | object_type:novel | rating_value:two | best_rating:6"}
+{"request": "give monthly index of medical specialities a two out of 6 rating", "structured_output": "intent=RateBook\nslots=object_name:monthly index of medical specialities | rating_value:two | best_rating:6"}
+{"request": "rate this novel 2 out of 6 points", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:2 | best_rating:6 | rating_unit:points"}
+{"request": "rate the current novel 3 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:3 | rating_unit:stars"}
+{"request": "rate the current essay zero out of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:essay | rating_value:zero | best_rating:6 | rating_unit:stars"}
+{"request": "rate this current album 0 stars", "structured_output": "intent=RateBook\nslots=object_select:this current | object_type:album | rating_value:0 | rating_unit:stars"}
+{"request": "give a brief stop on the road from auschwitz 1 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:a brief stop on the road from auschwitz | rating_value:1 | best_rating:6 | rating_unit:stars"}
+{"request": "rate this album 4 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:4 | best_rating:6 | rating_unit:stars"}
+{"request": "rate hate that cat 1 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:hate that cat | rating_value:1 | best_rating:6 | rating_unit:stars"}
+{"request": "give my current book one of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:one | best_rating:6 | rating_unit:stars"}
+{"request": "rate current novel one stars", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:novel | rating_value:one | rating_unit:stars"}
+{"request": "give five out of 6 points to this album", "structured_output": "intent=RateBook\nslots=rating_value:five | best_rating:6 | rating_unit:points | object_select:this | object_type:album"}
+{"request": "give a rating of 2 to juneteenth", "structured_output": "intent=RateBook\nslots=rating_value:2 | object_name:juneteenth"}
+{"request": "rate ruth five out of 6 points", "structured_output": "intent=RateBook\nslots=object_name:ruth | rating_value:five | best_rating:6 | rating_unit:points"}
+{"request": "rate the sea of trolls 1 stars out of 6", "structured_output": "intent=RateBook\nslots=object_name:the sea of trolls | rating_value:1 | rating_unit:stars | best_rating:6"}
+{"request": "give the zenith angle one out of 6 points", "structured_output": "intent=RateBook\nslots=object_name:the zenith angle | rating_value:one | best_rating:6 | rating_unit:points"}
+{"request": "give zero stars to rhialto the marvellous", "structured_output": "intent=RateBook\nslots=rating_value:zero | rating_unit:stars | object_name:rhialto the marvellous"}
+{"request": "give the current book a zero of 6", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:book | rating_value:zero | best_rating:6"}
+{"request": "rate personal demons 0 out of 6 points", "structured_output": "intent=RateBook\nslots=object_name:personal demons | rating_value:0 | best_rating:6 | rating_unit:points"}
+{"request": "rate the current series a 4", "structured_output": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:4"}
+{"request": "give one of 6 points to who will cry when you die", "structured_output": "intent=RateBook\nslots=rating_value:one | best_rating:6 | rating_unit:points | object_name:who will cry when you die"}
+{"request": "give zero out of 6 stars to this album", "structured_output": "intent=RateBook\nslots=rating_value:zero | best_rating:6 | rating_unit:stars | object_select:this | object_type:album"}
+{"request": "give this novel 2 stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:2 | rating_unit:stars"}
+{"request": "rate the 8-week cholesterol cure three out of 6", "structured_output": "intent=RateBook\nslots=object_name:the 8-week cholesterol cure | rating_value:three | best_rating:6"}
+{"request": "rate this novel 3 out of 6 points", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:3 | best_rating:6 | rating_unit:points"}
+{"request": "rate the lives of john lennon five points", "structured_output": "intent=RateBook\nslots=object_name:the lives of john lennon | rating_value:five | rating_unit:points"}
+{"request": "give the american scene 2 of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:the american scene | rating_value:2 | best_rating:6 | rating_unit:stars"}
+{"request": "rate this textbook a one", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:one"}
+{"request": "give summer of the swans 1 points", "structured_output": "intent=RateBook\nslots=object_name:summer of the swans | rating_value:1 | rating_unit:points"}
+{"request": "give the current textbook a rating of five", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:textbook | rating_value:five"}
+{"request": "give 4 points to the person and the common good", "structured_output": "intent=RateBook\nslots=rating_value:4 | rating_unit:points | object_name:the person and the common good"}
+{"request": "give a four rating to a world apart", "structured_output": "intent=RateBook\nslots=rating_value:four | object_name:a world apart"}
+{"request": "rate this chronicle 0 points", "structured_output": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:chronicle | rating_value:0 | rating_unit:points"}
+{"request": "give wilco: learning how to die a rating of four points", "structured_output": "intent=RateBook\nslots=object_name:wilco: learning how to die | rating_value:four | rating_unit:points"}
+{"request": "rate this saga two out of 6", "structured_output": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:saga | rating_value:two | best_rating:6"}
+{"request": "rate the gift: imagination and the erotic life of property five stars", "structured_output": "intent=RateBook\nslots=object_name:the gift: imagination and the erotic life of property | rating_value:five | rating_unit:stars"}
+{"request": "rate neverwhere four out of 6", "structured_output": "intent=RateBook\nslots=object_name:neverwhere | rating_value:four | best_rating:6"}
+{"request": "rate in the company of cheerful ladies a zero out of 6", "structured_output": "intent=RateBook\nslots=object_name:in the company of cheerful ladies | rating_value:zero | best_rating:6"}
+{"request": "give one start to the current book", "structured_output": "intent=RateBook\nslots=rating_value:one | object_select:current | object_type:book"}
+{"request": "give this chronicle a 2 rating", "structured_output": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:chronicle | rating_value:2"}
+{"request": "rate this essay a 1", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:essay | rating_value:1"}
+{"request": "out of 6 give rivers of babylon a 1", "structured_output": "intent=RateBook\nslots=best_rating:6 | object_name:rivers of babylon | rating_value:1"}
+{"request": "give 5 of 6 stars to expressive processing", "structured_output": "intent=RateBook\nslots=rating_value:5 | best_rating:6 | rating_unit:stars | object_name:expressive processing"}
+{"request": "rate the ghost house series a one", "structured_output": "intent=RateBook\nslots=object_name:the ghost house | object_part_of_series_type:series | rating_value:one"}
+{"request": "rate know ye not agincourt 2 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:know ye not agincourt | rating_value:2 | best_rating:6 | rating_unit:stars"}
+{"request": "i would rate theft: a love story four out of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:theft: a love story | rating_value:four | best_rating:6 | rating_unit:stars"}
+{"request": "rate the further adventures of the joker four stars", "structured_output": "intent=RateBook\nslots=object_name:the further adventures of the joker | rating_value:four | rating_unit:stars"}
+{"request": "give 0 rating to in the heart of the country", "structured_output": "intent=RateBook\nslots=rating_value:0 | object_name:in the heart of the country"}
+{"request": "give 1 out of 6 rating to the current textbook", "structured_output": "intent=RateBook\nslots=rating_value:1 | best_rating:6 | object_select:current | object_type:textbook"}
+{"request": "give the current chronicle five of 6 points", "structured_output": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:chronicle | rating_value:five | best_rating:6 | rating_unit:points"}
+{"request": "rate cotton comes to harlem a 2", "structured_output": "intent=RateBook\nslots=object_name:cotton comes to harlem | rating_value:2"}
+{"request": "give this album one stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:album | rating_value:one | rating_unit:stars"}
+{"request": "rate the adventures of augie march one points", "structured_output": "intent=RateBook\nslots=object_name:the adventures of augie march | rating_value:one | rating_unit:points"}
+{"request": "rate soul music a 0", "structured_output": "intent=RateBook\nslots=object_name:soul music | rating_value:0"}
+{"request": "give hindu temples: what happened to them a 5 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_name:hindu temples: what happened to them | rating_value:5 | best_rating:6 | rating_unit:stars"}
+{"request": "give this novel a 1", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:novel | rating_value:1"}
+{"request": "rate the current textbook 1 out of 6", "structured_output": "intent=RateBook\nslots=object_select:current | object_type:textbook | rating_value:1 | best_rating:6"}
+{"request": "give this textbook 0 out of 6 stars", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:textbook | rating_value:0 | best_rating:6 | rating_unit:stars"}
+{"request": "give the crystal snare 5 stars", "structured_output": "intent=RateBook\nslots=object_name:the crystal snare | rating_value:5 | rating_unit:stars"}
+{"request": "rate this saga two out of 6", "structured_output": "intent=RateBook\nslots=object_select:this | object_part_of_series_type:saga | rating_value:two | best_rating:6"}
+{"request": "give wilco: learning how to die a rating of four points", "structured_output": "intent=RateBook\nslots=object_name:wilco: learning how to die | rating_value:four | rating_unit:points"}
+{"request": "rate this book 3 stars out of 6", "structured_output": "intent=RateBook\nslots=object_select:this | object_type:book | rating_value:3 | rating_unit:stars | best_rating:6"}
+{"request": "rate the three junes one out of 6", "structured_output": "intent=RateBook\nslots=object_name:three junes | rating_value:one | best_rating:6"}
+{"request": "give four stars to the broken window", "structured_output": "intent=RateBook\nslots=rating_value:four | rating_unit:stars | object_name:the broken window"}
+{"request": "rate the current series 4 points", "structured_output": "intent=RateBook\nslots=object_select:current | object_part_of_series_type:series | rating_value:4 | rating_unit:points"}
+{"request": "wish to find the movie the heart beat", "structured_output": "intent=SearchCreativeWork\nslots=object_type:movie | object_name:heart beat"}
+{"request": "please look up the tv show vanity", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:vanity"}
+{"request": "get me the elvis christmas album tv show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:elvis christmas album | object_type:tv show"}
+{"request": "please find me the saga the deep six", "structured_output": "intent=SearchCreativeWork\nslots=object_type:saga | object_name:the deep six"}
+{"request": "wish to see the photograph with the name live: right here", "structured_output": "intent=SearchCreativeWork\nslots=object_type:photograph | object_name:live: right here"}
+{"request": "looking for a novel called death march", "structured_output": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:death march"}
+{"request": "can you find me the work the curse of oak island", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the curse of oak island"}
+{"request": "please get me the sacred and profane love machine game", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the sacred and profane love machine | object_type:game"}
+{"request": "need a creative work called hit by love", "structured_output": "intent=SearchCreativeWork\nslots=object_name:hit by love"}
+{"request": "search for the trailer for the office", "structured_output": "intent=SearchCreativeWork\nslots=object_type:trailer | object_name:the office"}
+{"request": "looking for a creative work called plant ecology", "structured_output": "intent=SearchCreativeWork\nslots=object_name:plant ecology"}
+{"request": "find the television show to me", "structured_output": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:to me"}
+{"request": "can you please find me the saga chump change", "structured_output": "intent=SearchCreativeWork\nslots=object_type:saga | object_name:chump change"}
+{"request": "can you find me the ridiculous 6 book", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the ridiculous 6 | object_type:book"}
+{"request": "please fine me the tv series now we are married", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:now we are married"}
+{"request": "please look up the work bachelor pad", "structured_output": "intent=SearchCreativeWork\nslots=object_name:bachelor pad"}
+{"request": "please help me find the late night heartbroken blues television show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:late night heartbroken blues | object_type:television show"}
+{"request": "please help me find bend it like beckham the musical", "structured_output": "intent=SearchCreativeWork\nslots=object_name:bend it like beckham the musical"}
+{"request": "please look up the tv series parables for wooden ears", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:parables for wooden ears"}
+{"request": "can you find me hey man", "structured_output": "intent=SearchCreativeWork\nslots=object_name:hey man"}
+{"request": "please search for switched", "structured_output": "intent=SearchCreativeWork\nslots=object_name:switched"}
+{"request": "can you get me the controlled conversations tv series", "structured_output": "intent=SearchCreativeWork\nslots=object_name:controlled conversations | object_type:tv series"}
+{"request": "please look up the song the mad magician", "structured_output": "intent=SearchCreativeWork\nslots=object_type:song | object_name:the mad magician"}
+{"request": "please search for the tv show the best of white lion", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:the best of white lion"}
+{"request": "please find me phineas redux", "structured_output": "intent=SearchCreativeWork\nslots=object_name:phineas redux"}
+{"request": "get me the procession of ants tv show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:procession of ants | object_type:tv show"}
+{"request": "looking for a game called phinally phamous", "structured_output": "intent=SearchCreativeWork\nslots=object_type:game | object_name:phinally phamous"}
+{"request": "can you search the daring youth saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:daring youth | object_type:saga"}
+{"request": "look for the book the girl who was plugged in", "structured_output": "intent=SearchCreativeWork\nslots=object_type:book | object_name:the girl who was plugged in"}
+{"request": "find me a tv show called baby blue", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:baby blue"}
+{"request": "search for appalachian journey", "structured_output": "intent=SearchCreativeWork\nslots=object_name:appalachian journey"}
+{"request": "look for the television show meet the prince", "structured_output": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:meet the prince"}
+{"request": "can you find me cracks the safe", "structured_output": "intent=SearchCreativeWork\nslots=object_name:cracks the safe"}
+{"request": "please help me search the hell money saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:hell money | object_type:saga"}
+{"request": "get me the secret south song", "structured_output": "intent=SearchCreativeWork\nslots=object_name:secret south | object_type:song"}
+{"request": "can you find me the work titled music for millions", "structured_output": "intent=SearchCreativeWork\nslots=object_name:music for millions"}
+{"request": "please search for the painting titled this is the night", "structured_output": "intent=SearchCreativeWork\nslots=object_type:painting | object_name:this is the night"}
+{"request": "could you locate the epic conditions picture", "structured_output": "intent=SearchCreativeWork\nslots=object_name:epic conditions | object_type:picture"}
+{"request": "get me the trailer of good morning sunshine", "structured_output": "intent=SearchCreativeWork\nslots=object_type:trailer | object_name:good morning sunshine"}
+{"request": "please search the an introduction to karl marx painting", "structured_output": "intent=SearchCreativeWork\nslots=object_name:an introduction to karl marx | object_type:painting"}
+{"request": "can you find me the blue spring trailer", "structured_output": "intent=SearchCreativeWork\nslots=object_name:blue spring | object_type:trailer"}
+{"request": "could you find the tv series the approach", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:the approach"}
+{"request": "search for the tv show a lawless street", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:a lawless street"}
+{"request": "please look up three essays on the theory of sexuality show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:three essays on the theory of sexuality | object_type:show"}
+{"request": "please get me the compulsive disclosure song", "structured_output": "intent=SearchCreativeWork\nslots=object_name:compulsive disclosure | object_type:song"}
+{"request": "can you look up the molecular oncology saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:molecular oncology | object_type:saga"}
+{"request": "search for the sound of one hand clapping", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the sound of one hand clapping"}
+{"request": "find the creative work deadly weapons", "structured_output": "intent=SearchCreativeWork\nslots=object_name:deadly weapons"}
+{"request": "need the creative work called the logic of scientific discovery", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the logic of scientific discovery"}
+{"request": "can you find me the national anthem of the ancient britons television show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:national anthem of the ancient britons | object_type:television show"}
+{"request": "can you please find me the harry hood saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:harry hood | object_type:saga"}
+{"request": "can you find me the work bible translations into hawaii pidgin", "structured_output": "intent=SearchCreativeWork\nslots=object_name:bible translations into hawaii pidgin"}
+{"request": "please look up and find me monty python live at the hollywood bowl", "structured_output": "intent=SearchCreativeWork\nslots=object_name:monty python live at the hollywood bowl"}
+{"request": "please search for mary", "structured_output": "intent=SearchCreativeWork\nslots=object_name:mary"}
+{"request": "please search the game atla: all this life allows", "structured_output": "intent=SearchCreativeWork\nslots=object_type:game | object_name:atla: all this life allows"}
+{"request": "find me the novel with the name to lose my life …", "structured_output": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:to lose my life"}
+{"request": "looking for a song with the title of live at the kings center", "structured_output": "intent=SearchCreativeWork\nslots=object_type:song | object_name:live at the kings center"}
+{"request": "can you find the american bison photograph", "structured_output": "intent=SearchCreativeWork\nslots=object_name:american bison | object_type:photograph"}
+{"request": "can you find me the free for all show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:free for all | object_type:show"}
+{"request": "please find me the olympia 74 soundtrack", "structured_output": "intent=SearchCreativeWork\nslots=object_name:olympia 74 | object_type:soundtrack"}
+{"request": "look for the album slave to the grind", "structured_output": "intent=SearchCreativeWork\nslots=object_type:album | object_name:slave to the grind"}
+{"request": "please find me the projekt: the new face of goth", "structured_output": "intent=SearchCreativeWork\nslots=object_name:projekt: the new face of goth"}
+{"request": "can you get me the message from god saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:message from god | object_type:saga"}
+{"request": "find me the soundtrack a honeymoon adventure", "structured_output": "intent=SearchCreativeWork\nslots=object_type:soundtrack | object_name:a honeymoon adventure"}
+{"request": "please get me the henderson kids saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the henderson kids | object_type:saga"}
+{"request": "find the movie splendor in the grass", "structured_output": "intent=SearchCreativeWork\nslots=object_type:movie | object_name:splendor in the grass"}
+{"request": "am looking for a book with the title free to play", "structured_output": "intent=SearchCreativeWork\nslots=object_type:book | object_name:free to play"}
+{"request": "look for the tv series jersey boys", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv series | object_name:jersey boys"}
+{"request": "can you search the book paris - when it sizzles", "structured_output": "intent=SearchCreativeWork\nslots=object_type:book | object_name:paris - when it sizzles"}
+{"request": "looking for a painting with the title with you", "structured_output": "intent=SearchCreativeWork\nslots=object_type:painting | object_name:with you"}
+{"request": "please find me the classified book", "structured_output": "intent=SearchCreativeWork\nslots=object_name:classified | object_type:book"}
+{"request": "look for the show v-the new mythology suite", "structured_output": "intent=SearchCreativeWork\nslots=object_type:show | object_name:v-the new mythology suite"}
+{"request": "find the creative work face down", "structured_output": "intent=SearchCreativeWork\nslots=object_name:face down"}
+{"request": "find four songs", "structured_output": "intent=SearchCreativeWork\nslots=object_name:four songs"}
+{"request": "find me the soundtrack live at the greek theatre", "structured_output": "intent=SearchCreativeWork\nslots=object_type:soundtrack | object_name:live at the greek theatre"}
+{"request": "please search for the television show episodi di the blacklist", "structured_output": "intent=SearchCreativeWork\nslots=object_type:television show | object_name:episodi di the blacklist"}
+{"request": "find a creative work called fire in the hole", "structured_output": "intent=SearchCreativeWork\nslots=object_name:fire in the hole"}
+{"request": "looking for the picture with the name of who made stevie crye", "structured_output": "intent=SearchCreativeWork\nslots=object_type:picture | object_name:who made stevie crye"}
+{"request": "look for the album wolves within", "structured_output": "intent=SearchCreativeWork\nslots=object_type:album | object_name:wolves within"}
+{"request": "find the album orphan girl at the cemetery", "structured_output": "intent=SearchCreativeWork\nslots=object_type:album | object_name:orphan girl at the cemetery"}
+{"request": "please find me the journal of the british astronomical association movie", "structured_output": "intent=SearchCreativeWork\nslots=object_name:journal of the british astronomical association | object_type:movie"}
+{"request": "find the tv show the daydreamer", "structured_output": "intent=SearchCreativeWork\nslots=object_type:tv show | object_name:the daydreamer"}
+{"request": "can you please get me the book dracula 5: the blood legacy", "structured_output": "intent=SearchCreativeWork\nslots=object_type:book | object_name:dracula 5: the blood legacy"}
+{"request": "please look up the novel live to dance", "structured_output": "intent=SearchCreativeWork\nslots=object_type:novel | object_name:live to dance"}
+{"request": "please find me the video game titled 20 hours in america", "structured_output": "intent=SearchCreativeWork\nslots=object_type:video game | object_name:20 hours in america"}
+{"request": "find the creative work the devil in stitches", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the devil in stitches"}
+{"request": "please look up the work prophets", "structured_output": "intent=SearchCreativeWork\nslots=object_name:prophets"}
+{"request": "i m looking for welcome to the canteen", "structured_output": "intent=SearchCreativeWork\nslots=object_name:welcome to the canteen"}
+{"request": "please search for the journal of official statistics show", "structured_output": "intent=SearchCreativeWork\nslots=object_name:journal of official statistics | object_type:show"}
+{"request": "please look up show-biz blues photograph", "structured_output": "intent=SearchCreativeWork\nslots=object_name:show-biz blues | object_type:photograph"}
+{"request": "please search the woodsmen of the west", "structured_output": "intent=SearchCreativeWork\nslots=object_name:woodsmen of the west"}
+{"request": "can you find the creative works associated with caryl & marilyn: real friends", "structured_output": "intent=SearchCreativeWork\nslots=object_name:caryl & marilyn: real friends"}
+{"request": "please get me the dead soul saga", "structured_output": "intent=SearchCreativeWork\nslots=object_name:dead soul | object_type:saga"}
+{"request": "please search the live from leeds album", "structured_output": "intent=SearchCreativeWork\nslots=object_name:live from leeds | object_type:album"}
+{"request": "please look up the johnny english - la rinascita painting", "structured_output": "intent=SearchCreativeWork\nslots=object_name:johnny english - la rinascita | object_type:painting"}
+{"request": "can you find me the sword with no name trailer", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the sword with no name | object_type:trailer"}
+{"request": "i wish to watch the fold trailer please search", "structured_output": "intent=SearchCreativeWork\nslots=object_name:the fold | object_type:trailer"}
+{"request": "can you find me the almost human painting", "structured_output": "intent=SearchCreativeWork\nslots=object_name:almost human | object_type:painting"}
+{"request": "please find me the work serious awesomeness", "structured_output": "intent=SearchCreativeWork\nslots=object_name:serious awesomeness"}
+{"request": "search for the game difficult loves", "structured_output": "intent=SearchCreativeWork\nslots=object_type:game | object_name:difficult loves"}
+{"request": "is babar: king of the elephants playing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:babar: king of the elephants"}
+{"request": "is the ghost playing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the ghost"}
+{"request": "is bartok the magnificent playing at seven am", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:bartok the magnificent | timeRange:seven am"}
+{"request": "what s the movie schedule", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule"}
+{"request": "i want to see jla adventures: trapped in time", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:jla adventures: trapped in time"}
+{"request": "when is the fox and the child playing in this cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the fox and the child | object_location_type:cinema"}
+{"request": "show me the schedule for rat rod rockers", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:rat rod rockers"}
+{"request": "is any which way you can playing in 15 seconds", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:any which way you can | timeRange:in 15 seconds"}
+{"request": "i want to see the portrait of a lady at the nearest cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the portrait of a lady | spatial_relation:nearest | object_location_type:cinema"}
+{"request": "where can i see the prime ministers: the pioneers", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the prime ministers: the pioneers"}
+{"request": "i need to find the movie theatre showing the crooked web closest to me", "structured_output": "intent=SearchScreeningEvent\nslots=object_location_type:movie theatre | movie_name:the crooked web | spatial_relation:closest"}
+{"request": "i want to see while the sun shines at the closest movie house", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:while the sun shines | spatial_relation:closest | object_location_type:movie house"}
+{"request": "i want to see those kids from town when will it be showing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:those kids from town"}
+{"request": "find the schedule for the comedian at santikos theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the comedian | location_name:santikos theatres"}
+{"request": "what are the movie schedules for my favorite theaters", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:theaters"}
+{"request": "what are the movies showing in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the neighbourhood"}
+{"request": "is without witness playing twenty two hours from now", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:without witness | timeRange:twenty two hours from now"}
+{"request": "i need animated movies in the area for dinner time", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:in the area | timeRange:dinner"}
+{"request": "i want to see i dream of jeanie in a movie theatre", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:i dream of jeanie | object_location_type:movie theatre"}
+{"request": "can i see ellis island revisited in 1 minute", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:ellis island revisited | timeRange:in 1 minute"}
+{"request": "i want animated movies at mjr theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | location_name:mjr theatres"}
+{"request": "show me the schedule for the oblong box", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the oblong box"}
+{"request": "i want to know if there are any movies playing in the area", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the area"}
+{"request": "is what a wonderful place showing at cinemark theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:what a wonderful place | location_name:cinemark theatres"}
+{"request": "show the closest movie theatre that shows boycott", "structured_output": "intent=SearchScreeningEvent\nslots=spatial_relation:closest | object_location_type:movie theatre | movie_name:boycott"}
+{"request": "i want to see doa: dead or alive at loews cineplex entertainment", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:doa: dead or alive | location_name:loews cineplex entertainment"}
+{"request": "is the nightmare showing six hours from now at the nearest cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the nightmare | timeRange:six hours from now | spatial_relation:nearest | object_location_type:cinema"}
+{"request": "what is the nearest movie house with window connection playing at lunch", "structured_output": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:movie house | movie_name:window connection | timeRange:lunch"}
+{"request": "is patrick still lives showing at amc theaters", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:patrick still lives | location_name:amc theaters"}
+{"request": "fine the movie schedules for the wanda group", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:wanda group"}
+{"request": "give me the movie schedule nearby", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:nearby"}
+{"request": "find the schedule at the douglas theatre company", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:douglas theatre company"}
+{"request": "show me the movies at harkins theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | location_name:harkins theatres"}
+{"request": "what movies at star theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | location_name:star theatres"}
+{"request": "i want a movie schedule", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule"}
+{"request": "can i get the movie times", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"request": "i want to see medal for the general", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:medal for the general"}
+{"request": "can i get the times for movies in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:times | movie_type:movies | spatial_relation:in the neighbourhood"}
+{"request": "may i have the movie schedules for speakeasy theaters", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:speakeasy theaters"}
+{"request": "find animated movies close by", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:close by"}
+{"request": "is american primitive showing in santikos theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:american primitive | location_name:santikos theatres"}
+{"request": "what are the movie schedules in the neighborhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:in the neighborhood"}
+{"request": "check the schedule for bow tie cinemas", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:bow tie cinemas"}
+{"request": "check the timings for snowbound at the closest movie theatre", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:snowbound | spatial_relation:closest | object_location_type:movie theatre"}
+{"request": "what are the movie times at caribbean cinemas", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times | location_name:caribbean cinemas"}
+{"request": "i need films in the neighborhood", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:in the neighborhood"}
+{"request": "show the movie schedules in the neighborhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:in the neighborhood"}
+{"request": "where s the nearest movie house showing foreign films", "structured_output": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:movie house | movie_type:films"}
+{"request": "what movies are showing now at the closest cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | timeRange:now | spatial_relation:closest | object_location_type:cinema"}
+{"request": "is rumor has it playing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:rumor has it"}
+{"request": "i need a list of speakeasy theaters movie times", "structured_output": "intent=SearchScreeningEvent\nslots=location_name:speakeasy theaters | object_type:movie times"}
+{"request": "when is the outer space connection playing at the nearest cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the outer space connection | spatial_relation:nearest | object_location_type:cinema"}
+{"request": "find the movie times at harkins theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times | location_name:harkins theatres"}
+{"request": "find the films at century theatres", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:films | location_name:century theatres"}
+{"request": "show the animated movies playing in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"request": "i want to see fear chamber", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:fear chamber"}
+{"request": "show me southern theatres movie times", "structured_output": "intent=SearchScreeningEvent\nslots=location_name:southern theatres | object_type:movie times"}
+{"request": "is the unnaturals showing at 13", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the unnaturals | timeRange:13"}
+{"request": "is no time to be young showing at amc theaters", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:no time to be young | location_name:amc theaters"}
+{"request": "find the movie schedules for regal entertainment group", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:regal entertainment group"}
+{"request": "i want to see shattered image", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:shattered image"}
+{"request": "find the schedule at star theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:star theatres"}
+{"request": "will i think i do be playing at 7 pm", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:i think i do | timeRange:7 pm"}
+{"request": "show me the schedule for arclight hollywood for only animated movies", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | location_name:arclight hollywood | movie_type:animated movies"}
+{"request": "find the schedule for great mail robbery", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:great mail robbery"}
+{"request": "give me the movies in the neighborhood", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:in the neighborhood"}
+{"request": "what movies are playing close by", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:movies | spatial_relation:close by"}
+{"request": "is the two gladiators playing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the two gladiators"}
+{"request": "what s the movie schedule for great escape theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:great escape theatres"}
+{"request": "find the movie schedule close by", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:close by"}
+{"request": "i want to see outcast", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:outcast"}
+{"request": "show me the schedule of movie the great gildersleeve near movie house", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:schedule | movie_name:the great gildersleeve | object_location_type:movie house"}
+{"request": "i need times for a yiddish world remembered at dipson theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:a yiddish world remembered | location_name:dipson theatres"}
+{"request": "find the movie schedules at goodrich quality theaters", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | location_name:goodrich quality theaters"}
+{"request": "show me the movie schedule in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:in the neighbourhood"}
+{"request": "show me the movie times for films nearby", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:films | spatial_relation:nearby"}
+{"request": "show the movie times for animated movies in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"request": "is the eye – infinity playing at general cinema corporation", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:the eye – infinity | location_name:general cinema corporation"}
+{"request": "can you check the timings for super sweet 16: the movie", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:super sweet 16: the movie"}
+{"request": "is we are northern lights playing in any movie theatre", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:we are northern lights | object_location_type:movie theatre"}
+{"request": "what times will the young swordsman be showing at my cinema", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:the young swordsman | object_location_type:cinema"}
+{"request": "show the sexy dance 2 times at the closest movie house", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:sexy dance 2 | object_type:times | spatial_relation:closest | object_location_type:movie house"}
+{"request": "what are some close by animated movies showing", "structured_output": "intent=SearchScreeningEvent\nslots=spatial_relation:close by | movie_type:animated movies"}
+{"request": "movie schedules close by for animated movies", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules | spatial_relation:close by | movie_type:animated movies"}
+{"request": "what films are playing close by", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:close by"}
+{"request": "find the movie schedule in the area", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | spatial_relation:in the area"}
+{"request": "is cowboy canteen playing", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:cowboy canteen"}
+{"request": "is rare birds showing at the nearest movie theatre at noon", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:rare birds | spatial_relation:nearest | object_location_type:movie theatre | timeRange:noon"}
+{"request": "what are the movie times", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"request": "where can i find the movie schedules", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedules"}
+{"request": "find the movie schedule for north american cinemas in eleven seconds", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:north american cinemas | timeRange:in eleven seconds"}
+{"request": "find the nearest cinema with movies playing", "structured_output": "intent=SearchScreeningEvent\nslots=spatial_relation:nearest | object_location_type:cinema | movie_type:movies"}
+{"request": "what are the movie times", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times"}
+{"request": "what are the times for the gingerbread man", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:the gingerbread man"}
+{"request": "what films are playing close by", "structured_output": "intent=SearchScreeningEvent\nslots=movie_type:films | spatial_relation:close by"}
+{"request": "is any cinema playing the spirit of youth", "structured_output": "intent=SearchScreeningEvent\nslots=object_location_type:cinema | movie_name:the spirit of youth"}
+{"request": "what are the movie times for animated movies in the neighbourhood", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie times | movie_type:animated movies | spatial_relation:in the neighbourhood"}
+{"request": "what s the movie schedule at great escape theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:movie schedule | location_name:great escape theatres"}
+{"request": "show the times for cheers for miss bishop at dipson theatres", "structured_output": "intent=SearchScreeningEvent\nslots=object_type:times | movie_name:cheers for miss bishop | location_name:dipson theatres"}
+{"request": "i want to see married to the enemy 2 at a cinema", "structured_output": "intent=SearchScreeningEvent\nslots=movie_name:married to the enemy 2 | object_location_type:cinema"}
