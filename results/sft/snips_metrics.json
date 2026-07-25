@@ -1,0 +1,17 @@
+{
+  "num_examples": 700,
+  "missing_predictions": 0,
+  "format_valid_pct": 96.42857142857143,
+  "intent_accuracy": 59.0,
+  "slot_precision": 13.78299120234604,
+  "slot_recall": 10.479375696767,
+  "slot_f1": 11.906269791006967,
+  "exact_match": 0.7142857142857143,
+  "format_valid_count": 675,
+  "intent_correct_count": 413,
+  "exact_match_count": 5,
+  "slot_tp": 188,
+  "slot_predicted": 1364,
+  "slot_gold": 1794,
+  "format": "json"
+}
