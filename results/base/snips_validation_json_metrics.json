@@ -2,16 +2,16 @@
   "num_examples": 700,
   "missing_predictions": 0,
   "format_valid_pct": 84.28571428571429,
-  "intent_accuracy": 39.714285714285715,
-  "slot_precision": 8.132530120481928,
-  "slot_recall": 4.51505016722408,
-  "slot_f1": 5.806451612903226,
+  "intent_accuracy": 39.85714285714286,
+  "slot_precision": 8.266932270916334,
+  "slot_recall": 4.626532887402453,
+  "slot_f1": 5.9328091493924235,
   "exact_match": 0.4285714285714286,
   "format_valid_count": 590,
-  "intent_correct_count": 278,
+  "intent_correct_count": 279,
   "exact_match_count": 3,
-  "slot_tp": 81,
-  "slot_predicted": 996,
+  "slot_tp": 83,
+  "slot_predicted": 1004,
   "slot_gold": 1794,
   "format": "json",
   "metadata": {
@@ -24,7 +24,7 @@
     "do_sample": false,
     "seed": 455,
     "batch_size": 1,
-    "device": "mps"
+    "device": "cuda"
   },
   "token_length_stats": {
     "num_examples": 700,
